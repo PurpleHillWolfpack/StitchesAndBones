@@ -1,0 +1,1256 @@
+﻿Log file open, 11/18/17 12:17:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1402053804) SRandInit(-1402053804).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.444776
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.18-12.17.07:717][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-12.17.07:717][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.18-12.17.07:749][  0]LogInit: Computer: MSI
+[2017.11.18-12.17.07:749][  0]LogInit: User: Stumps
+[2017.11.18-12.17.07:749][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.18-12.17.07:749][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2017.11.18-12.17.07:749][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2017.11.18-12.17.07:749][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.18-12.17.07:749][  0]LogMemory: Process Physical Memory: 278.07 MB used, 278.07 MB peak
+[2017.11.18-12.17.07:749][  0]LogMemory: Process Virtual Memory: 274.46 MB used, 274.46 MB peak
+[2017.11.18-12.17.07:749][  0]LogMemory: Physical Memory: 13112.88 MB used,  19612.45 MB free, 32725.33 MB total
+[2017.11.18-12.17.07:749][  0]LogMemory: Virtual Memory: 668.92 MB used,  19612.45 MB free, 134217728.00 MB total
+[2017.11.18-12.17.08:072][  0]LogInit: Using OS detected language (en-US).
+[2017.11.18-12.17.08:072][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.18-12.17.08:115][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.18-12.17.10:697][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.18-12.17.10:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.11.18-12.17.10:732][  0]LogD3D11RHI:       8076/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.18-12.17.10:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.18-12.17.10:733][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.18-12.17.10:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.18-12.17.10:738][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.18-12.17.10:738][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.18-12.17.10:738][  0]LogWindows: EnumDisplayDevices:
+[2017.11.18-12.17.10:738][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.11.18-12.17.10:738][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.11.18-12.17.10:738][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.11.18-12.17.10:738][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.11.18-12.17.10:738][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.18-12.17.10:738][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.11.18-12.17.10:738][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2017.11.18-12.17.10:738][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2017.11.18-12.17.10:738][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.18-12.17.10:759][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.18-12.17.10:776][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.18-12.17.10:825][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Intermediate/Shaders/WorkingDirectory/9024/).
+[2017.11.18-12.17.10:825][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stumps/AppData/Local/Temp/UnrealShaderWorkingDir/837DBD97483BCC1037E1D688DB4CF677/'.
+[2017.11.18-12.17.10:825][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.18-12.17.12:687][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.18-12.17.12:734][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.18-12.17.12:782][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.18-12.17.12:829][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.18-12.17.12:882][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.18-12.17.12:929][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.18-12.17.12:977][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.18-12.17.13:024][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.18-12.17.13:067][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.18-12.17.13:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.18-12.17.13:166][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.18-12.17.13:212][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.18-12.17.13:259][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.18-12.17.13:305][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.18-12.17.13:352][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.18-12.17.13:445][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.18-12.17.13:445][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.18-12.17.13:480][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.18-12.17.13:576][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.18-12.17.13:604][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.18-12.17.13:650][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.18-12.17.13:696][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.18-12.17.13:742][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.18-12.17.13:791][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.18-12.17.13:791][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.18-12.17.14:310][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.18-12.17.14:430][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/Stumps/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.18-12.17.14:430][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stumps/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.18-12.17.14:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.18-12.17.14:430][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.18-12.17.14:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.18-12.17.14:430][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.18-12.17.14:455][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.18-12.17.14:466][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stumps/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.18-12.17.14:477][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.18-12.17.14:479][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.18-12.17.14:489][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-12.17.14:489][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-12.17.15:041][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2017.11.18-12.17.15:170][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-12.17.15:495][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.18-12.17.15:812][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.18-12.17.15:849][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.18-12.17.15:849][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.18-12.17.15:849][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.18-12.17.15:849][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.18-12.17.15:849][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.18-12.17.16:481][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2017.11.18-12.17.16:900][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.055498 seconds
+[2017.11.18-12.17.16:906][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.18-12.17.16:906][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.18-12.17.16:906][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.18-12.17.16:962][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.18-12.17.21:058][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.18-12.17.21:094][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.18-12.17.21:768][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.18-12.17.22:230][  0]SourceControl: Source control is disabled
+[2017.11.18-12.17.22:230][  0]SourceControl: Source control is disabled
+[2017.11.18-12.17.22:276][  0]SourceControl: Source control is disabled
+[2017.11.18-12.17.22:319][  0]SourceControl: Source control is disabled
+[2017.11.18-12.17.22:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.18-12.17.23:087][  0]LogOcInput: OculusInput pre-init called
+[2017.11.18-12.17.23:344][  0]LogEngine: Initializing Engine...
+[2017.11.18-12.17.23:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.18-12.17.23:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.18-12.17.23:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.18-12.17.23:808][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.18-12.17.23:818][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-12.17.23:843][  0]LogInit: FAudioDevice initialized.
+[2017.11.18-12.17.23:888][  0]LogDerivedDataCache: Saved boot cache 0.05s 93MB C:/Users/Stumps/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.18-12.17.23:901][  0]LogInit: Texture streaming: Enabled
+[2017.11.18-12.17.24:006][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.18-12.17.24:227][  0]LogInit: Transaction tracking system initialized
+[2017.11.18-12.17.24:513][  0]BlueprintLog: New page: Editor Load
+[2017.11.18-12.17.25:364][  0]LocalizationService: Localization service is disabled
+[2017.11.18-12.17.26:151][  0]LogConsoleResponse: Display: 
+[2017.11.18-12.17.26:525][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.18-12.17.26:526][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.18-12.17.26:526][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.18-12.17.26:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/' took 0.02s
+[2017.11.18-12.17.27:538][  0]SourceControl: Source control is disabled
+[2017.11.18-12.17.27:539][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.17.27:544][  0]LightingResults: New page: Lighting Build
+[2017.11.18-12.17.27:581][  0]MapCheck: New page: Map Check
+[2017.11.18-12.17.27:581][  0]LightingResults: New page: Lighting Build
+[2017.11.18-12.17.28:923][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.18-12.17.28:941][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.17.28:954][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.17.29:000][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.555ms to complete.
+[2017.11.18-12.17.29:000][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.462
+[2017.11.18-12.17.29:181][  0]LogCollectionManager: Loaded 0 collections in 0.001470 seconds
+[2017.11.18-12.17.29:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/Collections/' took 0.01s
+[2017.11.18-12.17.29:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/Developers/Stumps/Collections/' took 0.01s
+[2017.11.18-12.17.29:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/Collections/' took 0.01s
+[2017.11.18-12.17.29:261][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.18-12.17.29:272][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2386 classes and 500 folders.
+[2017.11.18-12.17.29:331][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.18-12.17.29:626][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.18-12.17.29:667][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.18-12.17.29:783][  0]LogSlate: Took 0.005154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.18-12.17.29:789][  0]LogSlate: Took 0.003890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.18-12.17.29:799][  0]LogSlate: Took 0.004398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.18-12.17.29:957][  0]LogRenderer: Reallocating scene render targets to support 1244x596 Format 10 NumSamples 1 (Frame:1).
+[2017.11.18-12.17.30:033][  0]LogSlate: Took 0.005133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-12.17.30:155][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.18-12.17.30:155][  0]LogLoad: (Engine Initialization) Total time: 25.25 seconds
+[2017.11.18-12.17.30:155][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.18-12.17.30:156][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.18-12.17.30:193][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.18-12.17.30:252][  1]LogAssetRegistry: Asset discovery search completed in 15.2333 seconds
+[2017.11.18-12.17.30:254][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.18-12.17.30:254][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2017.11.18-12.17.38:417][453]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-12.17.42:408][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.18-12.17.42:426][453]LogSavePackage: Save=9.05ms
+[2017.11.18-12.17.42:426][453]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/NewWorld235DE27E4BDB7FAFD17AA5824A2FA948.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap'
+[2017.11.18-12.17.42:431][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap
+[2017.11.18-12.17.42:432][453]LogFileHelpers: Saving map 'NewWorld' took 0.074
+[2017.11.18-12.17.42:434][453]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.17.42:434][453]LightingResults: New page: Lighting Build
+[2017.11.18-12.17.42:435][453]LoadErrors: New page: Loading map: NewWorld.umap
+[2017.11.18-12.17.42:436][453]MapCheck: New page: Map Check
+[2017.11.18-12.17.42:436][453]LightingResults: New page: Lighting Build
+[2017.11.18-12.17.42:486][453]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.17.42:486][453]LogAIModule: Creating AISystem for world NewWorld
+[2017.11.18-12.17.42:496][453]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.18-12.17.42:533][453]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.17.42:581][453]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.118ms to complete.
+[2017.11.18-12.17.42:581][453]LogFileHelpers: Loading map 'NewWorld' took 0.148
+[2017.11.18-12.17.51:253][963]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.18-12.17.51:266][963]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/StitchesAndBones.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.17.51:266][963]LightingResults: New page: Lighting Build
+[2017.11.18-12.17.51:267][963]LoadErrors: New page: Loading map: StitchesAndBones.umap
+[2017.11.18-12.17.51:267][963]MapCheck: New page: Map Check
+[2017.11.18-12.17.51:267][963]LightingResults: New page: Lighting Build
+[2017.11.18-12.17.51:356][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.17.51:398][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.17.51:447][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.511ms to complete.
+[2017.11.18-12.17.51:447][963]LogFileHelpers: Loading map 'StitchesAndBones' took 0.182
+[2017.11.18-12.18.09:459][929]Cmd: EDIT COPY
+[2017.11.18-12.18.11:877][ 61]LogAIModule: Creating AISystem for world NewWorld
+[2017.11.18-12.18.11:888][ 61]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.18.11:888][ 61]LightingResults: New page: Lighting Build
+[2017.11.18-12.18.11:888][ 61]LoadErrors: New page: Loading map: NewWorld.umap
+[2017.11.18-12.18.11:890][ 61]MapCheck: New page: Map Check
+[2017.11.18-12.18.11:890][ 61]LightingResults: New page: Lighting Build
+[2017.11.18-12.18.11:958][ 61]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.18.12:006][ 61]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.18.12:058][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.287ms to complete.
+[2017.11.18-12.18.12:058][ 61]LogFileHelpers: Loading map 'NewWorld' took 0.171
+[2017.11.18-12.18.14:531][203]LogEditorViewport: Clicking Background
+[2017.11.18-12.18.14:747][216]Cmd: EDIT PASTE
+[2017.11.18-12.18.17:675][390]LogEditorViewport: Clicking Background
+[2017.11.18-12.18.24:611][793]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.18-12.18.25:780][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.18-12.18.25:820][793]LogSavePackage: Save=17.63ms
+[2017.11.18-12.18.25:820][793]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/NewWorld515263994ACFF25CC5301282A86425B1.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap'
+[2017.11.18-12.18.25:825][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap
+[2017.11.18-12.18.25:867][793]LogFileHelpers: Saving map 'NewWorld' took 0.138
+[2017.11.18-12.18.25:868][793]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/StitchesAndBones.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.18.25:868][793]LightingResults: New page: Lighting Build
+[2017.11.18-12.18.25:869][793]LoadErrors: New page: Loading map: StitchesAndBones.umap
+[2017.11.18-12.18.25:869][793]MapCheck: New page: Map Check
+[2017.11.18-12.18.25:869][793]LightingResults: New page: Lighting Build
+[2017.11.18-12.18.25:996][793]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.18.26:042][793]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.18.26:096][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.962ms to complete.
+[2017.11.18-12.18.26:096][793]LogFileHelpers: Loading map 'StitchesAndBones' took 0.230
+[2017.11.18-12.18.43:212][690]Cmd: EDIT COPY
+[2017.11.18-12.18.45:177][796]LogAIModule: Creating AISystem for world NewWorld
+[2017.11.18-12.18.45:189][796]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.18.45:190][796]LightingResults: New page: Lighting Build
+[2017.11.18-12.18.45:190][796]LoadErrors: New page: Loading map: NewWorld.umap
+[2017.11.18-12.18.45:192][796]MapCheck: New page: Map Check
+[2017.11.18-12.18.45:192][796]LightingResults: New page: Lighting Build
+[2017.11.18-12.18.45:286][796]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.18.45:332][796]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.18.45:382][796]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.644ms to complete.
+[2017.11.18-12.18.45:383][796]LogFileHelpers: Loading map 'NewWorld' took 0.195
+[2017.11.18-12.18.45:977][827]LogEditorViewport: Clicking Background
+[2017.11.18-12.18.46:177][839]Cmd: EDIT PASTE
+[2017.11.18-12.18.59:852][648]LogActorFactory: Actor Factory created Cube
+[2017.11.18-12.19.00:487][686]LogActorFactory: Actor Factory created Cube
+[2017.11.18-12.19.07:651][101]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.11.18-12.19.10:024][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.18-12.19.16:388][597]MapCheck: New page: Map Check
+[2017.11.18-12.19.16:406][597]LightingResults: New page: Lighting Build - 18 Nov 2017 12:19:16
+[2017.11.18-12.19.16:459][597]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.18-12.19.16:506][597]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.18-12.19.16:519][597]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.18-12.19.17:037][597]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.18-12.19.17:037][597]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9024
+[2017.11.18-12.19.19:322][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.18-12.19.19:322][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.18-12.19.19:322][597]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.18-12.19.19:322][597]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.18-12.19.19:322][597]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.18-12.19.19:528][597]LogEditorBuildUtils: Build time 0:03
+[2017.11.18-12.19.20:725][644]Job is a success!
+[2017.11.18-12.19.20:814][645]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2017.11.18-12.19.20:814][645]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2017.11.18-12.19.20:814][645]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2017.11.18-12.19.20:814][645]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.18-12.19.20:814][645]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.18-12.19.20:814][645]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.18-12.19.20:855][645]Lightmass on MSI: 706 ms total, 125 ms importing, 26 ms setup, 267 ms photons, 262 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 1.67 sec total, 115 ms processing.
+[2017.11.18-12.19.20:889][645]LogStaticLightingSystem: Illumination: 4.46 sec (8 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.11.18-12.19.20:889][645]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.18-12.19.20:889][645]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.18-12.19.21:324][645]DumpUnbuiltLightIteractions
+[2017.11.18-12.19.21:324][645]Lights with unbuilt interactions: 0
+[2017.11.18-12.19.21:324][645]
+[2017.11.18-12.19.21:324][645]Primitives with unbuilt interactions: 0
+[2017.11.18-12.19.21:348][646]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.18-12.19.21:348][646]MapCheck: New page: NewWorld - 18 Nov 2017 12:19:21
+[2017.11.18-12.19.21:399][646]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.475ms to complete.
+[2017.11.18-12.19.35:031][409]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.18-12.19.35:286][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.18-12.19.36:326][484]LogTemp: Repeating last play command: Simulate
+[2017.11.18-12.19.36:379][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-12.19.36:380][484]PIE: New page: SIE session: NewWorld (18 Nov 2017 12:19:36)
+[2017.11.18-12.19.36:380][484]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewWorld
+[2017.11.18-12.19.36:381][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001523s)
+[2017.11.18-12.19.36:382][484]LogAIModule: Creating AISystem for world NewWorld
+[2017.11.18-12.19.36:382][484]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2017.11.18-12.19.36:382][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld.NewWorld to /Game/UEDPIE_0_NewWorld.NewWorld (0.002364s)
+[2017.11.18-12.19.36:395][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-12.19.36:420][484]LogInit: FAudioDevice initialized.
+[2017.11.18-12.19.36:479][484]LogLoad: Game class is 'MyGame_C'
+[2017.11.18-12.19.36:483][484]LogWorld: Bringing World /Game/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2017.11.18-12.19.36
+[2017.11.18-12.19.36:483][484]LogWorld: Bringing up level for play took: 0.001257
+[2017.11.18-12.19.36:524][484]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.11.18-12.19.36:525][484]PIE: Play in editor start time for /Game/UEDPIE_0_NewWorld -0.036
+[2017.11.18-12.19.39:988][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-12.19.39:988][649]PIE: New page: PIE session: NewWorld (18 Nov 2017 12:19:39)
+[2017.11.18-12.19.39:988][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewWorld
+[2017.11.18-12.19.39:990][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2017.11.18-12.19.39:990][649]LogAIModule: Creating AISystem for world NewWorld
+[2017.11.18-12.19.39:990][649]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2017.11.18-12.19.39:991][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld.NewWorld to /Game/UEDPIE_0_NewWorld.NewWorld (0.002326s)
+[2017.11.18-12.19.40:003][649]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-12.19.40:024][649]LogInit: FAudioDevice initialized.
+[2017.11.18-12.19.40:056][649]LogLoad: Game class is 'MyGame_C'
+[2017.11.18-12.19.40:057][649]LogWorld: Bringing World /Game/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2017.11.18-12.19.40
+[2017.11.18-12.19.40:057][649]LogWorld: Bringing up level for play took: 0.000851
+[2017.11.18-12.19.40:064][649]PIE: Play in editor start time for /Game/UEDPIE_0_NewWorld -0.497
+[2017.11.18-12.20.01:578][927]LogActorFactory: Actor Factory created Cylinder
+[2017.11.18-12.20.02:510][983]LogActorFactory: Actor Factory created Cylinder
+[2017.11.18-12.20.05:139][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.18-12.20.06:135][193]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-12.20.12:651][512]LogRenderer: Reallocating scene render targets to support 1432x932 Format 10 NumSamples 1 (Frame:1).
+[2017.11.18-12.20.22:558][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.18-12.20.38:993][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.18-12.20.42:082][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.18-12.20.44:112][190]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.18-12.20.45:464][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.18-12.20.45:510][190]LogSavePackage: Save=29.03ms
+[2017.11.18-12.20.45:510][190]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/NewWorldC5119A8A4CB98A4296EF959F05DC1608.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap'
+[2017.11.18-12.20.45:514][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld.umap
+[2017.11.18-12.20.45:549][190]LogFileHelpers: Saving map 'NewWorld' took 0.146
+[2017.11.18-12.20.45:550][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld_BuiltData" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld_BuiltData.uasset" SILENT=true
+[2017.11.18-12.20.45:565][190]LogSavePackage: Save=13.37ms
+[2017.11.18-12.20.45:565][190]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/NewWorld_BuiltData0D1673B04647CBC83BA0BBAEA74C83A5.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld_BuiltData.uasset'
+[2017.11.18-12.20.45:568][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/NewWorld_BuiltData.uasset
+[2017.11.18-12.20.45:569][190]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/StitchesAndBones.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-12.20.45:569][190]LightingResults: New page: Lighting Build
+[2017.11.18-12.20.45:570][190]LoadErrors: New page: Loading map: StitchesAndBones.umap
+[2017.11.18-12.20.45:570][190]MapCheck: New page: Map Check
+[2017.11.18-12.20.45:570][190]LightingResults: New page: Lighting Build
+[2017.11.18-12.20.45:740][190]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-12.20.45:788][190]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-12.20.45:841][190]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.839ms to complete.
+[2017.11.18-12.20.45:842][190]LogFileHelpers: Loading map 'StitchesAndBones' took 0.274
+[2017.11.18-12.22.09:090][ 52]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/Geometry/Meshes/1M_Cube.uasset
+[2017.11.18-12.22.09:110][ 52]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/Geometry/Meshes/CubeMaterial.uasset
+[2017.11.18-12.22.09:115][ 52]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/TemplateFloor.uasset to ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/Geometry/Meshes/TemplateFloor.uasset
+[2017.11.18-12.22.09:431][ 52]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/TP_TopDownBP.upack)
+[2017.11.18-12.22.09:493][ 52]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.18-12.22.09:503][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/TopDownOverview.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/TopDownOverview.uasset"
+[2017.11.18-12.22.09:513][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset"
+[2017.11.18-12.22.09:523][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Blueprints/TopDownCharacter.uasset"
+[2017.11.18-12.22.09:534][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/TopDownController.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Blueprints/TopDownController.uasset"
+[2017.11.18-12.22.09:542][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Blueprints/TopDownGameMode.uasset"
+[2017.11.18-12.22.09:547][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Character/TopDownIdleRun.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Character/TopDownIdleRun.uasset"
+[2017.11.18-12.22.09:552][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Character/TopDownSkeletalMesh.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Character/TopDownSkeletalMesh.uasset"
+[2017.11.18-12.22.09:569][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Maps/TopDownExampleMap.umap" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Maps/TopDownExampleMap.umap"
+[2017.11.18-12.22.09:579][ 52]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" to "../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset"
+[2017.11.18-12.22.09:602][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/TopDownOverview" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/TopDownOverview.uasset" SILENT=true
+[2017.11.18-12.22.09:628][ 52]LogSavePackage: Save=12.15ms
+[2017.11.18-12.22.09:628][ 52]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/TopDownOverviewC6F2BC084C5124E8168ED4B2B696A9F7.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/TopDownOverview.uasset'
+[2017.11.18-12.22.09:633][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/TopDownBP/TopDownOverview.uasset
+[2017.11.18-12.22.56:625][785]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.11.18-12.22.57:413][785]LogSlate: Took 0.005603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.18-12.22.57:599][786]LogSlate: Took 0.004813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.18-12.24.21:964][565]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.18-12.24.22:061][565]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.18-12.24.33:696][  9]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.18-12.24.33:699][  9]LogStaticMesh: Building static mesh Ground...
+[2017.11.18-12.24.33:703][  9]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Ground.Ground
+[2017.11.18-12.24.33:707][  9]LogMaterial: Missing cached shader map for material GroundTex, compiling. 
+[2017.11.18-12.24.33:778][  9]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.11.18-12.24.33:778][  9]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.11.18-12.24.33:778][  9]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.11.18-12.24.33:783][  9]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0448.88] Compile of ThirdPersonCharacter successful, but with 3 Warning(s) [in 10 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.11.18-12.24.33:900][  9]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.18-12.24.33:933][  9]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.18-12.24.33:933][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.18-12.24.34:703][  9]LogTexture: Display: Building textures: T_Fire_Tiled_D (AutoDXT, 512X512)
+[2017.11.18-12.24.35:251][  9]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.11.18-12.24.35:539][  9]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.18-12.24.37:006][  9]LogAIModule: Creating AISystem for world StarterMap
+[2017.11.18-12.25.20:832][  9]LogStaticMesh: Building static mesh SM_Lamp_Wall...
+[2017.11.18-12.25.20:839][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2017.11.18-12.25.20:843][  9]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (2 / 2)
+[2017.11.18-12.25.20:847][  9]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2017.11.18-12.25.20:856][  9]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2017.11.18-12.25.20:857][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Spark.M_Spark for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:857][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:880][  9]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2017.11.18-12.25.20:881][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:881][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:883][  9]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.11.18-12.25.20:883][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:883][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:883][  9]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.11.18-12.25.20:885][  9]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.11.18-12.25.20:885][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:885][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:885][  9]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.11.18-12.25.20:894][  9]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.11.18-12.25.20:894][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:894][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:894][  9]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.11.18-12.25.20:896][  9]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.11.18-12.25.20:897][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:897][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:897][  9]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.11.18-12.25.20:899][  9]LogMaterial: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2017.11.18-12.25.20:899][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:899][  9]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.11.18-12.25.20:901][  9]LogMaterial: Missing cached shader map for material M_Burst, compiling. 
+[2017.11.18-12.25.20:901][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Burst.M_Burst for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:901][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:902][  9]LogStaticMesh: Building static mesh SM_Lamp_Ceiling...
+[2017.11.18-12.25.20:919][  9]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2017.11.18-12.25.20:927][  9]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2017.11.18-12.25.20:927][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Lamp.M_Lamp for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:927][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:929][  9]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2017.11.18-12.25.20:930][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Lamp.M_Lamp for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.20:930][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.20:930][  9]LogStaticMesh: Building static mesh Wall_Window_400x400...
+[2017.11.18-12.25.20:932][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+[2017.11.18-12.25.20:933][  9]LogStaticMesh: Building static mesh Wall_Window_400x300...
+[2017.11.18-12.25.20:934][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2017.11.18-12.25.20:936][  9]LogStaticMesh: Building static mesh Wall_Door_400x400...
+[2017.11.18-12.25.20:936][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2017.11.18-12.25.20:937][  9]LogStaticMesh: Building static mesh Wall_Door_400x300...
+[2017.11.18-12.25.20:938][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2017.11.18-12.25.20:944][  9]LogStaticMesh: Building static mesh Wall_500x500...
+[2017.11.18-12.25.20:945][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+[2017.11.18-12.25.20:952][  9]LogStaticMesh: Building static mesh Wall_400x400...
+[2017.11.18-12.25.20:953][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2017.11.18-12.25.20:961][  9]LogStaticMesh: Building static mesh Wall_400x300...
+[2017.11.18-12.25.20:961][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2017.11.18-12.25.20:969][  9]LogStaticMesh: Building static mesh Wall_400x200...
+[2017.11.18-12.25.20:969][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2017.11.18-12.25.20:978][  9]LogStaticMesh: Building static mesh SM_AssetPlatform...
+[2017.11.18-12.25.21:010][  9]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2017.11.18-12.25.21:018][  9]LogStaticMesh: Building static mesh Pillar_50x500...
+[2017.11.18-12.25.21:019][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2017.11.18-12.25.21:056][  9]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2017.11.18-12.25.21:056][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Brushed_Nickel.M_Metal_Brushed_Nickel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:056][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:059][  9]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.18-12.25.21:059][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:059][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:062][  9]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.18-12.25.21:062][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:062][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:064][  9]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.18-12.25.21:065][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:065][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:068][  9]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.18-12.25.21:068][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:068][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:070][  9]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.18-12.25.21:070][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:070][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:073][  9]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.18-12.25.21:073][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:073][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:075][  9]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.18-12.25.21:076][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:076][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:078][  9]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.18-12.25.21:078][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:078][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:081][  9]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.18-12.25.21:081][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:081][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:084][  9]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.18-12.25.21:084][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:084][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:085][  9]LogStaticMesh: Building static mesh SM_Chair...
+[2017.11.18-12.25.21:097][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2017.11.18-12.25.21:103][  9]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.18-12.25.21:104][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Statue.M_Statue for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:104][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:106][  9]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.18-12.25.21:107][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Statue.M_Statue for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:107][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:108][  9]LogStaticMesh: Building static mesh SM_Statue...
+[2017.11.18-12.25.21:136][  9]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2017.11.18-12.25.21:156][  9]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.18-12.25.21:157][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:157][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:159][  9]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.18-12.25.21:160][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:160][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:160][  9]LogStaticMesh: Building static mesh SM_TableRound...
+[2017.11.18-12.25.21:194][  9]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2017.11.18-12.25.21:219][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.11.18-12.25.21:219][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Beveled.M_Brick_Clay_Beveled for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:219][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:221][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.11.18-12.25.21:222][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Beveled.M_Brick_Clay_Beveled for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:222][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:224][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.11.18-12.25.21:224][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Beveled.M_Brick_Clay_Beveled for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:224][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:226][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.11.18-12.25.21:227][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Beveled.M_Brick_Clay_Beveled for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:227][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:229][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.18-12.25.21:230][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:230][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:232][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.18-12.25.21:232][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:232][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:235][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.18-12.25.21:235][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:235][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:237][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.18-12.25.21:237][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:238][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:240][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.18-12.25.21:240][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:240][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:242][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2017.11.18-12.25.21:243][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:243][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:245][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2017.11.18-12.25.21:245][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:245][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:248][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2017.11.18-12.25.21:248][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:248][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:251][  9]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2017.11.18-12.25.21:251][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:251][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:254][  9]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2017.11.18-12.25.21:254][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:254][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:256][  9]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2017.11.18-12.25.21:257][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:257][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:259][  9]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2017.11.18-12.25.21:259][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:259][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:261][  9]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2017.11.18-12.25.21:262][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:262][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:264][  9]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.11.18-12.25.21:265][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:265][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:267][  9]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.11.18-12.25.21:267][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:267][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:269][  9]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.11.18-12.25.21:270][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:270][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:272][  9]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.11.18-12.25.21:272][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:272][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:274][  9]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.11.18-12.25.21:275][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:275][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:277][  9]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2017.11.18-12.25.21:277][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:277][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:280][  9]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2017.11.18-12.25.21:280][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:280][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:282][  9]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2017.11.18-12.25.21:283][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:283][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:285][  9]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2017.11.18-12.25.21:286][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:286][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:288][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2017.11.18-12.25.21:288][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:288][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:291][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2017.11.18-12.25.21:291][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:291][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:293][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2017.11.18-12.25.21:294][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:294][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:296][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2017.11.18-12.25.21:296][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:296][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:299][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2017.11.18-12.25.21:300][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:300][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:300][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:303][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2017.11.18-12.25.21:304][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:304][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:304][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:307][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2017.11.18-12.25.21:309][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:309][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:309][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:311][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2017.11.18-12.25.21:313][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:313][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:313][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:316][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.18-12.25.21:317][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:317][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:317][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:320][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.18-12.25.21:321][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:321][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:321][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:323][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.18-12.25.21:325][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:325][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:325][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:327][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.18-12.25.21:328][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:328][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:328][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:331][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.18-12.25.21:332][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:332][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:332][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:334][  9]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.18-12.25.21:335][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:335][  9]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.18-12.25.21:335][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:339][  9]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.11.18-12.25.21:339][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:339][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:341][  9]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.11.18-12.25.21:342][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:342][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:344][  9]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.11.18-12.25.21:344][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:344][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:346][  9]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.11.18-12.25.21:347][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:347][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:349][  9]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2017.11.18-12.25.21:350][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:350][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:352][  9]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2017.11.18-12.25.21:352][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:353][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:355][  9]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2017.11.18-12.25.21:355][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:355][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:357][  9]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2017.11.18-12.25.21:358][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:358][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:360][  9]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2017.11.18-12.25.21:361][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:361][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:363][  9]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2017.11.18-12.25.21:363][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:363][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:365][  9]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2017.11.18-12.25.21:366][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:366][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:368][  9]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2017.11.18-12.25.21:368][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:368][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:371][  9]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.11.18-12.25.21:371][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:371][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:373][  9]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.11.18-12.25.21:374][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:374][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:376][  9]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.11.18-12.25.21:377][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:377][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:379][  9]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.11.18-12.25.21:379][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:379][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:381][  9]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.11.18-12.25.21:382][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:382][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:384][  9]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2017.11.18-12.25.21:385][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:385][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:387][  9]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2017.11.18-12.25.21:387][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:387][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:389][  9]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2017.11.18-12.25.21:390][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:390][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:392][  9]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2017.11.18-12.25.21:392][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:392][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:395][  9]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.11.18-12.25.21:395][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:395][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:397][  9]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.11.18-12.25.21:398][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:398][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:400][  9]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.11.18-12.25.21:400][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:400][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:403][  9]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.11.18-12.25.21:403][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:403][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:406][  9]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2017.11.18-12.25.21:407][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:407][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:409][  9]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2017.11.18-12.25.21:410][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:410][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:413][  9]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2017.11.18-12.25.21:413][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:413][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:416][  9]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2017.11.18-12.25.21:416][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:416][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:419][  9]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2017.11.18-12.25.21:419][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:419][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:422][  9]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.11.18-12.25.21:422][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:422][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:424][  9]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.11.18-12.25.21:425][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:425][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:427][  9]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.11.18-12.25.21:427][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:427][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:430][  9]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.11.18-12.25.21:430][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:431][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:433][  9]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.11.18-12.25.21:433][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:433][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:435][  9]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.11.18-12.25.21:436][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:436][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:438][  9]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.11.18-12.25.21:439][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:439][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:441][  9]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.11.18-12.25.21:441][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:441][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:444][  9]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.11.18-12.25.21:444][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:444][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:447][  9]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.11.18-12.25.21:447][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:447][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:450][  9]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.11.18-12.25.21:451][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:451][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:453][  9]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.11.18-12.25.21:453][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:453][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:456][  9]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.11.18-12.25.21:456][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:456][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:459][  9]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2017.11.18-12.25.21:459][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:459][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:461][  9]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2017.11.18-12.25.21:462][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:462][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:464][  9]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2017.11.18-12.25.21:464][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:464][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:467][  9]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.11.18-12.25.21:467][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:467][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:470][  9]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.11.18-12.25.21:470][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:470][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:472][  9]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.11.18-12.25.21:473][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:473][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:475][  9]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.11.18-12.25.21:475][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:475][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:478][  9]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.11.18-12.25.21:478][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:478][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:480][  9]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.11.18-12.25.21:481][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:481][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:483][  9]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.11.18-12.25.21:483][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:483][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:486][  9]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.11.18-12.25.21:486][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:486][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:489][  9]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.11.18-12.25.21:489][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:489][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:491][  9]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.11.18-12.25.21:492][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:492][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:494][  9]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.11.18-12.25.21:494][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:494][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:497][  9]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.11.18-12.25.21:497][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:497][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:500][  9]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2017.11.18-12.25.21:500][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:500][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:502][  9]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2017.11.18-12.25.21:503][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:503][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:505][  9]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.11.18-12.25.21:506][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:506][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:508][  9]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.11.18-12.25.21:508][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:508][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:510][  9]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.11.18-12.25.21:511][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:511][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:513][  9]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2017.11.18-12.25.21:514][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:514][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:516][  9]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2017.11.18-12.25.21:517][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:517][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:519][  9]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2017.11.18-12.25.21:519][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:519][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:521][  9]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2017.11.18-12.25.21:522][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:522][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:524][  9]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2017.11.18-12.25.21:525][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:525][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:527][  9]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2017.11.18-12.25.21:527][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:527][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:530][  9]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2017.11.18-12.25.21:530][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:530][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:532][  9]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2017.11.18-12.25.21:533][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:533][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:535][  9]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2017.11.18-12.25.21:535][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:535][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:538][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.11.18-12.25.21:539][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:539][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:539][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:539][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:541][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.11.18-12.25.21:541][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:541][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:541][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:541][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:543][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.11.18-12.25.21:544][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:544][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:544][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:544][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:546][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.11.18-12.25.21:546][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:546][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:546][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:546][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:549][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2017.11.18-12.25.21:549][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:550][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:550][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:550][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:552][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2017.11.18-12.25.21:552][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:552][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:552][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:552][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:554][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2017.11.18-12.25.21:555][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:555][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:555][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:555][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:557][  9]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2017.11.18-12.25.21:557][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:557][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:557][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2017.11.18-12.25.21:557][  9]LogMaterial: Warning: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2017.11.18-12.25.21:560][  9]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2017.11.18-12.25.21:560][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:560][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:562][  9]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2017.11.18-12.25.21:563][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:563][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:565][  9]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2017.11.18-12.25.21:565][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:565][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:568][  9]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2017.11.18-12.25.21:569][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:569][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:571][  9]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2017.11.18-12.25.21:571][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:571][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:573][  9]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2017.11.18-12.25.21:574][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:574][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:576][  9]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2017.11.18-12.25.21:576][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:576][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:579][  9]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2017.11.18-12.25.21:579][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:579][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:582][  9]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2017.11.18-12.25.21:582][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:582][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:584][  9]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2017.11.18-12.25.21:585][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:585][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:587][  9]LogMaterial: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2017.11.18-12.25.21:587][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:587][  9]LogMaterial: Warning: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2017.11.18-12.25.21:600][  9]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2017.11.18-12.25.21:601][  9]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_1 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2017.11.18-12.25.21:601][  9]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_2 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2017.11.18-12.25.21:601][  9]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_3 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2017.11.18-12.25.21:605][  9]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2017.11.18-12.25.21:605][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:605][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:607][  9]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2017.11.18-12.25.21:608][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:608][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:610][  9]LogStaticMesh: Building static mesh SM_CornerFrame...
+[2017.11.18-12.25.21:613][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2017.11.18-12.25.21:615][  9]LogStaticMesh: Building static mesh SM_DoorFrame...
+[2017.11.18-12.25.21:616][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2017.11.18-12.25.21:617][  9]LogStaticMesh: Building static mesh SM_GlassWindow...
+[2017.11.18-12.25.21:623][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow
+[2017.11.18-12.25.21:625][  9]LogStaticMesh: Building static mesh SM_PillarFrame...
+[2017.11.18-12.25.21:630][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame
+[2017.11.18-12.25.21:632][  9]LogStaticMesh: Building static mesh SM_PillarFrame300...
+[2017.11.18-12.25.21:638][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2017.11.18-12.25.21:641][  9]LogStaticMesh: Building static mesh SM_WindowFrame...
+[2017.11.18-12.25.21:642][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame
+[2017.11.18-12.25.21:647][  9]LogStaticMesh: Building static mesh Shape_Cube...
+[2017.11.18-12.25.21:649][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2017.11.18-12.25.21:656][  9]LogStaticMesh: Building static mesh Shape_QuadPyramid...
+[2017.11.18-12.25.21:657][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid
+[2017.11.18-12.25.21:664][  9]LogStaticMesh: Building static mesh Shape_Sphere...
+[2017.11.18-12.25.21:678][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2017.11.18-12.25.21:690][  9]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
+[2017.11.18-12.25.21:691][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Bush.M_Bush for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:691][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:693][  9]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
+[2017.11.18-12.25.21:693][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Bush.M_Bush for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:693][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:694][  9]LogStaticMesh: Building static mesh SM_Bush...
+[2017.11.18-12.25.21:699][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2017.11.18-12.25.21:702][  9]LogStaticMesh: Building static mesh SM_Couch...
+[2017.11.18-12.25.21:715][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2017.11.18-12.25.21:722][  9]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2017.11.18-12.25.21:722][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Door.M_Door for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:722][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:725][  9]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2017.11.18-12.25.21:725][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Door.M_Door for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:725][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:726][  9]LogStaticMesh: Building static mesh SM_Door...
+[2017.11.18-12.25.21:736][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2017.11.18-12.25.21:743][  9]LogStaticMesh: Building static mesh SM_MatPreviewMesh_02...
+[2017.11.18-12.25.21:835][  9]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02
+[2017.11.18-12.25.21:896][  9]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2017.11.18-12.25.21:897][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Rock.M_Rock for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:897][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:899][  9]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2017.11.18-12.25.21:900][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Rock.M_Rock for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:900][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:902][  9]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2017.11.18-12.25.21:902][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Rock.M_Rock for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:902][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:904][  9]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2017.11.18-12.25.21:905][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Rock.M_Rock for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:905][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:905][  9]LogStaticMesh: Building static mesh SM_Rock...
+[2017.11.18-12.25.21:914][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2017.11.18-12.25.21:919][  9]LogMaterial: Missing cached shader map for material M_Shelf, compiling. 
+[2017.11.18-12.25.21:920][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:920][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:922][  9]LogMaterial: Missing cached shader map for material M_Shelf, compiling. 
+[2017.11.18-12.25.21:922][  9]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-12.25.21:922][  9]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.18-12.25.21:923][  9]LogStaticMesh: Building static mesh SM_Shelf...
+[2017.11.18-12.25.21:927][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2017.11.18-12.25.21:930][  9]LogStaticMesh: Building static mesh SM_Stairs...
+[2017.11.18-12.25.21:932][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2017.11.18-12.25.21:934][  9]LogStaticMesh: Building static mesh Shape_Cone...
+[2017.11.18-12.25.21:936][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2017.11.18-12.25.21:938][  9]LogStaticMesh: Building static mesh Shape_Cylinder...
+[2017.11.18-12.25.21:947][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2017.11.18-12.25.21:950][  9]LogStaticMesh: Building static mesh Shape_NarrowCapsule...
+[2017.11.18-12.25.21:988][  9]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2017.11.18-12.25.21:991][  9]LogStaticMesh: Building static mesh Shape_Pipe...
+[2017.11.18-12.25.21:993][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2017.11.18-12.25.21:995][  9]LogStaticMesh: Building static mesh Shape_Pipe_180...
+[2017.11.18-12.25.22:009][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180
+[2017.11.18-12.25.22:018][  9]LogStaticMesh: Building static mesh Shape_Pipe_90...
+[2017.11.18-12.25.22:025][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90
+[2017.11.18-12.25.22:030][  9]LogStaticMesh: Building static mesh Shape_Plane...
+[2017.11.18-12.25.22:031][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2017.11.18-12.25.22:032][  9]LogStaticMesh: Building static mesh Shape_Torus...
+[2017.11.18-12.25.22:057][  9]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2017.11.18-12.25.22:063][  9]LogStaticMesh: Building static mesh Shape_Trim...
+[2017.11.18-12.25.22:065][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim
+[2017.11.18-12.25.22:067][  9]LogStaticMesh: Building static mesh Shape_Trim_90_In...
+[2017.11.18-12.25.22:070][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In
+[2017.11.18-12.25.22:072][  9]LogStaticMesh: Building static mesh Shape_Trim_90_Out...
+[2017.11.18-12.25.22:076][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out
+[2017.11.18-12.25.22:077][  9]LogStaticMesh: Building static mesh Shape_TriPyramid...
+[2017.11.18-12.25.22:078][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid
+[2017.11.18-12.25.22:080][  9]LogStaticMesh: Building static mesh Shape_Tube...
+[2017.11.18-12.25.22:086][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2017.11.18-12.25.22:089][  9]LogStaticMesh: Building static mesh Shape_Wedge_A...
+[2017.11.18-12.25.22:089][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A
+[2017.11.18-12.25.22:096][  9]LogStaticMesh: Building static mesh Shape_Wedge_B...
+[2017.11.18-12.25.22:096][  9]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B
+[2017.11.18-12.25.22:104][  9]LogStaticMesh: Building static mesh Shape_WideCapsule...
+[2017.11.18-12.25.22:116][  9]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2017.11.18-12.27.48:950][ 66]BlueprintLog: New page: Compile Hugo
+[2017.11.18-12.27.49:766][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.18-12.27.49:835][ 80]LogSavePackage: Save=55.65ms
+[2017.11.18-12.27.49:835][ 80]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/HugoC21852414FB614ADF4EE45B2FB69ABC0.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.18-12.27.49:840][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.18-12.28.14:615][473]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-12.28.14:650][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.28.14:650][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-12.28.14:650][473]PIE: New page: PIE session: StitchesAndBones (18 Nov 2017 12:28:14)
+[2017.11.18-12.28.14:650][473]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StitchesAndBones
+[2017.11.18-12.28.14:657][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007043s)
+[2017.11.18-12.28.14:658][473]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.18-12.28.14:658][473]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.11.18-12.28.14:658][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StitchesAndBones.StitchesAndBones to /Game/UEDPIE_0_StitchesAndBones.StitchesAndBones (0.008436s)
+[2017.11.18-12.28.14:677][473]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-12.28.14:701][473]LogInit: FAudioDevice initialized.
+[2017.11.18-12.28.14:740][473]LogLoad: Game class is 'MyGame_C'
+[2017.11.18-12.28.14:744][473]LogWorld: Bringing World /Game/UEDPIE_0_StitchesAndBones.StitchesAndBones up for play (max tick rate 60) at 2017.11.18-12.28.14
+[2017.11.18-12.28.14:745][473]LogWorld: Bringing up level for play took: 0.003343
+[2017.11.18-12.28.14:747][473]PIE: Play in editor start time for /Game/UEDPIE_0_StitchesAndBones 0.186
+[2017.11.18-12.28.14:747][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.28.37:823][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.28.37:862][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.28.47:703][385]BlueprintLog: New page: Compile Hugo
+[2017.11.18-12.28.48:976][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.18-12.28.49:038][414]LogSavePackage: Save=55.37ms
+[2017.11.18-12.28.49:039][414]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/HugoDD1D379948D1B2209B1229A71760E00C.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.18-12.28.49:043][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.18-12.29.08:658][360]BlueprintLog: New page: Compile Hugo
+[2017.11.18-12.29.09:704][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.18-12.29.09:760][385]LogSavePackage: Save=49.12ms
+[2017.11.18-12.29.09:760][385]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/Hugo3CD7C66A45E8CE70E970AA99D626B025.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.18-12.29.09:764][385]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.18-12.29.11:130][451]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-12.29.11:158][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.29.11:158][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-12.29.11:158][451]PIE: New page: PIE session: StitchesAndBones (18 Nov 2017 12:29:11)
+[2017.11.18-12.29.11:158][451]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StitchesAndBones
+[2017.11.18-12.29.11:165][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007129s)
+[2017.11.18-12.29.11:166][451]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.18-12.29.11:166][451]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2017.11.18-12.29.11:166][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StitchesAndBones.StitchesAndBones to /Game/UEDPIE_0_StitchesAndBones.StitchesAndBones (0.008329s)
+[2017.11.18-12.29.11:185][451]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-12.29.11:209][451]LogInit: FAudioDevice initialized.
+[2017.11.18-12.29.11:243][451]LogLoad: Game class is 'MyGame_C'
+[2017.11.18-12.29.11:247][451]LogWorld: Bringing World /Game/UEDPIE_0_StitchesAndBones.StitchesAndBones up for play (max tick rate 60) at 2017.11.18-12.29.11
+[2017.11.18-12.29.11:248][451]LogWorld: Bringing up level for play took: 0.002932
+[2017.11.18-12.29.11:249][451]PIE: Play in editor start time for /Game/UEDPIE_0_StitchesAndBones 0.688
+[2017.11.18-12.29.11:250][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.29.14:428][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.29.14:461][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.29.27:454][315]BlueprintLog: New page: Compile Hugo
+[2017.11.18-12.29.28:167][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.18-12.29.28:223][325]LogSavePackage: Save=49.39ms
+[2017.11.18-12.29.28:223][325]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/Hugo64BEE20C4E9A87CDFFCFC5B4E96052E6.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.18-12.29.28:227][325]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.18-12.29.42:743][162]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.29.59:149][ 56]BlueprintLog: New page: Compile Hugo
+[2017.11.18-12.29.59:795][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.18-12.29.59:848][ 62]LogSavePackage: Save=46.13ms
+[2017.11.18-12.29.59:848][ 62]LogSavePackage: Moving '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Saved/HugoB4BDF6A74B96A0D54DF6D987ADC63742.tmp' to '../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.18-12.29.59:852][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Downloads/StitchesAndBones19-10-2017/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.18-12.30.01:093][122]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-12.30.01:123][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.30.01:123][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-12.30.01:123][122]PIE: New page: PIE session: StitchesAndBones (18 Nov 2017 12:30:01)
+[2017.11.18-12.30.01:123][122]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StitchesAndBones
+[2017.11.18-12.30.01:131][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007637s)
+[2017.11.18-12.30.01:131][122]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.18-12.30.01:131][122]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2017.11.18-12.30.01:131][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StitchesAndBones.StitchesAndBones to /Game/UEDPIE_0_StitchesAndBones.StitchesAndBones (0.008537s)
+[2017.11.18-12.30.01:150][122]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-12.30.01:179][122]LogInit: FAudioDevice initialized.
+[2017.11.18-12.30.01:214][122]LogLoad: Game class is 'MyGame_C'
+[2017.11.18-12.30.01:218][122]LogWorld: Bringing World /Game/UEDPIE_0_StitchesAndBones.StitchesAndBones up for play (max tick rate 60) at 2017.11.18-12.30.01
+[2017.11.18-12.30.01:218][122]LogWorld: Bringing up level for play took: 0.002722
+[2017.11.18-12.30.01:221][122]PIE: Play in editor start time for /Game/UEDPIE_0_StitchesAndBones 0.66
+[2017.11.18-12.30.01:222][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.30.04:698][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.30.04:733][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel' has LevelScriptBlueprint '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones' with GeneratedClass '/Game/StitchesAndBones.StitchesAndBones_C' with ClassGeneratedBy '/Game/StitchesAndBones.StitchesAndBones:PersistentLevel.StitchesAndBones'
+[2017.11.18-12.30.43:017][259]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.43:346][271]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.43:652][280]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.43:905][289]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.44:227][301]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.44:480][310]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.44:733][319]LogEditorTransaction: Undo Delete current selection
+[2017.11.18-12.30.44:994][328]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.45:273][338]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.45:603][350]LogEditorTransaction: Undo Edit Use Pawn Control Rotation
+[2017.11.18-12.30.45:908][361]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.46:187][371]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.30.50:389][533]LogEditorTransaction: Redo Modify Component(s)
+[2017.11.18-12.31.27:221][377]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.31.27:613][390]LogEditorTransaction: Undo Reset Rotation
+[2017.11.18-12.31.27:832][398]LogEditorTransaction: Undo Reset Location
+[2017.11.18-12.31.28:042][405]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.31.28:224][411]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.18-12.31.55:087][791]BlueprintLog: New page: Compile Hugo
+[2017.11.18-12.31.55:116][791]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_12, Actor: /Engine/Transient.World_12:PersistentLevel.REINST_Hugo_C_0
+[2017.11.18-12.31.55:116][791]LogWorld: --- Actors Currently in /Engine/Transient.World_12:PersistentLevel ---
+[2017.11.18-12.31.55:116][791]LogWorld:   /Engine/Transient.World_12:PersistentLevel.WorldSettings
+[2017.11.18-12.31.55:116][791]LogWorld:   /Engine/Transient.World_12:PersistentLevel.Brush_12
+[2017.11.18-12.31.55:116][791]LogWorld:   /Engine/Transient.World_12:PersistentLevel.DefaultPhysicsVolume_12
+[2017.11.18-12.31.55:116][791]LogWorld:   /Engine/Transient.World_12:PersistentLevel.ParticleEventManager_12
+[2017.11.18-12.31.55:116][791]LogWorld:   NONE
+[2017.11.18-12.31.55:116][791]LogWorld:   NONE
+[2017.11.18-12.31.55:116][791]LogWorld:   NONE
+[2017.11.18-12.31.55:116][791]LogWorld:   /Engine/Transient.World_12:PersistentLevel.Hugo_C_9
+[2017.11.18-12.31.55:254][791]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.136 s
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: 
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1487]
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_12:PersistentLevel.REINST_Hugo_C_0 from world (check level is /Engine/Transient.World_12:PersistentLevel)
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: Stack: 
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000707F3E36
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007057C2D2
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000070594746
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000600C2AE6
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000005F811608
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000005F814D23
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006F3D44A7
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006F3D58E7
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006F398CFF
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000776C9D7F
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000007766852E
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006F3A07FE
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000077667CD2
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000776B9451
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000776BE1B6
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007E9C53FF
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EAC9652
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EA267B2
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EA27B69
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EAA66F5
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EB5B967
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EB874D4
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007E9A42BC
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007E977145
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007EA11452
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007E9F9C92
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007E9EB68F
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000707CB759
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000707B3EE1
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000707CD5BB
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000707AF042
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: USER32.dll!0x00000000B2C71C24
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: USER32.dll!0x00000000B2C7156C
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000707CDCC6
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor.exe!0x0000000020C14BE2
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor.exe!0x0000000020C23970
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor.exe!0x0000000020C239EA
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor.exe!0x0000000020C302D9
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: UE4Editor.exe!0x0000000020C31C47
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: KERNEL32.DLL!0x00000000B2DD8364
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: ntdll.dll!0x00000000B5177091
+[2017.11.18-12.31.55:254][791]LogOutputDevice: Error: 
+[2017.11.18-12.31.55:259][791]LogStats:                SubmitErrorReport -  0.000 s
