@@ -1,0 +1,1445 @@
+﻿Log file open, 11/20/17 06:22:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-761469419) SRandInit(-761469419).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.531595
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.20-06.22.26:409][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.20-06.22.26:410][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.20-06.22.26:481][  0]LogInit: Computer: LAPTOP-JUAO3GMA
+[2017.11.20-06.22.26:481][  0]LogInit: User: danie
+[2017.11.20-06.22.26:481][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.20-06.22.26:481][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2017.11.20-06.22.26:481][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.20-06.22.26:481][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.20-06.22.26:481][  0]LogMemory: Process Physical Memory: 279.43 MB used, 279.43 MB peak
+[2017.11.20-06.22.26:481][  0]LogMemory: Process Virtual Memory: 286.60 MB used, 286.60 MB peak
+[2017.11.20-06.22.26:481][  0]LogMemory: Physical Memory: 10153.32 MB used,  6115.90 MB free, 16269.22 MB total
+[2017.11.20-06.22.26:481][  0]LogMemory: Virtual Memory: 666.74 MB used,  6115.90 MB free, 134217728.00 MB total
+[2017.11.20-06.22.27:515][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.20-06.22.27:515][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.20-06.22.27:739][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.20-06.22.29:823][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.20-06.22.29:937][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2017.11.20-06.22.29:937][  0]LogD3D11RHI:       4016/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.20-06.22.29:959][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.11.20-06.22.29:959][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.20-06.22.29:966][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.20-06.22.29:966][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.20-06.22.29:966][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.20-06.22.29:984][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.20-06.22.29:984][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2017.11.20-06.22.29:984][  0]LogWindows: EnumDisplayDevices:
+[2017.11.20-06.22.29:985][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.11.20-06.22.29:985][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.20-06.22.29:985][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.20-06.22.29:986][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2017.11.20-06.22.29:986][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2017.11.20-06.22.29:986][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2017.11.20-06.22.29:986][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.11.20-06.22.29:986][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.11.20-06.22.29:986][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.20-06.22.30:029][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.20-06.22.30:123][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.20-06.22.30:186][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../University/TDEMO/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/53636/).
+[2017.11.20-06.22.30:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danie/AppData/Local/Temp/UnrealShaderWorkingDir/37AB9B1349EA6CAAAEBEEF805565BEBD/'.
+[2017.11.20-06.22.30:186][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.20-06.22.33:152][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.20-06.22.33:217][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.20-06.22.33:276][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.20-06.22.33:349][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.20-06.22.33:431][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.20-06.22.33:501][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.20-06.22.33:554][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.20-06.22.33:605][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.20-06.22.33:650][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.20-06.22.33:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.20-06.22.33:787][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.20-06.22.33:840][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.20-06.22.33:891][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.20-06.22.33:951][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.20-06.22.34:013][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.20-06.22.34:136][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.20-06.22.34:136][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.20-06.22.34:178][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.20-06.22.34:340][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.20-06.22.34:381][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.20-06.22.34:433][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.20-06.22.34:492][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.20-06.22.34:547][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.20-06.22.34:632][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.20-06.22.34:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.20-06.22.35:839][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.20-06.22.36:358][  0]LogDerivedDataCache: Loaded boot cache 0.52s 93MB C:/Users/danie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.20-06.22.36:358][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.20-06.22.36:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../University/TDEMO/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.20-06.22.36:358][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.20-06.22.36:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../University/TDEMO/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.20-06.22.36:358][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.20-06.22.36:423][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.20-06.22.36:437][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.20-06.22.36:480][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.20-06.22.36:505][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.20-06.22.36:581][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.20-06.22.36:581][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.20-06.22.54:625][  0]LogAssetRegistry: FAssetRegistry took 0.1491 seconds to start up
+[2017.11.20-06.22.56:211][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.20-06.23.02:753][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.20-06.23.06:290][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.20-06.23.06:513][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.20-06.23.06:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.20-06.23.06:589][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.20-06.23.06:589][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.20-06.23.06:589][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.20-06.23.13:896][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2017.11.20-06.23.17:389][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.166289 seconds
+[2017.11.20-06.23.17:426][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.20-06.23.17:426][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.20-06.23.17:445][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.20-06.23.17:536][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.20-06.23.40:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.20-06.23.40:857][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.20-06.23.42:350][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.20-06.23.43:138][  0]SourceControl: Source control is disabled
+[2017.11.20-06.23.43:139][  0]SourceControl: Source control is disabled
+[2017.11.20-06.23.43:272][  0]SourceControl: Source control is disabled
+[2017.11.20-06.23.43:368][  0]SourceControl: Source control is disabled
+[2017.11.20-06.23.44:634][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.20-06.23.44:952][  0]LogOcInput: OculusInput pre-init called
+[2017.11.20-06.23.45:650][  0]LogEngine: Initializing Engine...
+[2017.11.20-06.23.45:681][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.20-06.23.46:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.20-06.23.46:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.20-06.23.46:601][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.20-06.23.46:730][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.23.46:755][  0]LogInit: FAudioDevice initialized.
+[2017.11.20-06.23.46:900][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/danie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.20-06.23.46:916][  0]LogInit: Texture streaming: Enabled
+[2017.11.20-06.23.47:142][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.20-06.23.47:776][  0]LogInit: Transaction tracking system initialized
+[2017.11.20-06.23.48:345][  0]BlueprintLog: New page: Editor Load
+[2017.11.20-06.23.50:195][  0]LocalizationService: Localization service is disabled
+[2017.11.20-06.23.51:503][  0]LogConsoleResponse: Display: 
+[2017.11.20-06.23.53:203][  0]LogFileCache: Scanning file cache for directory 'D:/University/TDEMO/StitchesAndBones/Content/' took 0.01s
+[2017.11.20-06.23.53:203][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.20-06.23.53:214][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.20-06.23.53:255][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.20-06.23.56:774][  0]SourceControl: Source control is disabled
+[2017.11.20-06.23.56:827][  0]Cmd: MAP LOAD FILE="../../../../../University/TDEMO/StitchesAndBones/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-06.23.56:837][  0]LogEditorServer: Warning: Can't find file '../../../../../University/TDEMO/StitchesAndBones/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-06.23.56:903][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-06.23.56:981][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.684ms to complete.
+[2017.11.20-06.23.56:981][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.154
+[2017.11.20-06.23.58:439][  0]LogCollectionManager: Loaded 0 collections in 0.002304 seconds
+[2017.11.20-06.23.58:596][  0]LogFileCache: Scanning file cache for directory 'D:/University/TDEMO/StitchesAndBones/Saved/Collections/' took 0.01s
+[2017.11.20-06.23.58:597][  0]LogFileCache: Scanning file cache for directory 'D:/University/TDEMO/StitchesAndBones/Content/Developers/danie/Collections/' took 0.01s
+[2017.11.20-06.23.58:597][  0]LogFileCache: Scanning file cache for directory 'D:/University/TDEMO/StitchesAndBones/Content/Collections/' took 0.01s
+[2017.11.20-06.23.58:597][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.20-06.23.58:608][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2386 classes and 500 folders.
+[2017.11.20-06.23.58:734][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.11.20-06.24.00:282][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.20-06.24.00:366][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.11.20-06.24.00:742][  0]LogSlate: Took 0.018405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.20-06.24.00:760][  0]LogSlate: Took 0.016306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.20-06.24.00:774][  0]LogSlate: Took 0.005986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.20-06.24.01:025][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.20-06.24.01:611][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.11.20-06.24.01:612][  0]LogLoad: (Engine Initialization) Total time: 116.05 seconds
+[2017.11.20-06.24.01:612][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.20-06.24.01:626][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.20-06.24.02:121][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.20-06.24.02:304][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/University/TDEMO/StitchesAndBones/Content/' took 0.26s
+[2017.11.20-06.24.02:974][  3]LogAssetRegistry: Asset discovery search completed in 68.3882 seconds
+[2017.11.20-06.24.03:011][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.20-06.24.03:024][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012999 seconds (updated 0 objects)
+[2017.11.20-06.24.05:367][ 10]LogSlate: Took 0.011037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-06.24.06:433][ 13]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-06.25.12:618][546]AssetReimport: New page: Outstanding source content changes 06:25:12
+[2017.11.20-06.25.12:679][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx)
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: NodeAttribute, ItemCount : 53
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: Model, ItemCount : 54
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-06.25.12:849][547]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.20-06.25.12:856][547]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx
+[2017.11.20-06.25.12:892][547]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.21:954][547]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx
+[2017.11.20-06.25.21:970][547]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.22:022][547]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/SoftWood'
+[2017.11.20-06.25.22:035][547]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/SoftWood'
+[2017.11.20-06.25.22:185][547]LogMaterial: Missing cached shader map for material SoftWood, compiling. 
+[2017.11.20-06.25.22:538][547]LogStaticMesh: Building static mesh ChoppingBoard...
+[2017.11.20-06.25.22:618][547]LogStaticMesh: Built static mesh [0.08s] /Game/Level_Assets/Environments/Kitchen/ChoppingBoard.ChoppingBoard
+[2017.11.20-06.25.22:960][548]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Knife.fbx)
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: NodeAttribute, ItemCount : 53
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: Model, ItemCount : 54
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-06.25.22:964][548]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.20-06.25.22:969][548]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Knife.fbx
+[2017.11.20-06.25.22:993][548]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.25:992][548]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Knife.fbx
+[2017.11.20-06.25.26:012][548]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.26:014][548]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Metal'
+[2017.11.20-06.25.26:014][548]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Metal'
+[2017.11.20-06.25.26:018][548]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2017.11.20-06.25.26:034][548]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Wood'
+[2017.11.20-06.25.26:034][548]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Wood'
+[2017.11.20-06.25.26:038][548]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.11.20-06.25.26:052][548]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Gold'
+[2017.11.20-06.25.26:052][548]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Gold'
+[2017.11.20-06.25.26:057][548]LogMaterial: Missing cached shader map for material Gold, compiling. 
+[2017.11.20-06.25.26:215][548]LogStaticMesh: Building static mesh Knife...
+[2017.11.20-06.25.26:235][548]LogStaticMesh: Built static mesh [0.02s] /Game/Level_Assets/Environments/Kitchen/Knife.Knife
+[2017.11.20-06.25.26:342][549]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/KnifeBlock.fbx)
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: NodeAttribute, ItemCount : 53
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: Model, ItemCount : 54
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-06.25.26:347][549]LogFbx: ItemName: Material, ItemCount : 4
+[2017.11.20-06.25.26:354][549]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/KnifeBlock.fbx
+[2017.11.20-06.25.26:380][549]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.27:484][549]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/KnifeBlock.fbx
+[2017.11.20-06.25.27:511][549]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.28:009][549]LogStaticMesh: Building static mesh KnifeBlock...
+[2017.11.20-06.25.28:077][549]LogStaticMesh: Built static mesh [0.07s] /Game/Level_Assets/Environments/Kitchen/KnifeBlock.KnifeBlock
+[2017.11.20-06.25.28:192][550]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx)
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: NodeAttribute, ItemCount : 46
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: Model, ItemCount : 49
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: Geometry, ItemCount : 3
+[2017.11.20-06.25.28:196][550]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.20-06.25.28:202][550]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.25.28:225][550]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.29:401][550]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.25.29:419][550]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.25.29:420][550]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Cupboard'
+[2017.11.20-06.25.29:420][550]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Cupboard'
+[2017.11.20-06.25.29:426][550]LogMaterial: Missing cached shader map for material Cupboard, compiling. 
+[2017.11.20-06.25.29:500][550]LogStaticMesh: Building static mesh Worktop_01_pCylinder5...
+[2017.11.20-06.25.29:508][550]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.Worktop_01_pCylinder5
+[2017.11.20-06.25.29:533][550]LogStaticMesh: Building static mesh Worktop_01_pCylinder6...
+[2017.11.20-06.25.29:540][550]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.Worktop_01_pCylinder6
+[2017.11.20-06.25.29:547][550]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Worktop'
+[2017.11.20-06.25.29:547][550]LogLinker: Can't find file '/Game/Level_Assets/Environments/Kitchen/Worktop'
+[2017.11.20-06.25.29:553][550]LogMaterial: Missing cached shader map for material Worktop, compiling. 
+[2017.11.20-06.25.29:586][550]LogStaticMesh: Building static mesh Worktop_01_polySurface6...
+[2017.11.20-06.25.29:592][550]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.Worktop_01_polySurface6
+[2017.11.20-06.25.29:990][551]LogSavePackage: Save=58.78ms
+[2017.11.20-06.25.29:990][551]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/ChoppingBoardC62817294684318A469AC99DD024DC5D.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/ChoppingBoard.uasset'
+[2017.11.20-06.25.29:993][551]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/ChoppingBoard.uasset
+[2017.11.20-06.25.30:012][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Assets/Environments/Kitchen/Knife" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Knife.uasset" SILENT=true
+[2017.11.20-06.25.30:027][551]LogSavePackage: Save=13.31ms
+[2017.11.20-06.25.30:028][551]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/KnifeF16A6DCA48F04B3308E56AA08B778537.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Knife.uasset'
+[2017.11.20-06.25.30:031][551]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Knife.uasset
+[2017.11.20-06.25.30:081][551]LogSavePackage: Save=15.22ms
+[2017.11.20-06.25.30:081][551]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/KnifeBlockABC5B7CA4BF41521CC2F89ADCE528098.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/KnifeBlock.uasset'
+[2017.11.20-06.25.30:087][551]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/KnifeBlock.uasset
+[2017.11.20-06.25.30:091][551]LogSavePackage: Save=1.37ms
+[2017.11.20-06.25.30:091][551]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01899381CF4D28F39AA29C3DB9398779BC.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01.uasset'
+[2017.11.20-06.25.30:092][551]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01.uasset
+[2017.11.20-06.25.33:104][723]AssetReimport: Importing new asset /Game/Level_Assets/Environments/Kitchen/ChoppingBoard.
+[2017.11.20-06.25.33:104][723]AssetReimport: Importing new asset /Game/Level_Assets/Environments/Kitchen/Knife.
+[2017.11.20-06.25.33:105][723]AssetReimport: Importing new asset /Game/Level_Assets/Environments/Kitchen/KnifeBlock.
+[2017.11.20-06.25.33:105][723]AssetReimport: Importing new asset /Game/Level_Assets/Environments/Kitchen/Worktop_01.
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: Portraitframe (BGRA8, 450X402)
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.20-06.25.40:248][ 26]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.20-06.25.40:248][ 26]LogMaterial: Missing cached shader map for material rackwood, compiling. 
+[2017.11.20-06.25.40:287][ 26]LogMaterial: Missing cached shader map for material rackwood2, compiling. 
+[2017.11.20-06.25.40:323][ 26]LogMaterial: Missing cached shader map for material bladesteel, compiling. 
+[2017.11.20-06.25.40:353][ 26]LogMaterial: Missing cached shader map for material bladehandle, compiling. 
+[2017.11.20-06.25.40:387][ 26]LogStaticMesh: Building static mesh WeaponsRack...
+[2017.11.20-06.25.40:403][ 26]LogStaticMesh: Built static mesh [0.02s] /Game/CaveAssets/WeaponsRack.WeaponsRack
+[2017.11.20-06.25.40:408][ 26]LogMaterial: Missing cached shader map for material hilt, compiling. 
+[2017.11.20-06.25.40:553][ 26]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2017.11.20-06.25.40:553][ 26]LogStaticMesh: Building static mesh Sword...
+[2017.11.20-06.25.40:560][ 26]LogStaticMesh: Built static mesh [0.01s] /Game/CaveAssets/Sword.Sword
+[2017.11.20-06.25.40:591][ 26]LogMaterial: Missing cached shader map for material Book3, compiling. 
+[2017.11.20-06.25.40:623][ 26]LogMaterial: Missing cached shader map for material Book2, compiling. 
+[2017.11.20-06.25.40:655][ 26]LogMaterial: Missing cached shader map for material Book1, compiling. 
+[2017.11.20-06.25.40:690][ 26]LogStaticMesh: Building static mesh ManaPotion...
+[2017.11.20-06.25.40:696][ 26]LogStaticMesh: Built static mesh [0.01s] /Game/CaveAssets/ManaPotion.ManaPotion
+[2017.11.20-06.25.40:700][ 26]LogMaterial: Missing cached shader map for material HealthLiquid, compiling. 
+[2017.11.20-06.25.40:794][ 26]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2017.11.20-06.25.41:030][ 26]LogStaticMesh: Building static mesh Barrel...
+[2017.11.20-06.25.41:041][ 26]LogStaticMesh: Built static mesh [0.01s] /Game/CaveAssets/Barrel.Barrel
+[2017.11.20-06.25.41:042][ 26]LogStaticMesh: Building static mesh Book...
+[2017.11.20-06.25.41:057][ 26]LogStaticMesh: Built static mesh [0.02s] /Game/CaveAssets/Book.Book
+[2017.11.20-06.25.41:182][ 26]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CaveAssets/Characters/HugoIdle.HugoIdle
+[2017.11.20-06.25.41:455][ 26]LogMaterial: Missing cached shader map for material lambert4SG, compiling. 
+[2017.11.20-06.25.41:513][ 26]LogMaterial: Missing cached shader map for material lambert5SG, compiling. 
+[2017.11.20-06.25.41:605][ 26]LogMaterial: Missing cached shader map for material BarrelWood, compiling. 
+[2017.11.20-06.25.41:655][ 26]LogMaterial: Missing cached shader map for material BarrelRings, compiling. 
+[2017.11.20-06.25.41:692][ 26]LogMaterial: Missing cached shader map for material Manaliquid, compiling. 
+[2017.11.20-06.25.41:745][ 26]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.20-06.26.13:321][ 26]LogSavePackage: Save=36.90ms
+[2017.11.20-06.26.13:321][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/CupboardF597E05E49DAC0C455205ABE0A63604C.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Cupboard.uasset'
+[2017.11.20-06.26.13:327][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Cupboard.uasset
+[2017.11.20-06.26.13:359][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Assets/Environments/Kitchen/Gold" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Gold.uasset" SILENT=true
+[2017.11.20-06.26.13:378][ 26]LogSavePackage: Save=16.70ms
+[2017.11.20-06.26.13:378][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/GoldADB5867144BC3DFAE0CD01B06D028697.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Gold.uasset'
+[2017.11.20-06.26.13:382][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Gold.uasset
+[2017.11.20-06.26.13:413][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Assets/Environments/Kitchen/Metal" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Metal.uasset" SILENT=true
+[2017.11.20-06.26.13:430][ 26]LogSavePackage: Save=14.32ms
+[2017.11.20-06.26.13:430][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/MetalCC0A26F4438B4160974F5BA8F8C5EE0D.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Metal.uasset'
+[2017.11.20-06.26.13:434][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Metal.uasset
+[2017.11.20-06.26.13:481][ 26]LogSavePackage: Save=15.32ms
+[2017.11.20-06.26.13:481][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/SoftWoodA16E6076483EB8DA371E19940179F504.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/SoftWood.uasset'
+[2017.11.20-06.26.13:486][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/SoftWood.uasset
+[2017.11.20-06.26.13:514][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Assets/Environments/Kitchen/Wood" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Wood.uasset" SILENT=true
+[2017.11.20-06.26.13:532][ 26]LogSavePackage: Save=15.82ms
+[2017.11.20-06.26.13:532][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/WoodF289CEE44BCD849E59A398A0220457C8.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Wood.uasset'
+[2017.11.20-06.26.13:537][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Wood.uasset
+[2017.11.20-06.26.13:564][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Assets/Environments/Kitchen/Worktop" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop.uasset" SILENT=true
+[2017.11.20-06.26.13:581][ 26]LogSavePackage: Save=14.42ms
+[2017.11.20-06.26.13:581][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/WorktopF761065C417679B5A9C7D58B557A4124.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop.uasset'
+[2017.11.20-06.26.13:586][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop.uasset
+[2017.11.20-06.26.13:631][ 26]LogSavePackage: Save=13.02ms
+[2017.11.20-06.26.13:631][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_pCylinder5009C51434DD6FBD2B3E13D9BC0762220.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.uasset'
+[2017.11.20-06.26.13:636][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.uasset
+[2017.11.20-06.26.13:680][ 26]LogSavePackage: Save=14.23ms
+[2017.11.20-06.26.13:681][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_pCylinder60E769BD549A141FD66BB27A2A87A2FE5.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.uasset'
+[2017.11.20-06.26.13:685][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.uasset
+[2017.11.20-06.26.13:729][ 26]LogSavePackage: Save=14.83ms
+[2017.11.20-06.26.13:729][ 26]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_polySurface6CC84DDCE4A6ED9E80CB8889029808621.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.uasset'
+[2017.11.20-06.26.13:733][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.uasset
+[2017.11.20-06.26.13:735][ 26]Cmd: MAP LOAD FILE="../../../../../University/TDEMO/StitchesAndBones/Content/StitchesAndBones.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-06.26.13:774][ 26]LightingResults: New page: Lighting Build
+[2017.11.20-06.26.13:846][ 26]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0011 seconds. Added 5 classes and 0 folders.
+[2017.11.20-06.26.13:848][ 26]LoadErrors: New page: Loading map: StitchesAndBones.umap
+[2017.11.20-06.26.13:864][ 26]MapCheck: New page: Map Check
+[2017.11.20-06.26.13:864][ 26]LightingResults: New page: Lighting Build
+[2017.11.20-06.26.14:294][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.20-06.26.14:421][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-06.26.14:539][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.765ms to complete.
+[2017.11.20-06.26.14:539][ 26]LogFileHelpers: Loading map 'StitchesAndBones' took 0.806
+[2017.11.20-06.27.03:964][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.20-06.27.03:997][987]LogSavePackage: Save=16.51ms
+[2017.11.20-06.27.03:997][987]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/KitchenDF416E714E40E117CA0A75905DFC7B59.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.20-06.27.04:000][987]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap
+[2017.11.20-06.27.04:001][987]LogFileHelpers: Saving map 'Kitchen' took 0.154
+[2017.11.20-06.27.04:002][987]Cmd: MAP LOAD FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-06.27.04:002][987]LightingResults: New page: Lighting Build
+[2017.11.20-06.27.04:003][987]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.11.20-06.27.04:004][987]MapCheck: New page: Map Check
+[2017.11.20-06.27.04:004][987]LightingResults: New page: Lighting Build
+[2017.11.20-06.27.04:028][987]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.20-06.27.04:028][987]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.27.04:066][987]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-06.27.04:146][987]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.594ms to complete.
+[2017.11.20-06.27.04:146][987]LogFileHelpers: Loading map 'Kitchen' took 0.145
+[2017.11.20-06.27.15:478][540]LightingResults: New page: Lighting Build
+[2017.11.20-06.27.15:478][540]MapCheck: New page: Map Check
+[2017.11.20-06.27.15:478][540]LightingResults: New page: Lighting Build
+[2017.11.20-06.27.15:489][540]LogAIModule: Creating AISystem for world Untitled
+[2017.11.20-06.27.15:492][540]LoadErrors: New page: New Map
+[2017.11.20-06.27.15:496][540]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.27.18:236][621]LogAIModule: Creating AISystem for world StitchesAndBones
+[2017.11.20-06.27.21:969][808]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.27.25:235][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.20-06.27.25:529][870]LogSavePackage: Save=276.34ms
+[2017.11.20-06.27.25:529][870]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Kitchen710CEF5F4C60B4C4644D1DB1E9AF2A83.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.20-06.27.25:532][870]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap
+[2017.11.20-06.27.25:537][870]LogFileHelpers: Saving map 'Kitchen' took 0.385
+[2017.11.20-06.27.25:538][870]Cmd: MAP LOAD FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-06.27.25:538][870]LightingResults: New page: Lighting Build
+[2017.11.20-06.27.25:539][870]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.11.20-06.27.25:539][870]MapCheck: New page: Map Check
+[2017.11.20-06.27.25:539][870]LightingResults: New page: Lighting Build
+[2017.11.20-06.27.25:591][870]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.20-06.27.25:632][870]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-06.27.25:713][870]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.061ms to complete.
+[2017.11.20-06.27.25:713][870]LogFileHelpers: Loading map 'Kitchen' took 0.177
+[2017.11.20-06.27.29:753][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.20-06.27.32:277][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock10)
+[2017.11.20-06.27.33:115][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock10)
+[2017.11.20-06.27.33:429][277]Cmd: DELETE
+[2017.11.20-06.27.33:429][277]Cmd: ACTOR DELETE
+[2017.11.20-06.27.33:662][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.33:683][277]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2017.11.20-06.27.34:425][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock9)
+[2017.11.20-06.27.34:625][328]Cmd: DELETE
+[2017.11.20-06.27.34:625][328]Cmd: ACTOR DELETE
+[2017.11.20-06.27.34:625][328]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.34:635][328]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.35:210][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.20-06.27.35:346][368]Cmd: DELETE
+[2017.11.20-06.27.35:347][368]Cmd: ACTOR DELETE
+[2017.11.20-06.27.35:347][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.35:356][368]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.35:797][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock11)
+[2017.11.20-06.27.36:001][404]Cmd: DELETE
+[2017.11.20-06.27.36:001][404]Cmd: ACTOR DELETE
+[2017.11.20-06.27.36:001][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.36:010][404]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.36:986][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SimpleArch)
+[2017.11.20-06.27.37:052][463]Cmd: DELETE
+[2017.11.20-06.27.37:052][463]Cmd: ACTOR DELETE
+[2017.11.20-06.27.37:054][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.37:062][463]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.37:439][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.20-06.27.37:507][486]Cmd: DELETE
+[2017.11.20-06.27.37:508][486]Cmd: ACTOR DELETE
+[2017.11.20-06.27.37:508][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.37:517][486]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.37:840][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock8)
+[2017.11.20-06.27.37:870][505]Cmd: DELETE
+[2017.11.20-06.27.37:870][505]Cmd: ACTOR DELETE
+[2017.11.20-06.27.37:870][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.37:879][505]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.38:425][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock7)
+[2017.11.20-06.27.38:501][538]Cmd: DELETE
+[2017.11.20-06.27.38:501][538]Cmd: ACTOR DELETE
+[2017.11.20-06.27.38:502][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.38:511][538]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.38:921][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.20-06.27.39:191][576]Cmd: DELETE
+[2017.11.20-06.27.39:191][576]Cmd: ACTOR DELETE
+[2017.11.20-06.27.39:191][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.39:201][576]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-06.27.40:580][658]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.27.41:453][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock5)
+[2017.11.20-06.27.41:764][721]Cmd: DELETE
+[2017.11.20-06.27.41:765][721]Cmd: ACTOR DELETE
+[2017.11.20-06.27.41:765][721]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.41:774][721]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.41:978][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock6)
+[2017.11.20-06.27.42:146][740]Cmd: DELETE
+[2017.11.20-06.27.42:146][740]Cmd: ACTOR DELETE
+[2017.11.20-06.27.42:147][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.42:156][740]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.42:450][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock4)
+[2017.11.20-06.27.42:565][762]Cmd: DELETE
+[2017.11.20-06.27.42:565][762]Cmd: ACTOR DELETE
+[2017.11.20-06.27.42:565][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.42:574][762]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.43:084][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.20-06.27.43:178][795]Cmd: DELETE
+[2017.11.20-06.27.43:178][795]Cmd: ACTOR DELETE
+[2017.11.20-06.27.43:179][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.43:188][795]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.44:069][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrel2)
+[2017.11.20-06.27.44:144][849]Cmd: DELETE
+[2017.11.20-06.27.44:144][849]Cmd: ACTOR DELETE
+[2017.11.20-06.27.44:145][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.44:154][849]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.44:422][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrel)
+[2017.11.20-06.27.44:488][865]Cmd: DELETE
+[2017.11.20-06.27.44:488][865]Cmd: ACTOR DELETE
+[2017.11.20-06.27.44:489][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.44:499][865]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.44:835][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrel3)
+[2017.11.20-06.27.44:867][885]Cmd: DELETE
+[2017.11.20-06.27.44:867][885]Cmd: ACTOR DELETE
+[2017.11.20-06.27.44:868][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.44:881][885]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.11.20-06.27.45:235][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WeaponsRack)
+[2017.11.20-06.27.45:310][907]Cmd: DELETE
+[2017.11.20-06.27.45:310][907]Cmd: ACTOR DELETE
+[2017.11.20-06.27.45:311][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.45:320][907]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.45:764][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.27.45:844][935]Cmd: DELETE
+[2017.11.20-06.27.45:844][935]Cmd: ACTOR DELETE
+[2017.11.20-06.27.45:844][935]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.11.20-06.27.45:853][935]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.47:322][ 23]Cmd: TRANSACTION UNDO
+[2017.11.20-06.27.47:322][ 23]LogEditorTransaction: Undo Delete Actors
+[2017.11.20-06.27.49:156][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.20-06.27.50:011][174]Cmd: DELETE
+[2017.11.20-06.27.50:011][174]Cmd: ACTOR DELETE
+[2017.11.20-06.27.50:012][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.50:021][174]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.50:745][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock2)
+[2017.11.20-06.27.50:867][221]Cmd: DELETE
+[2017.11.20-06.27.50:867][221]Cmd: ACTOR DELETE
+[2017.11.20-06.27.50:868][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.50:878][221]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-06.27.51:483][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate3)
+[2017.11.20-06.27.51:559][258]Cmd: DELETE
+[2017.11.20-06.27.51:559][258]Cmd: ACTOR DELETE
+[2017.11.20-06.27.51:559][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.51:569][258]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-06.27.51:944][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate2)
+[2017.11.20-06.27.52:008][281]Cmd: DELETE
+[2017.11.20-06.27.52:009][281]Cmd: ACTOR DELETE
+[2017.11.20-06.27.52:009][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.52:019][281]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.52:514][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate)
+[2017.11.20-06.27.52:578][312]Cmd: DELETE
+[2017.11.20-06.27.52:578][312]Cmd: ACTOR DELETE
+[2017.11.20-06.27.52:579][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.52:588][312]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.53:846][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ManaPotion)
+[2017.11.20-06.27.54:313][412]Cmd: DELETE
+[2017.11.20-06.27.54:313][412]Cmd: ACTOR DELETE
+[2017.11.20-06.27.54:314][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.54:322][412]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.55:022][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HealthPotion)
+[2017.11.20-06.27.55:294][467]Cmd: DELETE
+[2017.11.20-06.27.55:294][467]Cmd: ACTOR DELETE
+[2017.11.20-06.27.55:294][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.55:303][467]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.55:803][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book)
+[2017.11.20-06.27.55:928][501]Cmd: DELETE
+[2017.11.20-06.27.55:928][501]Cmd: ACTOR DELETE
+[2017.11.20-06.27.55:928][501]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.55:937][501]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.56:726][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock3)
+[2017.11.20-06.27.56:810][550]Cmd: DELETE
+[2017.11.20-06.27.56:810][550]Cmd: ACTOR DELETE
+[2017.11.20-06.27.56:810][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.56:820][550]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.57:186][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock001)
+[2017.11.20-06.27.57:316][577]Cmd: DELETE
+[2017.11.20-06.27.57:316][577]Cmd: ACTOR DELETE
+[2017.11.20-06.27.57:317][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.57:325][577]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.27.58:009][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sword2)
+[2017.11.20-06.27.58:134][622]Cmd: DELETE
+[2017.11.20-06.27.58:134][622]Cmd: ACTOR DELETE
+[2017.11.20-06.27.58:135][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.58:144][622]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.58:620][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sword3)
+[2017.11.20-06.27.58:804][659]Cmd: DELETE
+[2017.11.20-06.27.58:804][659]Cmd: ACTOR DELETE
+[2017.11.20-06.27.58:804][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.58:814][659]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.27.59:266][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sword)
+[2017.11.20-06.27.59:632][705]Cmd: DELETE
+[2017.11.20-06.27.59:632][705]Cmd: ACTOR DELETE
+[2017.11.20-06.27.59:632][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.27.59:641][705]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.00:362][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rune5)
+[2017.11.20-06.28.00:896][776]Cmd: DELETE
+[2017.11.20-06.28.00:896][776]Cmd: ACTOR DELETE
+[2017.11.20-06.28.00:896][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.00:906][776]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.01:448][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rune4)
+[2017.11.20-06.28.01:578][814]Cmd: DELETE
+[2017.11.20-06.28.01:578][814]Cmd: ACTOR DELETE
+[2017.11.20-06.28.01:579][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.01:588][814]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.06:172][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rune3)
+[2017.11.20-06.28.08:359][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.08:368][210]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.09:455][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.09:464][274]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.09:916][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.09:926][300]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.11:094][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.11:104][369]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.11:722][405]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.11:731][405]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.12:949][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.12:957][477]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.13:532][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.13:540][506]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.14:119][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.14:129][539]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.15:039][592]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.15:049][592]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.15:667][628]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.15:677][628]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.16:501][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.16:509][676]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.18:001][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.18:011][764]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.18:744][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.18:754][806]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.19:343][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.19:352][840]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.19:933][874]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.19:942][874]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.28.20:828][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.28.20:837][926]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.28.28:396][371]LogActorFactory: Actor Factory created Worktop_01_polySurface6
+[2017.11.20-06.28.28:704][389]LogActorFactory: Actor Factory created Worktop_01_polySurface6
+[2017.11.20-06.28.32:139][588]Cmd: TRANSACTION UNDO
+[2017.11.20-06.28.32:139][588]LogEditorTransaction: Undo Scale Actors
+[2017.11.20-06.28.36:450][839]Cmd: TRANSACTION UNDO
+[2017.11.20-06.28.36:450][839]LogEditorTransaction: Undo Scale Actors
+[2017.11.20-06.28.37:587][900]LogSlate: Took 0.016417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.20-06.28.55:691][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.29.01:163][279]Cmd: TRANSACTION UNDO
+[2017.11.20-06.29.01:163][279]LogEditorTransaction: Undo Rotate Actors
+[2017.11.20-06.29.31:518][655]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.29.31:537][655]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.29.31:554][655]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.29.31:582][655]LogFbx: Warning: Triangulating static mesh polySurface12
+[2017.11.20-06.29.31:620][655]LogStaticMesh: Building static mesh Worktop_01_polySurface6...
+[2017.11.20-06.29.31:631][655]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.Worktop_01_polySurface6
+[2017.11.20-06.29.31:633][655]LogStaticMesh: Warning: Worktop_01_polySurface6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.20-06.29.31:637][655]LogEditorFactories: -- imported successfully
+[2017.11.20-06.29.31:642][655]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.20-06.29.31:642][655]FBXImport: Warning: Worktop_01_polySurface6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.20-06.29.33:204][745]AssetReimport: New page: Outstanding source content changes 06:29:33
+[2017.11.20-06.29.33:205][745]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.29.33:212][745]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.29.33:228][745]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.29.33:264][745]LogStaticMesh: Building static mesh Worktop_01_pCylinder5...
+[2017.11.20-06.29.33:276][745]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.Worktop_01_pCylinder5
+[2017.11.20-06.29.33:281][745]LogEditorFactories: -- imported successfully
+[2017.11.20-06.29.33:294][745]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.29.33:301][745]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.29.33:319][745]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.29.33:360][745]LogStaticMesh: Building static mesh Worktop_01_pCylinder6...
+[2017.11.20-06.29.33:374][745]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.Worktop_01_pCylinder6
+[2017.11.20-06.29.33:378][745]LogEditorFactories: -- imported successfully
+[2017.11.20-06.29.33:385][745]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.29.33:395][745]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.29.33:410][745]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.29.33:447][745]LogStaticMesh: Building static mesh Worktop_01_polySurface6...
+[2017.11.20-06.29.33:459][745]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.Worktop_01_polySurface6
+[2017.11.20-06.29.33:464][745]LogEditorFactories: -- imported successfully
+[2017.11.20-06.29.33:555][746]LogSavePackage: Save=38.95ms
+[2017.11.20-06.29.33:555][746]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_pCylinder5FA5956B3430412699E8859ACF9C5CDC3.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.uasset'
+[2017.11.20-06.29.33:558][746]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.uasset
+[2017.11.20-06.29.33:590][746]LogSavePackage: Save=10.21ms
+[2017.11.20-06.29.33:590][746]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_pCylinder612D2B53248BB1521C92DCFB4105D610B.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.uasset'
+[2017.11.20-06.29.33:593][746]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.uasset
+[2017.11.20-06.29.36:594][923]AssetReimport: Reimported asset Worktop_01_pCylinder5 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-06.29.36:595][923]AssetReimport: Reimported asset Worktop_01_pCylinder6 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-06.29.36:595][923]AssetReimport: Reimported asset Worktop_01_polySurface6 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-06.29.42:826][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.30.35:450][193]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.30.35:458][193]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.30.35:475][193]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.30.35:477][193]LogFbx: Warning: Triangulating static mesh polySurface12
+[2017.11.20-06.30.35:517][193]LogStaticMesh: Building static mesh Worktop_01_polySurface6...
+[2017.11.20-06.30.35:529][193]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.Worktop_01_polySurface6
+[2017.11.20-06.30.35:530][193]LogStaticMesh: Warning: Worktop_01_polySurface6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.20-06.30.35:536][193]LogEditorFactories: -- imported successfully
+[2017.11.20-06.30.35:540][193]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.20-06.30.35:540][193]FBXImport: Warning: Worktop_01_polySurface6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.20-06.30.38:214][351]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.30.42:085][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.32.02:650][150]AssetReimport: New page: Outstanding source content changes 06:32:02
+[2017.11.20-06.32.02:651][150]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.32.02:659][150]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.32.02:675][150]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.32.02:720][150]LogStaticMesh: Building static mesh Worktop_01_pCylinder5...
+[2017.11.20-06.32.02:731][150]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.Worktop_01_pCylinder5
+[2017.11.20-06.32.02:736][150]LogEditorFactories: -- imported successfully
+[2017.11.20-06.32.02:744][150]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.32.02:753][150]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.32.02:767][150]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.32.02:808][150]LogStaticMesh: Building static mesh Worktop_01_pCylinder6...
+[2017.11.20-06.32.02:820][150]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.Worktop_01_pCylinder6
+[2017.11.20-06.32.02:824][150]LogEditorFactories: -- imported successfully
+[2017.11.20-06.32.02:831][150]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-06.32.02:840][150]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-06.32.02:856][150]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.32.02:892][150]LogStaticMesh: Building static mesh Worktop_01_polySurface6...
+[2017.11.20-06.32.02:904][150]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.Worktop_01_polySurface6
+[2017.11.20-06.32.02:910][150]LogEditorFactories: -- imported successfully
+[2017.11.20-06.32.02:973][151]LogSavePackage: Save=11.77ms
+[2017.11.20-06.32.02:974][151]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_pCylinder54248B6A94871257548D991A731795286.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.uasset'
+[2017.11.20-06.32.02:977][151]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder5.uasset
+[2017.11.20-06.32.03:010][151]LogSavePackage: Save=11.66ms
+[2017.11.20-06.32.03:010][151]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_pCylinder6EE1054B44802249F66725F87558D39A5.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.uasset'
+[2017.11.20-06.32.03:013][151]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_pCylinder6.uasset
+[2017.11.20-06.32.06:021][328]AssetReimport: Reimported asset Worktop_01_pCylinder5 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-06.32.06:021][328]AssetReimport: Reimported asset Worktop_01_pCylinder6 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-06.32.06:021][328]AssetReimport: Reimported asset Worktop_01_polySurface6 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-06.32.14:964][858]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.32.18:603][ 70]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2017.11.20-06.32.29:393][703]LogEditorViewport: Clicking on Actor (LMB): PointLight4_Blueprint_C (PointLight4_Blueprint)
+[2017.11.20-06.32.30:478][763]Cmd: DELETE
+[2017.11.20-06.32.30:478][763]Cmd: ACTOR DELETE
+[2017.11.20-06.32.30:478][763]LogEditorActor: Deleted Actor: PointLight4_Blueprint_C
+[2017.11.20-06.32.30:491][763]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.11.20-06.32.31:199][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.11.20-06.32.31:598][826]Cmd: DELETE
+[2017.11.20-06.32.31:598][826]Cmd: ACTOR DELETE
+[2017.11.20-06.32.31:598][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.32.31:608][826]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.32.36:996][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.32.37:006][146]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.32.37:742][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.32.37:752][189]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.32.38:237][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.32.38:245][217]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.32.38:750][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.32.38:759][246]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.20-06.32.40:043][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-06.32.40:053][322]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.32.43:008][496]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.20-06.32.46:969][728]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.20-06.32.48:526][820]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.20-06.32.49:526][877]LogTemp: Repeating last play command: Standalone Game
+[2017.11.20-06.32.52:428][877]LogSavePackage: Save=11.96ms
+[2017.11.20-06.32.52:428][877]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_polySurface6A944B915440EFB41C233F8BA6CF357DB.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.uasset'
+[2017.11.20-06.32.52:431][877]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.uasset
+[2017.11.20-06.32.52:441][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../University/TDEMO/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.11.20-06.32.52:567][877]LogSavePackage: Save=116.24ms
+[2017.11.20-06.32.52:567][877]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/UEDPCKitchen6607EB804F6E71553E1912A10BBF79F6.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap'
+[2017.11.20-06.32.52:568][877]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap
+[2017.11.20-06.32.52:570][877]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.11.20-06.32.58:166][ 38]LogTemp: Repeating last play command: Standalone Game
+[2017.11.20-06.32.58:301][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../University/TDEMO/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.11.20-06.32.58:425][ 38]LogSavePackage: Save=115.72ms
+[2017.11.20-06.32.58:426][ 38]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/UEDPCKitchenD064E4554A45CD013A923BA803066D08.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap'
+[2017.11.20-06.32.58:427][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap
+[2017.11.20-06.32.58:428][ 38]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.11.20-06.33.17:155][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.17:184][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.33.17:209][384]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:33:17)
+[2017.11.20-06.33.17:226][384]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.33.17:245][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019213s)
+[2017.11.20-06.33.17:246][384]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.33.17:247][384]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2017.11.20-06.33.17:247][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.037596s)
+[2017.11.20-06.33.17:260][384]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.33.17:272][384]LogInit: FAudioDevice initialized.
+[2017.11.20-06.33.17:352][384]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.33.17:356][384]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.33.17
+[2017.11.20-06.33.17:356][384]LogWorld: Bringing up level for play took: 0.002521
+[2017.11.20-06.33.17:415][384]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.11.20-06.33.17:435][384]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.526
+[2017.11.20-06.33.17:436][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.33:460][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.33:644][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.35:253][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.33.41:062][763]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.33.41:081][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.41:081][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.33.41:082][763]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:33:41)
+[2017.11.20-06.33.41:082][763]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.33.41:094][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012388s)
+[2017.11.20-06.33.41:095][763]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.33.41:095][763]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2017.11.20-06.33.41:095][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.013622s)
+[2017.11.20-06.33.41:109][763]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.33.41:123][763]LogInit: FAudioDevice initialized.
+[2017.11.20-06.33.41:161][763]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.33.41:164][763]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.33.41
+[2017.11.20-06.33.41:165][763]LogWorld: Bringing up level for play took: 0.002378
+[2017.11.20-06.33.41:167][763]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.258
+[2017.11.20-06.33.41:167][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.56:185][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.33.56:241][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.34.18:936][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.34.19:356][ 17]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.11.20-06.34.21:952][170]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.20-06.34.22:890][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.34.23:569][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01_polySurface6)
+[2017.11.20-06.34.23:713][266]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.20-06.34.33:218][830]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.20-06.34.38:246][ 67]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2017.11.20-06.34.51:593][806]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.20-06.34.53:615][926]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.34.53:633][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.34.53:633][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.34.53:633][926]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:34:53)
+[2017.11.20-06.34.53:633][926]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.34.53:643][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009454s)
+[2017.11.20-06.34.53:644][926]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.34.53:644][926]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2017.11.20-06.34.53:644][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010964s)
+[2017.11.20-06.34.53:660][926]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.34.53:673][926]LogInit: FAudioDevice initialized.
+[2017.11.20-06.34.53:707][926]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.34.53:709][926]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.34.53
+[2017.11.20-06.34.53:710][926]LogWorld: Bringing up level for play took: 0.002358
+[2017.11.20-06.34.53:712][926]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.803
+[2017.11.20-06.34.53:713][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.35.10:893][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.35.10:942][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.35.16:241][260]LogActorFactory: Actor Factory created ChoppingBoard
+[2017.11.20-06.35.16:864][297]LogActorFactory: Actor Factory created ChoppingBoard
+[2017.11.20-06.35.44:993][966]Cmd: TRANSACTION UNDO
+[2017.11.20-06.35.44:993][966]LogEditorTransaction: Undo Scale Actors
+[2017.11.20-06.35.49:993][260]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.35.50:927][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-06.35.54:859][543]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.35.54:878][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.35.54:878][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.35.54:878][543]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:35:54)
+[2017.11.20-06.35.54:878][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.35.54:887][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008388s)
+[2017.11.20-06.35.54:887][543]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.35.54:888][543]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2017.11.20-06.35.54:888][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.009717s)
+[2017.11.20-06.35.54:903][543]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.35.54:918][543]LogInit: FAudioDevice initialized.
+[2017.11.20-06.35.54:954][543]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.35.54:957][543]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.35.54
+[2017.11.20-06.35.54:958][543]LogWorld: Bringing up level for play took: 0.003203
+[2017.11.20-06.35.54:960][543]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.051
+[2017.11.20-06.35.54:960][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.36.01:986][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.36.02:037][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.36.05:030][134]MapCheck: New page: Map Check
+[2017.11.20-06.36.05:226][134]LightingResults: New page: Lighting Build - 20 Nov 2017 06:36:05
+[2017.11.20-06.36.05:441][134]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.20-06.36.05:582][134]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.20-06.36.05:598][134]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.20-06.36.06:623][134]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.20-06.36.06:623][134]LogSwarmInterface: [TryOpenConnection] Local Process ID is 53636
+[2017.11.20-06.36.08:373][134]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.20-06.36.08:376][134]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.20-06.36.08:376][134]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.20-06.36.08:376][134]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.20-06.36.08:376][134]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.20-06.36.08:729][134]LogEditorBuildUtils: Build time 0:03
+[2017.11.20-06.36.08:738][134]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_30, compiling. 
+[2017.11.20-06.36.08:743][134]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_30, compiling. 
+[2017.11.20-06.36.08:781][135]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Worktop, compiling. 
+[2017.11.20-06.36.08:789][135]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Worktop, compiling. 
+[2017.11.20-06.36.08:831][136]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cupboard, compiling. 
+[2017.11.20-06.36.08:840][136]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cupboard, compiling. 
+[2017.11.20-06.36.08:865][137]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2017.11.20-06.36.08:875][137]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2017.11.20-06.36.08:902][138]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SoftWood, compiling. 
+[2017.11.20-06.36.08:911][138]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SoftWood, compiling. 
+[2017.11.20-06.36.13:109][203]LightingResults: Warning: ChoppingBoard Object has overlapping UVs.
+[2017.11.20-06.36.13:109][203]LightingResults: ChoppingBoard Lightmap UV are overlapping by 1.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.20-06.36.13:500][226]Job is a success!
+[2017.11.20-06.36.21:415][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-06.36.22:001][731]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.11.20-06.36.34:135][449]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/SoftWood.SoftWood needed to have new flag set bUsedWithStaticLighting !
+[2017.11.20-06.36.34:137][449]LogMaterial: Missing cached shader map for material SoftWood, compiling. 
+[2017.11.20-06.36.34:158][449]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Worktop.Worktop needed to have new flag set bUsedWithStaticLighting !
+[2017.11.20-06.36.34:175][449]LogMaterial: Missing cached shader map for material Worktop, compiling. 
+[2017.11.20-06.36.34:200][449]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Cupboard.Cupboard needed to have new flag set bUsedWithStaticLighting !
+[2017.11.20-06.36.34:204][449]LogMaterial: Missing cached shader map for material Cupboard, compiling. 
+[2017.11.20-06.36.34:242][449]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Metal.Metal needed to have new flag set bUsedWithStaticLighting !
+[2017.11.20-06.36.34:250][449]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.20-06.36.34:382][449]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X64)
+[2017.11.20-06.36.34:382][449]Lightmass on LAPTOP-JUAO3GMA: 21.9 sec total, 113 ms importing, 8 ms setup, 438 ms photons, 21.3 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 2:29 min total, 444 ms processing.
+[2017.11.20-06.36.34:416][449]LogStaticLightingSystem: Illumination: 8.67 sec (25 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2017.11.20-06.36.34:416][449]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.20-06.36.34:416][449]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.20-06.36.35:389][449]DumpUnbuiltLightIteractions
+[2017.11.20-06.36.35:389][449]Lights with unbuilt interactions: 0
+[2017.11.20-06.36.35:389][449]
+[2017.11.20-06.36.35:390][449]Primitives with unbuilt interactions: 0
+[2017.11.20-06.36.35:406][450]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.20-06.36.35:406][450]MapCheck: New page: Kitchen - 20 Nov 2017 06:36:35
+[2017.11.20-06.36.35:435][450]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.20-06.36.35:435][450]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.20-06.36.35:435][450]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.20-06.36.35:435][450]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.20-06.36.35:435][450]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.20-06.36.35:435][450]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.20-06.36.35:571][450]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 165.149ms to complete.
+[2017.11.20-06.36.48:481][193]LogActorFactory: Actor Factory created KnifeBlock
+[2017.11.20-06.36.49:552][257]LogActorFactory: Actor Factory created KnifeBlock
+[2017.11.20-06.36.51:484][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-06.36.51:988][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-06.36.55:405][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KnifeBlock)
+[2017.11.20-06.37.10:745][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KnifeBlock)
+[2017.11.20-06.37.23:604][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-06.38.16:272][116]AssetReimport: New page: Outstanding source content changes 06:38:16
+[2017.11.20-06.38.16:273][116]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/KnifeBlock.fbx]
+[2017.11.20-06.38.16:282][116]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/KnifeBlock.fbx
+[2017.11.20-06.38.16:290][116]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.38.16:642][116]LogStaticMesh: Building static mesh KnifeBlock...
+[2017.11.20-06.38.16:690][116]LogStaticMesh: Built static mesh [0.05s] /Game/Level_Assets/Environments/Kitchen/KnifeBlock.KnifeBlock
+[2017.11.20-06.38.16:707][116]LogEditorFactories: -- imported successfully
+[2017.11.20-06.38.16:799][117]LogSavePackage: Save=27.88ms
+[2017.11.20-06.38.16:799][117]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/KnifeBlock51008FD54A53FF6FE6453AA692176E4F.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/KnifeBlock.uasset'
+[2017.11.20-06.38.16:803][117]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/KnifeBlock.uasset
+[2017.11.20-06.38.17:738][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KnifeBlock)
+[2017.11.20-06.38.19:806][292]AssetReimport: Reimported asset KnifeBlock from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/KnifeBlock.fbx.
+[2017.11.20-06.38.24:633][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-06.41.34:094][465]AssetReimport: New page: Outstanding source content changes 06:41:34
+[2017.11.20-06.41.34:095][465]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx]
+[2017.11.20-06.41.34:102][465]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx
+[2017.11.20-06.41.34:112][465]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.41.34:122][465]LogStaticMesh: Building static mesh ChoppingBoard...
+[2017.11.20-06.41.34:131][465]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/ChoppingBoard.ChoppingBoard
+[2017.11.20-06.41.34:137][465]LogEditorFactories: -- imported successfully
+[2017.11.20-06.41.34:207][466]LogSavePackage: Save=10.93ms
+[2017.11.20-06.41.34:207][466]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/ChoppingBoardC15AD8D7436B1266C3A66B8CAA018F97.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/ChoppingBoard.uasset'
+[2017.11.20-06.41.34:211][466]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/ChoppingBoard.uasset
+[2017.11.20-06.41.37:226][645]AssetReimport: Reimported asset ChoppingBoard from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx.
+[2017.11.20-06.41.42:445][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-06.41.49:467][370]LogActorFactory: Actor Factory created Knife
+[2017.11.20-06.41.49:786][388]LogActorFactory: Actor Factory created Knife
+[2017.11.20-06.41.55:801][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-06.41.56:670][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Knife)
+[2017.11.20-06.41.57:113][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KnifeBlock)
+[2017.11.20-06.41.58:115][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Knife)
+[2017.11.20-06.42.01:766][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Knife)
+[2017.11.20-06.42.06:304][354]Cmd: TRANSACTION UNDO
+[2017.11.20-06.42.06:304][354]LogEditorTransaction: Undo Move Actors
+[2017.11.20-06.42.20:542][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.42.22:958][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.42.23:603][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.20-06.42.23:824][374]LogSavePackage: Save=199.37ms
+[2017.11.20-06.42.23:824][374]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Kitchen8770C4134915C9235B27A2A945DAD3E7.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.20-06.42.23:827][374]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap
+[2017.11.20-06.42.23:877][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.20-06.42.23:906][374]LogSavePackage: Save=27.37ms
+[2017.11.20-06.42.23:906][374]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Kitchen_BuiltData56C31E41481505DC290C7C84EE312158.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.20-06.42.23:909][374]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.20-06.42.25:464][467]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.42.25:487][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.42.25:488][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.42.25:488][467]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:42:25)
+[2017.11.20-06.42.25:488][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.42.25:509][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021055s)
+[2017.11.20-06.42.25:510][467]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.42.25:510][467]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2017.11.20-06.42.25:510][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.022475s)
+[2017.11.20-06.42.25:528][467]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.42.25:544][467]LogInit: FAudioDevice initialized.
+[2017.11.20-06.42.25:577][467]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.42.25:581][467]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.42.25
+[2017.11.20-06.42.25:582][467]LogWorld: Bringing up level for play took: 0.003405
+[2017.11.20-06.42.25:585][467]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.676
+[2017.11.20-06.42.25:585][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.42.28:799][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.42.28:847][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.44.11:037][682]LogSavePackage: Save=10.59ms
+[2017.11.20-06.44.11:037][682]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01926B4DDC4C6C38CA24E32CAC4C3568B8.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01.uasset'
+[2017.11.20-06.44.11:040][682]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01.uasset
+[2017.11.20-06.44.11:052][682]LogSavePackage: Save=1.28ms
+[2017.11.20-06.44.11:052][682]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01_polySurface66588BDCF4119F1D1B36A1CA9B7D40ADA.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.uasset'
+[2017.11.20-06.44.11:055][682]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01_polySurface6.uasset
+[2017.11.20-06.45.41:652][ 59]LogActorFactory: Actor Factory created Cube
+[2017.11.20-06.45.42:536][112]LogActorFactory: Actor Factory created Cube
+[2017.11.20-06.46.49:973][ 57]EditorErrors: New page: Actor attachment
+[2017.11.20-06.46.51:687][159]EditorErrors: New page: Actor attachment
+[2017.11.20-06.46.52:921][233]Cmd: TRANSACTION UNDO
+[2017.11.20-06.46.52:921][233]LogEditorTransaction: Undo Attach actors
+[2017.11.20-06.46.53:339][257]Cmd: TRANSACTION UNDO
+[2017.11.20-06.46.53:339][257]LogEditorTransaction: Undo Attach actors
+[2017.11.20-06.46.59:346][612]Cmd: TRANSACTION UNDO
+[2017.11.20-06.46.59:346][612]LogEditorTransaction: Undo Move Actors
+[2017.11.20-06.47.01:377][731]Cmd: TRANSACTION UNDO
+[2017.11.20-06.47.01:377][731]LogEditorTransaction: Undo Move Actors
+[2017.11.20-06.47.02:016][769]Cmd: EDIT COPY
+[2017.11.20-06.47.02:191][777]Cmd: EDIT PASTE
+[2017.11.20-06.47.11:342][316]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.47.11:686][333]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.11.20-06.47.12:685][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.11.20-06.47.23:465][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.11.20-06.47.42:866][174]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.47.42:885][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.47.42:885][174]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.20-06.47.42:890][174]LogPlayLevel: [PlayLevel] Compiling Kitchen before play...
+[2017.11.20-06.47.42:907][174]LogPlayLevel: PlayLevel: Blueprint regeneration took 22 ms (1 blueprints)
+[2017.11.20-06.47.42:907][174]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:47:42)
+[2017.11.20-06.47.42:907][174]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.47.42:919][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011267s)
+[2017.11.20-06.47.42:919][174]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.47.42:920][174]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2017.11.20-06.47.42:920][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.012540s)
+[2017.11.20-06.47.42:935][174]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.47.42:950][174]LogInit: FAudioDevice initialized.
+[2017.11.20-06.47.42:984][174]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.47.42:987][174]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.47.42
+[2017.11.20-06.47.42:988][174]LogWorld: Bringing up level for play took: 0.002584
+[2017.11.20-06.47.42:990][174]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.081
+[2017.11.20-06.47.42:991][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.47.48:062][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.47.48:110][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.47.52:880][754]LogEditorActor: Deleted Actor: PointLight
+[2017.11.20-06.47.52:891][754]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.47.53:968][818]LogEditorActor: Deleted Actor: PointLight
+[2017.11.20-06.47.53:979][818]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-06.47.54:806][867]LogEditorActor: Deleted Actor: PointLight
+[2017.11.20-06.47.54:815][867]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.47.55:341][898]LogEditorActor: Deleted Actor: PointLight
+[2017.11.20-06.47.55:351][898]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.47.56:013][937]LogEditorActor: Deleted Actor: PointLight
+[2017.11.20-06.47.56:023][937]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-06.47.58:634][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.47.58:653][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.47.58:653][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.47.58:653][ 94]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:47:58)
+[2017.11.20-06.47.58:653][ 94]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.47.58:661][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007819s)
+[2017.11.20-06.47.58:662][ 94]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.47.58:662][ 94]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2017.11.20-06.47.58:662][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.008824s)
+[2017.11.20-06.47.58:674][ 94]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.47.58:687][ 94]LogInit: FAudioDevice initialized.
+[2017.11.20-06.47.58:723][ 94]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.47.58:726][ 94]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.47.58
+[2017.11.20-06.47.58:726][ 94]LogWorld: Bringing up level for play took: 0.002195
+[2017.11.20-06.47.58:728][ 94]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.181
+[2017.11.20-06.47.58:729][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.03:232][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.03:264][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.09:629][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-06.48.12:247][894]Cmd: TRANSACTION UNDO
+[2017.11.20-06.48.12:248][894]LogEditorTransaction: Undo Move Actors
+[2017.11.20-06.48.16:381][140]Cmd: DUPLICATE
+[2017.11.20-06.48.16:381][140]Cmd: ACTOR DUPLICATE
+[2017.11.20-06.48.22:894][520]Cmd: DUPLICATE
+[2017.11.20-06.48.22:894][520]Cmd: ACTOR DUPLICATE
+[2017.11.20-06.48.27:913][817]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.48.27:932][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.27:933][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.48.27:933][817]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:48:27)
+[2017.11.20-06.48.27:933][817]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.48.27:940][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007628s)
+[2017.11.20-06.48.27:941][817]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.48.27:941][817]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2017.11.20-06.48.27:941][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.008486s)
+[2017.11.20-06.48.27:955][817]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.48.27:967][817]LogInit: FAudioDevice initialized.
+[2017.11.20-06.48.28:004][817]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.48.28:008][817]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.48.28
+[2017.11.20-06.48.28:008][817]LogWorld: Bringing up level for play took: 0.002713
+[2017.11.20-06.48.28:011][817]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.898
+[2017.11.20-06.48.28:011][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.35:937][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.35:990][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.38:353][429]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.20-06.48.52:375][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2017.11.20-06.48.53:611][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.48.53:633][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.48.53:633][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.48.53:633][ 10]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:48:53)
+[2017.11.20-06.48.53:633][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.48.53:640][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007272s)
+[2017.11.20-06.48.53:641][ 10]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.48.53:642][ 10]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2017.11.20-06.48.53:642][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.008717s)
+[2017.11.20-06.48.53:655][ 10]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.48.53:668][ 10]LogInit: FAudioDevice initialized.
+[2017.11.20-06.48.53:702][ 10]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.48.53:705][ 10]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.48.53
+[2017.11.20-06.48.53:705][ 10]LogWorld: Bringing up level for play took: 0.002061
+[2017.11.20-06.48.53:708][ 10]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.799
+[2017.11.20-06.48.53:708][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.22:049][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.22:102][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.29:543][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-06.49.31:303][252]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-06.49.31:322][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.31:322][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-06.49.31:322][252]PIE: New page: PIE session: Kitchen (20 Nov 2017 06:49:31)
+[2017.11.20-06.49.31:323][252]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-06.49.31:331][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008624s)
+[2017.11.20-06.49.31:332][252]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-06.49.31:332][252]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2017.11.20-06.49.31:332][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.009758s)
+[2017.11.20-06.49.31:346][252]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-06.49.31:360][252]LogInit: FAudioDevice initialized.
+[2017.11.20-06.49.31:393][252]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-06.49.31:396][252]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-06.49.31
+[2017.11.20-06.49.31:397][252]LogWorld: Bringing up level for play took: 0.002599
+[2017.11.20-06.49.31:399][252]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.49
+[2017.11.20-06.49.31:399][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.34:734][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.34:786][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-06.49.37:462][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.11.20-06.52.08:000][766]AssetReimport: New page: Outstanding source content changes 06:52:08
+[2017.11.20-06.52.08:001][766]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx]
+[2017.11.20-06.52.08:009][766]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx
+[2017.11.20-06.52.08:016][766]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-06.52.08:026][766]LogStaticMesh: Building static mesh ChoppingBoard...
+[2017.11.20-06.52.08:036][766]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/ChoppingBoard.ChoppingBoard
+[2017.11.20-06.52.08:042][766]LogEditorFactories: -- imported successfully
+[2017.11.20-06.52.08:096][767]LogSavePackage: Save=10.40ms
+[2017.11.20-06.52.08:096][767]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/ChoppingBoard637F46E845DABF83E44497BF912A16E6.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/ChoppingBoard.uasset'
+[2017.11.20-06.52.08:101][767]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/ChoppingBoard.uasset
+[2017.11.20-06.52.11:122][947]AssetReimport: Reimported asset ChoppingBoard from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/ChoppingBoard.fbx.
+[2017.11.20-17.01.45:831][695]LogHttp: Warning: 0000024B5E436680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.20-17.01.45:831][695]LogHttp: Warning: 0000024B5E436680: libcurl info message cache 0 (Connection 21 seems to be dead!)
+[2017.11.20-17.01.45:831][695]LogHttp: Warning: 0000024B5E436680: libcurl info message cache 1 (Closing connection 21)
+[2017.11.20-17.01.45:831][695]LogHttp: Warning: 0000024B5E436680: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.20-17.01.45:831][695]LogHttp: Warning: 0000024B5E436680: libcurl info message cache 3 (Closing connection 22)
+[2017.11.20-17.07.40:578][757]AssetReimport: New page: Outstanding source content changes 17:07:40
+[2017.11.20-17.07.40:591][757]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Enemies/Tall Boy/TallBoy.fbx)
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: NodeAttribute, ItemCount : 12
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: Model, ItemCount : 13
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: AnimationCurveNode, ItemCount : 4
+[2017.11.20-17.07.40:596][757]LogFbx: ItemName: AnimationCurve, ItemCount : 10
+[2017.11.20-17.07.40:603][757]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Enemies/Tall Boy/TallBoy.fbx
+[2017.11.20-17.07.40:677][757]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-17.07.53:677][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.20-17.07.53:879][865]LogSavePackage: Save=182.53ms
+[2017.11.20-17.07.53:879][865]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Kitchen97D5912A4454AD33CEE70192AF0B38DE.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.20-17.07.53:882][865]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen.umap
+[2017.11.20-17.07.53:917][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.20-17.07.53:999][865]LogSavePackage: Save=68.51ms
+[2017.11.20-17.07.53:999][865]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Kitchen_BuiltData8DD969B5434E26C183C7A4BCA4508B4A.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.20-17.07.54:000][865]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.20-17.07.54:865][917]AssetReimport: Importing new asset /Game/Level_Assets/Enemies/Tall_Boy/TallBoy.
+[2017.11.20-17.07.54:865][917]AssetReimport: Failed to import file D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Enemies/Tall Boy/TallBoy.fbx.
+[2017.11.20-18.10.27:092][196]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.10.27:139][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.10.27:140][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.10.27:142][196]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:10:27)
+[2017.11.20-18.10.27:143][196]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.10.27:178][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035258s)
+[2017.11.20-18.10.27:182][196]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.10.27:183][196]LogPlayLevel: PIE: World Init took: (0.005233s)
+[2017.11.20-18.10.27:186][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.043314s)
+[2017.11.20-18.10.27:232][196]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.10.27:248][196]LogInit: FAudioDevice initialized.
+[2017.11.20-18.10.27:282][196]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.10.27:289][196]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.10.27
+[2017.11.20-18.10.27:291][196]LogWorld: Bringing up level for play took: 0.006835
+[2017.11.20-18.10.27:298][196]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.396
+[2017.11.20-18.10.27:299][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.10.40:572][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.10.40:616][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.11.18:483][581]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.11.18:500][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.11.18:500][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.11.18:500][581]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:11:18)
+[2017.11.20-18.11.18:500][581]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.11.18:508][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007506s)
+[2017.11.20-18.11.18:508][581]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.11.18:509][581]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2017.11.20-18.11.18:509][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.009305s)
+[2017.11.20-18.11.18:522][581]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.11.18:535][581]LogInit: FAudioDevice initialized.
+[2017.11.20-18.11.18:568][581]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.11.18:571][581]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.11.18
+[2017.11.20-18.11.18:572][581]LogWorld: Bringing up level for play took: 0.002746
+[2017.11.20-18.11.18:574][581]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.328
+[2017.11.20-18.11.18:574][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.11.33:478][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.11.33:515][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.12.56:057][860]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.12.56:076][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.12.56:077][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.12.56:077][860]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:12:56)
+[2017.11.20-18.12.56:077][860]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.12.56:087][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009580s)
+[2017.11.20-18.12.56:087][860]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.12.56:087][860]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2017.11.20-18.12.56:088][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010691s)
+[2017.11.20-18.12.56:101][860]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.12.56:116][860]LogInit: FAudioDevice initialized.
+[2017.11.20-18.12.56:149][860]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.12.56:153][860]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.12.56
+[2017.11.20-18.12.56:154][860]LogWorld: Bringing up level for play took: 0.003957
+[2017.11.20-18.12.56:158][860]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.744
+[2017.11.20-18.12.56:158][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.13.06:584][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.13.06:617][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.13.08:187][576]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.13.08:207][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.13.08:207][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.13.08:207][576]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:13:08)
+[2017.11.20-18.13.08:207][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.13.08:217][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009233s)
+[2017.11.20-18.13.08:217][576]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.13.08:218][576]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2017.11.20-18.13.08:218][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010445s)
+[2017.11.20-18.13.08:232][576]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.13.08:246][576]LogInit: FAudioDevice initialized.
+[2017.11.20-18.13.08:279][576]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.13.08:283][576]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.13.08
+[2017.11.20-18.13.08:283][576]LogWorld: Bringing up level for play took: 0.002760
+[2017.11.20-18.13.08:286][576]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.616
+[2017.11.20-18.13.08:286][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.13.21:555][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.13.21:588][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.18.43:882][399]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.20-18.19.02:099][731]Cmd: DELETE
+[2017.11.20-18.19.02:099][731]Cmd: ACTOR DELETE
+[2017.11.20-18.19.02:100][731]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2017.11.20-18.19.02:110][731]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-18.19.03:481][813]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.11.20-18.19.06:160][971]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.19.06:179][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.19.06:180][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.19.06:180][971]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:19:06)
+[2017.11.20-18.19.06:180][971]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.19.06:189][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009619s)
+[2017.11.20-18.19.06:190][971]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.19.06:191][971]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2017.11.20-18.19.06:191][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010997s)
+[2017.11.20-18.19.06:207][971]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.19.06:223][971]LogInit: FAudioDevice initialized.
+[2017.11.20-18.19.06:263][971]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.19.06:267][971]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.19.06
+[2017.11.20-18.19.06:268][971]LogWorld: Bringing up level for play took: 0.003372
+[2017.11.20-18.19.06:272][971]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.631
+[2017.11.20-18.19.06:272][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.19.10:422][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.19.10:468][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.19.49:815][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-18.19.53:809][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-18.20.04:035][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-18.20.46:644][931]AssetReimport: New page: Outstanding source content changes 18:20:46
+[2017.11.20-18.20.46:645][931]LogEditorFactories: Performing atomic reimport of [D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx]
+[2017.11.20-18.20.46:654][931]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx
+[2017.11.20-18.20.46:665][931]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-18.20.46:708][931]LogStaticMesh: Building static mesh Worktop_01...
+[2017.11.20-18.20.46:720][931]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_01.Worktop_01
+[2017.11.20-18.20.46:730][931]LogEditorFactories: -- imported successfully
+[2017.11.20-18.20.46:805][932]LogSavePackage: Save=14.07ms
+[2017.11.20-18.20.46:805][932]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_01BCBFA09E4E67F8FEDAB7BA9D9687B226.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01.uasset'
+[2017.11.20-18.20.46:809][932]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_01.uasset
+[2017.11.20-18.20.49:826][112]AssetReimport: Reimported asset Worktop_01 from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_01.fbx.
+[2017.11.20-18.21.04:836][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_2)
+[2017.11.20-18.21.05:958][ 72]Cmd: DELETE
+[2017.11.20-18.21.05:958][ 72]Cmd: ACTOR DELETE
+[2017.11.20-18.21.05:959][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-18.21.05:968][ 72]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.20-18.21.06:864][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_3)
+[2017.11.20-18.21.06:930][127]Cmd: DELETE
+[2017.11.20-18.21.06:930][127]Cmd: ACTOR DELETE
+[2017.11.20-18.21.06:931][127]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-18.21.06:941][127]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-18.21.10:901][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChoppingBoard)
+[2017.11.20-18.21.14:441][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Knife)
+[2017.11.20-18.21.23:411][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.21.23:430][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.23:430][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.21.23:430][ 97]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:21:23)
+[2017.11.20-18.21.23:430][ 97]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.21.23:439][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009395s)
+[2017.11.20-18.21.23:441][ 97]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.21.23:441][ 97]LogPlayLevel: PIE: World Init took: (0.002030s)
+[2017.11.20-18.21.23:442][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011684s)
+[2017.11.20-18.21.23:454][ 97]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.21.23:465][ 97]LogInit: FAudioDevice initialized.
+[2017.11.20-18.21.23:501][ 97]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.21.23:503][ 97]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.21.23
+[2017.11.20-18.21.23:504][ 97]LogWorld: Bringing up level for play took: 0.002447
+[2017.11.20-18.21.23:507][ 97]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.605
+[2017.11.20-18.21.23:508][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.28:497][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.28:550][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.29:347][440]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2017.11.20-18.21.32:145][604]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.21.32:168][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.32:168][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.21.32:168][604]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:21:32)
+[2017.11.20-18.21.32:168][604]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.21.32:176][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007625s)
+[2017.11.20-18.21.32:177][604]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.21.32:177][604]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2017.11.20-18.21.32:177][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.008624s)
+[2017.11.20-18.21.32:191][604]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.21.32:206][604]LogInit: FAudioDevice initialized.
+[2017.11.20-18.21.32:236][604]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.21.32:238][604]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.21.32
+[2017.11.20-18.21.32:239][604]LogWorld: Bringing up level for play took: 0.001786
+[2017.11.20-18.21.32:241][604]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.661
+[2017.11.20-18.21.32:241][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.38:406][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.21.38:449][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.26.32:990][357]AssetReimport: New page: Outstanding source content changes 18:26:32
+[2017.11.20-18.26.32:993][357]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_02.fbx)
+[2017.11.20-18.26.32:996][357]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-18.26.32:997][357]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-18.26.32:997][357]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-18.26.32:997][357]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2017.11.20-18.26.32:997][357]LogFbx: ItemName: Model, ItemCount : 7
+[2017.11.20-18.26.32:997][357]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-18.26.32:997][357]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.20-18.26.33:003][357]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_02.fbx
+[2017.11.20-18.26.33:015][357]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-18.28.34:925][357]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_02.fbx
+[2017.11.20-18.28.34:934][357]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-18.28.34:977][357]LogStaticMesh: Building static mesh Worktop_02...
+[2017.11.20-18.28.34:989][357]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_02.Worktop_02
+[2017.11.20-18.28.35:099][358]LogSavePackage: Save=13.97ms
+[2017.11.20-18.28.35:099][358]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_024C74FDBC4FE67684B7B1DEA283B262C1.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_02.uasset'
+[2017.11.20-18.28.35:103][358]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_02.uasset
+[2017.11.20-18.28.38:118][534]AssetReimport: Importing new asset /Game/Level_Assets/Environments/Kitchen/Worktop_02.
+[2017.11.20-18.28.38:135][535]AssetReimport: New page: Outstanding source content changes 18:28:38
+[2017.11.20-18.28.38:136][535]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_03.fbx)
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: NodeAttribute, ItemCount : 44
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: Model, ItemCount : 45
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-18.28.38:139][535]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.20-18.28.38:144][535]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_03.fbx
+[2017.11.20-18.28.38:160][535]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-18.28.40:659][535]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Worktop_03.fbx
+[2017.11.20-18.28.40:675][535]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.20-18.28.40:717][535]LogStaticMesh: Building static mesh Worktop_03...
+[2017.11.20-18.28.40:732][535]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/Worktop_03.Worktop_03
+[2017.11.20-18.28.40:818][536]LogSavePackage: Save=13.07ms
+[2017.11.20-18.28.40:818][536]LogSavePackage: Moving '../../../../../University/TDEMO/StitchesAndBones/Saved/Worktop_03B3C128D049044A69CED118BD91B86F2A.tmp' to '../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_03.uasset'
+[2017.11.20-18.28.40:821][536]LogSavePackage: Display: Finished SavePackage ../../../../../University/TDEMO/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Worktop_03.uasset
+[2017.11.20-18.28.43:835][713]AssetReimport: Importing new asset /Game/Level_Assets/Environments/Kitchen/Worktop_03.
+[2017.11.20-18.29.36:449][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.20-18.36.27:479][675]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.36.27:502][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.27:502][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.36.27:503][675]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:36:27)
+[2017.11.20-18.36.27:503][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.36.27:511][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008394s)
+[2017.11.20-18.36.27:512][675]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.36.27:513][675]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2017.11.20-18.36.27:513][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010270s)
+[2017.11.20-18.36.27:529][675]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.36.27:543][675]LogInit: FAudioDevice initialized.
+[2017.11.20-18.36.27:578][675]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.36.27:582][675]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.36.27
+[2017.11.20-18.36.27:582][675]LogWorld: Bringing up level for play took: 0.002832
+[2017.11.20-18.36.27:585][675]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.682
+[2017.11.20-18.36.27:585][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.33:154][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.33:224][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.37:787][277]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2017.11.20-18.36.40:600][442]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-18.36.40:619][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.40:619][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-18.36.40:619][442]PIE: New page: PIE session: Kitchen (20 Nov 2017 18:36:40)
+[2017.11.20-18.36.40:619][442]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.20-18.36.40:626][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006796s)
+[2017.11.20-18.36.40:627][442]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.20-18.36.40:627][442]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.11.20-18.36.40:627][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.007782s)
+[2017.11.20-18.36.40:641][442]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-18.36.40:654][442]LogInit: FAudioDevice initialized.
+[2017.11.20-18.36.40:686][442]LogLoad: Game class is 'MyGame_C'
+[2017.11.20-18.36.40:689][442]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.20-18.36.40
+[2017.11.20-18.36.40:689][442]LogWorld: Bringing up level for play took: 0.002295
+[2017.11.20-18.36.40:691][442]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.211
+[2017.11.20-18.36.40:691][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.50:300][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-18.36.50:341][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.20-23.18.49:569][787]AssetReimport: New page: Outstanding source content changes 23:18:49
+[2017.11.20-23.18.49:581][787]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Toaster.fbx)
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: NodeAttribute, ItemCount : 32
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: Model, ItemCount : 33
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.20-23.18.49:587][787]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.20-23.18.49:592][787]LogFbx: Loading FBX Scene from D:/University/TDEMO/StitchesAndBones/Content/Level Assets/Environments/Kitchen/Toaster.fbx
+[2017.11.20-23.18.49:631][787]LogFbx: FBX Scene Loaded Succesfully
