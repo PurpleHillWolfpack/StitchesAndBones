@@ -1,0 +1,1284 @@
+﻿Log file open, 11/22/17 18:56:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(276690269) SRandInit(276690269).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163515
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.22-18.56.23:126][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-18.56.23:126][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.22-18.56.23:138][  0]LogInit: Computer: MSI
+[2017.11.22-18.56.23:138][  0]LogInit: User: Stumps
+[2017.11.22-18.56.23:138][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.22-18.56.23:138][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2017.11.22-18.56.23:138][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2017.11.22-18.56.23:138][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.22-18.56.23:138][  0]LogMemory: Process Physical Memory: 279.05 MB used, 279.05 MB peak
+[2017.11.22-18.56.23:138][  0]LogMemory: Process Virtual Memory: 277.57 MB used, 277.57 MB peak
+[2017.11.22-18.56.23:138][  0]LogMemory: Physical Memory: 8524.06 MB used,  24201.27 MB free, 32725.33 MB total
+[2017.11.22-18.56.23:138][  0]LogMemory: Virtual Memory: 671.98 MB used,  24201.27 MB free, 134217728.00 MB total
+[2017.11.22-18.56.23:458][  0]LogInit: Using OS detected language (en-US).
+[2017.11.22-18.56.23:458][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.22-18.56.23:461][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.22-18.56.24:162][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.22-18.56.24:215][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.11.22-18.56.24:215][  0]LogD3D11RHI:       8076/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.22-18.56.24:216][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.22-18.56.24:216][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.22-18.56.24:216][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.22-18.56.24:220][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.22-18.56.24:220][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.22-18.56.24:220][  0]LogWindows: EnumDisplayDevices:
+[2017.11.22-18.56.24:220][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.11.22-18.56.24:221][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.11.22-18.56.24:221][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.11.22-18.56.24:221][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.11.22-18.56.24:221][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.22-18.56.24:221][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.11.22-18.56.24:221][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2017.11.22-18.56.24:221][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2017.11.22-18.56.24:221][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.22-18.56.24:242][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.22-18.56.24:251][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.22-18.56.24:297][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/5288/).
+[2017.11.22-18.56.24:297][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stumps/AppData/Local/Temp/UnrealShaderWorkingDir/2B9538D5469E4B78355E21A213C9E283/'.
+[2017.11.22-18.56.24:297][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.22-18.56.25:270][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.22-18.56.25:322][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.22-18.56.25:378][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.22-18.56.25:429][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.22-18.56.25:478][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.22-18.56.25:526][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.22-18.56.25:573][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.22-18.56.25:621][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.22-18.56.25:662][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.22-18.56.25:709][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.22-18.56.25:756][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.22-18.56.25:803][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.22-18.56.25:850][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.22-18.56.25:896][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.22-18.56.25:943][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.22-18.56.26:036][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.22-18.56.26:036][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.22-18.56.26:071][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.22-18.56.26:158][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.22-18.56.26:189][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.22-18.56.26:238][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.22-18.56.26:284][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.22-18.56.26:331][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.22-18.56.26:378][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.22-18.56.26:378][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.22-18.56.26:812][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.22-18.56.26:875][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/Stumps/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-18.56.26:876][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stumps/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.22-18.56.26:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.22-18.56.26:876][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.22-18.56.26:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.22-18.56.26:876][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.22-18.56.26:894][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.22-18.56.26:905][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stumps/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.22-18.56.26:915][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.22-18.56.26:915][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.22-18.56.26:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-18.56.26:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-18.56.27:157][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.11.22-18.56.27:273][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-18.56.27:390][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.22-18.56.27:656][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.22-18.56.27:693][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.22-18.56.27:693][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.22-18.56.27:693][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.22-18.56.27:693][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.22-18.56.27:693][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.22-18.56.27:988][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2017.11.22-18.56.28:183][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.046119 seconds
+[2017.11.22-18.56.28:189][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.22-18.56.28:189][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.22-18.56.28:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.22-18.56.28:247][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.22-18.56.30:528][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.22-18.56.30:566][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.22-18.56.31:172][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.22-18.56.31:544][  0]SourceControl: Source control is disabled
+[2017.11.22-18.56.31:544][  0]SourceControl: Source control is disabled
+[2017.11.22-18.56.31:586][  0]SourceControl: Source control is disabled
+[2017.11.22-18.56.31:628][  0]SourceControl: Source control is disabled
+[2017.11.22-18.56.32:136][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.22-18.56.32:346][  0]LogOcInput: OculusInput pre-init called
+[2017.11.22-18.56.32:572][  0]LogEngine: Initializing Engine...
+[2017.11.22-18.56.32:574][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.22-18.56.32:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.22-18.56.32:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.22-18.56.32:866][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.22-18.56.32:921][  0]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.22-18.56.32:965][  0]LogInit: FAudioDevice initialized.
+[2017.11.22-18.56.33:013][  0]LogDerivedDataCache: Saved boot cache 0.05s 93MB C:/Users/Stumps/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-18.56.33:024][  0]LogInit: Texture streaming: Enabled
+[2017.11.22-18.56.33:126][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.22-18.56.33:323][  0]LogInit: Transaction tracking system initialized
+[2017.11.22-18.56.33:601][  0]BlueprintLog: New page: Editor Load
+[2017.11.22-18.56.34:401][  0]LocalizationService: Localization service is disabled
+[2017.11.22-18.56.35:139][  0]LogConsoleResponse: Display: 
+[2017.11.22-18.56.35:322][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.22-18.56.35:322][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.22-18.56.35:322][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.22-18.56.35:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/' took 0.01s
+[2017.11.22-18.56.36:230][  0]SourceControl: Source control is disabled
+[2017.11.22-18.56.36:230][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-18.56.36:230][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.22-18.56.36:230][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-18.56.36:271][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.867ms to complete.
+[2017.11.22-18.56.36:272][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.041
+[2017.11.22-18.56.36:406][  0]LogCollectionManager: Loaded 0 collections in 0.001409 seconds
+[2017.11.22-18.56.36:479][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Collections/' took 0.01s
+[2017.11.22-18.56.36:479][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Developers/Stumps/Collections/' took 0.01s
+[2017.11.22-18.56.36:479][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Collections/' took 0.01s
+[2017.11.22-18.56.36:479][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.22-18.56.36:488][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2386 classes and 500 folders.
+[2017.11.22-18.56.36:546][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.22-18.56.36:577][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.22-18.56.36:617][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.22-18.56.36:673][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.22-18.56.36:674][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.22-18.56.36:679][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.22-18.56.36:787][  0]LogRenderer: Reallocating scene render targets to support 1232x596 Format 10 NumSamples 1 (Frame:1).
+[2017.11.22-18.56.36:903][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.22-18.56.36:903][  0]LogLoad: (Engine Initialization) Total time: 15.20 seconds
+[2017.11.22-18.56.36:903][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.22-18.56.36:903][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.22-18.56.37:272][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.22-18.56.37:302][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-18.56.37:577][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/' took 0.32s
+[2017.11.22-18.56.37:590][  1]LogAssetRegistry: Asset discovery search completed in 10.4534 seconds
+[2017.11.22-18.56.37:591][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.22-18.56.37:591][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2017.11.22-18.56.44:584][294]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-18.56.45:150][294]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.22-18.56.45:150][294]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.22-18.56.45:150][294]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.22-18.56.45:150][294]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.11.22-18.56.45:150][294]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.22-18.56.45:150][294]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.22-18.56.45:347][294]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-18.56.45:347][294]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Cupboard.Cupboard needed to have new flag set bUsedWithStaticLighting !
+[2017.11.22-18.56.45:349][294]LogMaterial: Missing cached shader map for material Cupboard, compiling. 
+[2017.11.22-18.56.45:398][294]MapCheck: Warning: Cupboard Material /Game/Level_Assets/Environments/Kitchen/Cupboard.Cupboard was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2017.11.22-18.56.45:432][294]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.22-18.56.45:451][294]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-18.56.45:451][294]LightingResults: New page: Lighting Build
+[2017.11.22-18.56.45:507][294]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2017.11.22-18.56.45:508][294]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.11.22-18.56.45:508][294]MapCheck: New page: Map Check
+[2017.11.22-18.56.45:508][294]LightingResults: New page: Lighting Build
+[2017.11.22-18.56.45:600][294]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-18.56.45:682][294]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-18.56.45:767][294]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.189ms to complete.
+[2017.11.22-18.56.45:767][294]LogFileHelpers: Loading map 'Kitchen' took 0.317
+[2017.11.22-18.56.56:850][950]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.22-18.57.02:951][284]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-18.57.03:050][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-18.57.03:050][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-18.57.03:051][284]PIE: New page: PIE session: Kitchen (22 Nov 2017 18:57:03)
+[2017.11.22-18.57.03:051][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.22-18.57.03:059][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008550s)
+[2017.11.22-18.57.03:060][284]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-18.57.03:060][284]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2017.11.22-18.57.03:060][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.009401s)
+[2017.11.22-18.57.03:117][284]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.22-18.57.03:160][284]LogInit: FAudioDevice initialized.
+[2017.11.22-18.57.03:208][284]LogLoad: Game class is 'MyGame_C'
+[2017.11.22-18.57.03:213][284]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.22-18.57.03
+[2017.11.22-18.57.03:214][284]LogWorld: Bringing up level for play took: 0.004529
+[2017.11.22-18.57.03:251][284]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.11.22-18.57.03:254][284]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.788
+[2017.11.22-18.57.03:254][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-18.57.03:260][284]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.22-18.57.14:150][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-18.57.14:197][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-18.57.40:446][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.11.22-18.57.48:246][295]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.22-18.57.54:734][682]Cmd: ACTOR SELECT ALL
+[2017.11.22-18.57.58:251][889]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2017.11.22-18.57.58:280][889]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.22-18.58.00:542][997]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.22-18.58.16:365][917]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.22-18.58.25:653][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oven)
+[2017.11.22-18.58.26:472][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2017.11.22-18.58.35:593][ 32]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-18.58.38:715][214]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-18.58.39:448][257]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-18.58.39:850][280]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-18.58.40:282][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2017.11.22-18.58.40:854][336]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-18.59.59:463][776]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.11.22-19.00.39:418][ 96]Cmd: DELETE
+[2017.11.22-19.00.39:418][ 96]Cmd: ACTOR DELETE
+[2017.11.22-19.00.39:418][ 96]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.11.22-19.00.39:436][ 96]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.22-19.01.42:880][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2017.11.22-19.02.06:335][935]MapCheck: New page: Map Check
+[2017.11.22-19.02.06:348][935]LightingResults: New page: Lighting Build - 22 Nov 2017 19:02:06
+[2017.11.22-19.02.06:389][935]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.02.06:447][935]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.02.06:455][935]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.02.06:964][935]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.02.06:964][935]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.02.09:233][935]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.02.09:233][935]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.02.09:233][935]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.02.09:233][935]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.02.09:233][935]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.02.09:393][935]LogEditorBuildUtils: Build time 0:03
+[2017.11.22-19.02.09:404][935]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cupboard, compiling. 
+[2017.11.22-19.02.09:412][935]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cupboard, compiling. 
+[2017.11.22-19.02.13:889][952]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.02.13:889][952]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.02.14:562][954]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.02.14:562][954]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.02.14:562][954]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.02.14:562][954]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.02.14:891][955]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.02.14:891][955]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.02.15:220][956]Job is a success!
+[2017.11.22-19.02.15:643][957]LightingResults: Error: SpotLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.11.22-19.02.15:643][957]LightingResults: Error: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.11.22-19.02.16:054][957]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.11.22-19.02.16:054][957]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.02.16:054][957]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.22-19.02.16:054][957]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.11.22-19.02.16:054][957]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.22-19.02.16:054][957]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.22-19.02.16:132][957]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2017.11.22-19.02.16:153][957]Lightmass on MSI: 5.13 sec total, 178 ms importing, 46 ms setup, 949 ms photons, 3.93 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 27.3 sec total, 12.4 sec processing.
+[2017.11.22-19.02.16:176][957]LogStaticLightingSystem: Illumination: 9.49 sec (406 ms encoding lightmaps, 73 ms encoding shadowmaps)
+[2017.11.22-19.02.16:176][957]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.02.16:177][957]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.02.21:239][957]DumpUnbuiltLightIteractions
+[2017.11.22-19.02.21:239][957]Lights with unbuilt interactions: 0
+[2017.11.22-19.02.21:239][957]
+[2017.11.22-19.02.21:239][957]Primitives with unbuilt interactions: 0
+[2017.11.22-19.02.21:255][958]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.02.21:255][958]MapCheck: New page: Kitchen - 22 Nov 2017 19:02:21
+[2017.11.22-19.02.21:292][958]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.02.21:292][958]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.02.21:292][958]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.02.21:292][958]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.02.21:292][958]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.02.21:292][958]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.02.21:350][958]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 94.545ms to complete.
+[2017.11.22-19.02.40:008][581]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.11.22-19.02.40:505][609]Cmd: DELETE
+[2017.11.22-19.02.40:505][609]Cmd: ACTOR DELETE
+[2017.11.22-19.02.40:506][609]LogEditorActor: Deleted Actor: PointLight
+[2017.11.22-19.02.40:516][609]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.02.44:381][841]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.11.22-19.02.46:457][961]Cmd: DELETE
+[2017.11.22-19.02.46:457][961]Cmd: ACTOR DELETE
+[2017.11.22-19.02.46:457][961]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.22-19.02.46:466][961]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.22-19.02.48:063][ 57]Cmd: TRANSACTION UNDO
+[2017.11.22-19.02.48:063][ 57]LogEditorTransaction: Undo Delete Actors
+[2017.11.22-19.02.48:092][ 57]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-19.02.53:360][357]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.22-19.02.54:081][398]Cmd: DELETE
+[2017.11.22-19.02.54:081][398]Cmd: ACTOR DELETE
+[2017.11.22-19.02.54:081][398]LogEditorActor: Deleted Actor: PointLight
+[2017.11.22-19.02.54:091][398]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.22-19.02.57:382][591]Cmd: TRANSACTION UNDO
+[2017.11.22-19.02.57:382][591]LogEditorTransaction: Undo Delete Actors
+[2017.11.22-19.03.18:774][832]Cmd: TRANSACTION UNDO
+[2017.11.22-19.03.18:774][832]LogEditorTransaction: Undo Move Actors
+[2017.11.22-19.03.23:342][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2017.11.22-19.03.31:068][501]MapCheck: New page: Map Check
+[2017.11.22-19.03.31:081][501]LightingResults: New page: Lighting Build - 22 Nov 2017 19:03:31
+[2017.11.22-19.03.31:098][501]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.03.31:100][501]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.03.31:100][501]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.03.31:101][501]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.03.31:101][501]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.03.35:612][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.03.35:612][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.03.35:612][501]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.03.35:612][501]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.03.35:612][501]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.03.35:725][501]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.03.38:158][509]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.03.38:158][509]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.03.38:821][511]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.03.38:821][511]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.03.38:821][511]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.03.38:821][511]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.03.38:821][511]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.03.38:821][511]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.03.39:149][512]Job is a success!
+[2017.11.22-19.03.39:547][513]LightingResults: Error: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.11.22-19.03.39:885][513]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.11.22-19.03.39:885][513]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.03.39:885][513]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.22-19.03.39:885][513]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.22-19.03.39:885][513]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.22-19.03.39:885][513]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.22-19.03.39:954][513]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2017.11.22-19.03.39:968][513]Lightmass on MSI: 3.73 sec total, 146 ms importing, 37 ms setup, 770 ms photons, 2.75 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 19.1 sec total, 7.66 sec processing.
+[2017.11.22-19.03.39:985][513]LogStaticLightingSystem: Illumination: 8.56 sec (332 ms encoding lightmaps, 66 ms encoding shadowmaps)
+[2017.11.22-19.03.39:985][513]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.03.39:985][513]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.03.40:615][513]DumpUnbuiltLightIteractions
+[2017.11.22-19.03.40:615][513]Lights with unbuilt interactions: 0
+[2017.11.22-19.03.40:615][513]
+[2017.11.22-19.03.40:615][513]Primitives with unbuilt interactions: 0
+[2017.11.22-19.03.40:629][514]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.03.40:629][514]MapCheck: New page: Kitchen - 22 Nov 2017 19:03:40
+[2017.11.22-19.03.40:687][514]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.03.40:687][514]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.03.40:687][514]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.03.40:687][514]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.03.40:687][514]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.03.40:687][514]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.03.40:742][514]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 113.983ms to complete.
+[2017.11.22-19.04.15:610][870]Cmd: DELETE
+[2017.11.22-19.04.15:610][870]Cmd: ACTOR DELETE
+[2017.11.22-19.04.15:610][870]LogEditorActor: Deleted Actor: PointLight
+[2017.11.22-19.04.15:621][870]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.22-19.04.40:481][342]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.22-19.05.02:007][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.11.22-19.05.04:362][712]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-19.05.04:390][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.05.04:391][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-19.05.04:391][712]PIE: New page: PIE session: Kitchen (22 Nov 2017 19:05:04)
+[2017.11.22-19.05.04:391][712]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.22-19.05.04:401][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009602s)
+[2017.11.22-19.05.04:401][712]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-19.05.04:401][712]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2017.11.22-19.05.04:402][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010845s)
+[2017.11.22-19.05.04:467][712]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.22-19.05.04:518][712]LogInit: FAudioDevice initialized.
+[2017.11.22-19.05.04:554][712]LogLoad: Game class is 'MyGame_C'
+[2017.11.22-19.05.04:559][712]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.22-19.05.04
+[2017.11.22-19.05.04:560][712]LogWorld: Bringing up level for play took: 0.005509
+[2017.11.22-19.05.04:563][712]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.521
+[2017.11.22-19.05.04:563][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.05.04:602][712]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.22-19.05.06:021][797]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.05.06:074][797]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.05.18:983][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2017.11.22-19.05.21:546][720]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.11.22-19.05.43:095][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2017.11.22-19.05.45:799][157]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2017.11.22-19.05.47:699][265]Cmd: DELETE
+[2017.11.22-19.05.47:699][265]Cmd: ACTOR DELETE
+[2017.11.22-19.05.47:699][265]LogEditorActor: Deleted Actor: SpotLight
+[2017.11.22-19.05.47:709][265]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.05.51:810][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.11.22-19.05.54:265][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.11.22-19.05.54:904][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.11.22-19.05.57:105][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.11.22-19.05.57:429][832]LogEditorViewport: Clicking on Actor (double click): SpotLight (SpotLight3)
+[2017.11.22-19.06.30:353][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_3)
+[2017.11.22-19.07.16:967][402]MapCheck: New page: Map Check
+[2017.11.22-19.07.16:981][402]LightingResults: New page: Lighting Build - 22 Nov 2017 19:07:16
+[2017.11.22-19.07.16:997][402]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.07.16:999][402]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.07.16:999][402]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.07.17:000][402]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.07.17:000][402]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.07.21:507][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.07.21:508][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.07.21:508][402]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.07.21:508][402]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.07.21:508][402]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.07.21:627][402]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.07.24:391][411]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.07.24:391][411]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.07.24:722][412]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.07.24:722][412]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.07.24:722][412]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.07.24:722][412]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.07.24:722][412]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.07.24:722][412]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.07.25:054][413]Job is a success!
+[2017.11.22-19.07.25:755][414]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.11.22-19.07.25:755][414]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.07.25:755][414]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.22-19.07.25:755][414]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.11.22-19.07.25:755][414]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.22-19.07.25:755][414]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.22-19.07.25:821][414]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X256)
+[2017.11.22-19.07.25:842][414]Lightmass on MSI: 3.69 sec total, 146 ms importing, 43 ms setup, 915 ms photons, 2.56 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 17.7 sec total, 6.23 sec processing.
+[2017.11.22-19.07.25:847][414]LogStaticLightingSystem: Illumination: 8.53 sec (308 ms encoding lightmaps, 63 ms encoding shadowmaps)
+[2017.11.22-19.07.25:847][414]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.07.25:847][414]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.07.26:512][414]DumpUnbuiltLightIteractions
+[2017.11.22-19.07.26:512][414]Lights with unbuilt interactions: 0
+[2017.11.22-19.07.26:512][414]
+[2017.11.22-19.07.26:512][414]Primitives with unbuilt interactions: 0
+[2017.11.22-19.07.26:526][415]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.07.26:526][415]MapCheck: New page: Kitchen - 22 Nov 2017 19:07:26
+[2017.11.22-19.07.26:677][415]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.07.26:677][415]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.07.26:677][415]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.07.26:677][415]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.07.26:677][415]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.07.26:677][415]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.07.26:731][415]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 204.18ms to complete.
+[2017.11.22-19.07.42:027][460]LogSavePackage: Save=207.31ms
+[2017.11.22-19.07.42:027][460]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Kitchen_Auto10862DB784DDA71D08AA285A45DC832A4.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto1.umap'
+[2017.11.22-19.07.42:030][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto1.umap
+[2017.11.22-19.07.42:037][460]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kitchen' took 0.250
+[2017.11.22-19.07.42:037][460]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.250
+[2017.11.22-19.07.42:040][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Kitchen_BuiltData] ([1] browsable assets)...
+[2017.11.22-19.07.42:040][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kitchen_BuiltData]
+[2017.11.22-19.07.42:149][460]LogSavePackage: Save=82.49ms
+[2017.11.22-19.07.42:149][460]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Kitchen_BuiltData_Auto11544DC9A4A988FD02135FC97CE3BA715.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_BuiltData_Auto1.uasset'
+[2017.11.22-19.07.42:150][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_BuiltData_Auto1.uasset
+[2017.11.22-19.07.42:150][460]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.11.22-19.08.39:658][758]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-19.08.39:685][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.08.39:685][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-19.08.39:686][758]PIE: New page: PIE session: Kitchen (22 Nov 2017 19:08:39)
+[2017.11.22-19.08.39:686][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.22-19.08.39:708][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021358s)
+[2017.11.22-19.08.39:708][758]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-19.08.39:708][758]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2017.11.22-19.08.39:708][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.022334s)
+[2017.11.22-19.08.39:772][758]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.22-19.08.39:818][758]LogInit: FAudioDevice initialized.
+[2017.11.22-19.08.39:852][758]LogLoad: Game class is 'MyGame_C'
+[2017.11.22-19.08.39:858][758]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.22-19.08.39
+[2017.11.22-19.08.39:860][758]LogWorld: Bringing up level for play took: 0.006030
+[2017.11.22-19.08.39:862][758]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.18
+[2017.11.22-19.08.39:862][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.08.39:887][758]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.22-19.08.56:006][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.08.56:047][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.08.58:842][890]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.11.22-19.09.13:154][722]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.11.22-19.09.23:832][352]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.11.22-19.09.27:654][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.22-19.09.30:133][702]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.11.22-19.09.46:039][612]MapCheck: New page: Map Check
+[2017.11.22-19.09.46:051][612]LightingResults: New page: Lighting Build - 22 Nov 2017 19:09:46
+[2017.11.22-19.09.46:068][612]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.09.46:070][612]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.09.46:070][612]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.09.46:071][612]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.09.46:071][612]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.09.50:578][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.09.50:578][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.09.50:578][612]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.09.50:578][612]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.09.50:578][612]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.09.50:677][612]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.09.52:756][712]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.09.52:756][712]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.09.53:290][744]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.09.53:290][744]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.09.53:331][746]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.09.53:331][746]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.09.53:382][749]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.09.53:382][749]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.09.53:790][773]Job is a success!
+[2017.11.22-19.09.54:166][775]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.11.22-19.09.54:166][775]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.09.54:166][775]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.22-19.09.54:166][775]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.22-19.09.54:166][775]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.22-19.09.54:166][775]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.22-19.09.54:236][775]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X256)
+[2017.11.22-19.09.54:284][775]Lightmass on MSI: 3.18 sec total, 143 ms importing, 36 ms setup, 787 ms photons, 2.19 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 15.2 sec total, 6.49 sec processing.
+[2017.11.22-19.09.54:322][775]LogStaticLightingSystem: Illumination: 8.24 sec (295 ms encoding lightmaps, 64 ms encoding shadowmaps)
+[2017.11.22-19.09.54:322][775]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.09.54:322][775]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.09.54:580][775]DumpUnbuiltLightIteractions
+[2017.11.22-19.09.54:580][775]Lights with unbuilt interactions: 0
+[2017.11.22-19.09.54:580][775]
+[2017.11.22-19.09.54:580][775]Primitives with unbuilt interactions: 0
+[2017.11.22-19.09.54:592][776]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.09.54:592][776]MapCheck: New page: Kitchen - 22 Nov 2017 19:09:54
+[2017.11.22-19.09.54:593][776]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.09.54:593][776]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.09.54:593][776]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.09.54:593][776]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.09.54:593][776]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.09.54:593][776]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.09.54:648][776]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 55.507ms to complete.
+[2017.11.22-19.10.20:496][ 64]Cmd: DELETE
+[2017.11.22-19.10.20:496][ 64]Cmd: ACTOR DELETE
+[2017.11.22-19.10.20:496][ 64]LogEditorActor: Deleted Actor: SpotLight
+[2017.11.22-19.10.20:506][ 64]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.10.24:667][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.11.22-19.10.26:015][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.11.22-19.10.30:007][629]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.11.22-19.10.46:905][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.22-19.10.51:210][872]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.11.22-19.10.52:333][937]Cmd: DELETE
+[2017.11.22-19.10.52:333][937]Cmd: ACTOR DELETE
+[2017.11.22-19.10.52:333][937]LogEditorActor: Deleted Actor: PointLight
+[2017.11.22-19.10.52:343][937]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.10.54:913][ 90]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.11.22-19.10.55:940][149]Cmd: DELETE
+[2017.11.22-19.10.55:940][149]Cmd: ACTOR DELETE
+[2017.11.22-19.10.55:940][149]LogEditorActor: Deleted Actor: PointLight
+[2017.11.22-19.10.55:950][149]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.11.02:993][566]Cmd: DELETE
+[2017.11.22-19.11.02:993][566]Cmd: ACTOR DELETE
+[2017.11.22-19.11.02:993][566]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.11.22-19.11.03:001][566]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.11.22-19.11.15:936][321]Cmd: TRANSACTION UNDO
+[2017.11.22-19.11.15:936][321]LogEditorTransaction: Undo Scale Actors
+[2017.11.22-19.11.40:199][689]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2017.11.22-19.11.47:065][ 56]MapCheck: New page: Map Check
+[2017.11.22-19.11.47:077][ 56]LightingResults: New page: Lighting Build - 22 Nov 2017 19:11:47
+[2017.11.22-19.11.47:094][ 56]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.11.47:099][ 56]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.11.47:099][ 56]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.11.47:100][ 56]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.11.47:100][ 56]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.11.51:609][ 56]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.11.51:609][ 56]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.11.51:609][ 56]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.11.51:609][ 56]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.11.51:609][ 56]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.11.51:726][ 56]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.11.54:024][166]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.11.54:024][166]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.11.54:506][195]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.11.54:506][195]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.11.54:597][200]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.11.54:597][200]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.11.54:848][215]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.11.54:848][215]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.11.55:084][230]Job is a success!
+[2017.11.22-19.11.55:511][231]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.11.22-19.11.55:511][231]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.11.55:511][231]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.22-19.11.55:511][231]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.11.22-19.11.55:511][231]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.22-19.11.55:511][231]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.22-19.11.55:579][231]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X256)
+[2017.11.22-19.11.55:624][231]Lightmass on MSI: 3.39 sec total, 159 ms importing, 42 ms setup, 887 ms photons, 2.27 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 15.7 sec total, 6.96 sec processing.
+[2017.11.22-19.11.55:660][231]LogStaticLightingSystem: Illumination: 8.55 sec (330 ms encoding lightmaps, 63 ms encoding shadowmaps)
+[2017.11.22-19.11.55:660][231]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.11.55:660][231]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.11.56:611][231]DumpUnbuiltLightIteractions
+[2017.11.22-19.11.56:611][231]Lights with unbuilt interactions: 0
+[2017.11.22-19.11.56:611][231]
+[2017.11.22-19.11.56:611][231]Primitives with unbuilt interactions: 0
+[2017.11.22-19.11.56:624][232]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.11.56:624][232]MapCheck: New page: Kitchen - 22 Nov 2017 19:11:56
+[2017.11.22-19.11.56:663][232]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.11.56:663][232]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.11.56:663][232]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.11.56:663][232]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.11.56:663][232]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.11.56:663][232]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.11.56:722][232]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 97.709ms to complete.
+[2017.11.22-19.11.58:791][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ManaPotion)
+[2017.11.22-19.12.17:401][133]Cmd: MAP LOAD FILE="../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-19.12.17:402][133]LightingResults: New page: Lighting Build
+[2017.11.22-19.12.17:402][133]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.11.22-19.12.17:404][133]MapCheck: New page: Map Check
+[2017.11.22-19.12.17:404][133]LightingResults: New page: Lighting Build
+[2017.11.22-19.12.17:459][133]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.22-19.12.17:459][133]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.22-19.12.17:459][133]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.22-19.12.17:697][133]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.11.22-19.12.17:697][133]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.12.17:697][133]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.22-19.12.17:699][133]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-19.12.17:788][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-19.12.17:853][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-19.12.17:909][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.127ms to complete.
+[2017.11.22-19.12.17:909][133]LogFileHelpers: Loading map 'Kitchen' took 0.509
+[2017.11.22-19.12.29:647][780]LogSavePackage: Save=164.55ms
+[2017.11.22-19.12.29:647][780]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/UEDPCKitchen6626CF434BD000DB67ADC2935BA84D49.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap'
+[2017.11.22-19.12.29:649][780]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/UEDPCKitchen.umap
+[2017.11.22-19.12.29:656][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.22-19.12.29:807][780]LogSavePackage: Save=135.51ms
+[2017.11.22-19.12.29:807][780]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Kitchen_BuiltData22313F504F201DBA3227C6B8A0CB346C.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.22-19.12.29:814][780]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.22-19.12.29:822][780]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.11.22-19.12.55:086][982]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2017.11.22-19.13.12:154][634]MapCheck: New page: Map Check
+[2017.11.22-19.13.12:169][634]LightingResults: New page: Lighting Build - 22 Nov 2017 19:13:12
+[2017.11.22-19.13.12:185][634]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.13.12:187][634]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.13.12:187][634]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.13.12:188][634]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.13.12:188][634]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.13.16:695][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.13.16:695][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.13.16:696][634]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.13.16:696][634]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.13.16:696][634]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.13.16:816][634]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.13.21:002][850]LogEditorViewport: Clicking on Actor (LMB): Actor (HobFire)
+[2017.11.22-19.13.22:650][943]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.13.22:650][943]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.13.24:239][ 35]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.13.24:239][ 35]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.13.24:430][ 45]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.13.24:430][ 45]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.13.25:032][ 81]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.13.25:032][ 81]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.13.26:006][138]Job is a success!
+[2017.11.22-19.13.26:033][140]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Applying Lighting
+
+Purging the undo buffer...
+
+[2017.11.22-19.13.26:437][140]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.13.26:437][140]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.11.22-19.13.26:437][140]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.22-19.13.26:437][140]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.11.22-19.13.26:437][140]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.22-19.13.26:437][140]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.22-19.13.26:506][140]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X256)
+[2017.11.22-19.13.26:532][140]Lightmass on MSI: 9.16 sec total, 155 ms importing, 41 ms setup, 2.57 sec photons, 6.37 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 44.4 sec total, 33.4 sec processing.
+[2017.11.22-19.13.26:594][140]LogStaticLightingSystem: Illumination: 14.3 sec (333 ms encoding lightmaps, 63 ms encoding shadowmaps)
+[2017.11.22-19.13.26:594][140]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.13.26:594][140]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.13.26:702][140]DumpUnbuiltLightIteractions
+[2017.11.22-19.13.26:702][140]Lights with unbuilt interactions: 0
+[2017.11.22-19.13.26:702][140]
+[2017.11.22-19.13.26:702][140]Primitives with unbuilt interactions: 0
+[2017.11.22-19.13.26:717][141]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.13.26:717][141]MapCheck: New page: Kitchen - 22 Nov 2017 19:13:26
+[2017.11.22-19.13.26:718][141]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.13.26:718][141]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.13.26:718][141]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.13.26:718][141]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.13.26:718][141]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.13.26:718][141]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.13.26:785][141]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 67.513ms to complete.
+[2017.11.22-19.13.38:270][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.22-19.14.00:455][ 37]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.22-19.14.02:593][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2017.11.22-19.14.03:059][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_3)
+[2017.11.22-19.14.12:696][759]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.11.22-19.14.19:243][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oven)
+[2017.11.22-19.14.52:278][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.14.52:278][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-19.14.52:278][ 41]PIE: New page: PIE session: Kitchen (22 Nov 2017 19:14:52)
+[2017.11.22-19.14.52:278][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.22-19.14.52:288][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009329s)
+[2017.11.22-19.14.52:288][ 41]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-19.14.52:289][ 41]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2017.11.22-19.14.52:289][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010622s)
+[2017.11.22-19.14.52:356][ 41]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.22-19.14.52:400][ 41]LogInit: FAudioDevice initialized.
+[2017.11.22-19.14.52:436][ 41]LogLoad: Game class is 'MyGame_C'
+[2017.11.22-19.14.52:441][ 41]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.22-19.14.52
+[2017.11.22-19.14.52:442][ 41]LogWorld: Bringing up level for play took: 0.004764
+[2017.11.22-19.14.52:444][ 41]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.402
+[2017.11.22-19.14.52:445][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.14.52:487][ 41]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.22-19.15.10:474][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.15.10:525][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.15.12:285][203]MapCheck: New page: Map Check
+[2017.11.22-19.15.12:335][203]LightingResults: New page: Lighting Build - 22 Nov 2017 19:15:12
+[2017.11.22-19.15.12:345][203]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.15.12:347][203]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.15.12:347][203]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.15.12:348][203]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.15.12:348][203]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.15.16:857][203]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.15.16:857][203]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.15.16:857][203]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.15.16:857][203]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.15.16:857][203]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.15.16:989][203]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.15.22:431][220]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.15.22:431][220]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.15.24:103][225]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.15.24:103][225]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.15.24:436][226]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.15.24:437][226]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.15.25:101][228]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.15.25:101][228]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.15.25:771][231]Job is a success!
+[2017.11.22-19.15.26:843][232]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.15.26:843][232]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.11.22-19.15.26:843][232]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.22-19.15.26:843][232]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.11.22-19.15.26:843][232]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.22-19.15.26:843][232]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.22-19.15.26:913][232]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X256)
+[2017.11.22-19.15.26:930][232]Lightmass on MSI: 9.42 sec total, 144 ms importing, 39 ms setup, 2.53 sec photons, 6.67 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 46.5 sec total, 31.8 sec processing.
+[2017.11.22-19.15.26:947][232]LogStaticLightingSystem: Illumination: 14.2 sec (354 ms encoding lightmaps, 66 ms encoding shadowmaps)
+[2017.11.22-19.15.26:947][232]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.15.26:947][232]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.15.27:862][232]DumpUnbuiltLightIteractions
+[2017.11.22-19.15.27:862][232]Lights with unbuilt interactions: 0
+[2017.11.22-19.15.27:862][232]
+[2017.11.22-19.15.27:862][232]Primitives with unbuilt interactions: 0
+[2017.11.22-19.15.27:876][233]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.15.27:876][233]MapCheck: New page: Kitchen - 22 Nov 2017 19:15:27
+[2017.11.22-19.15.27:939][233]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.15.27:939][233]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.15.27:939][233]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.15.27:939][233]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.15.27:939][233]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.15.27:939][233]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.15.27:996][233]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 120.794ms to complete.
+[2017.11.22-19.16.11:970][883]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.11.22-19.16.25:215][634]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.22-19.17.01:784][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2017.11.22-19.18.12:224][617]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.22-19.18.23:908][303]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-19.18.30:085][651]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-19.18.30:612][682]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.11.22-19.18.33:456][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_01)
+[2017.11.22-19.18.36:365][ 12]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.22-19.18.51:983][862]Cmd: DELETE
+[2017.11.22-19.18.51:983][862]Cmd: ACTOR DELETE
+[2017.11.22-19.18.51:983][862]LogEditorActor: Deleted Actor: SkyLight
+[2017.11.22-19.18.51:993][862]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.18.52:660][902]Cmd: TRANSACTION UNDO
+[2017.11.22-19.18.52:660][902]LogEditorTransaction: Undo Delete Actors
+[2017.11.22-19.18.53:327][926]Cmd: TRANSACTION UNDO
+[2017.11.22-19.18.53:327][926]LogEditorTransaction: Undo Edit Sky Distance Threshold
+[2017.11.22-19.18.53:773][949]Cmd: TRANSACTION UNDO
+[2017.11.22-19.18.53:773][949]LogEditorTransaction: Undo Edit Intensity
+[2017.11.22-19.18.54:146][971]Cmd: TRANSACTION UNDO
+[2017.11.22-19.18.54:146][971]LogEditorTransaction: Undo Move Actors
+[2017.11.22-19.19.03:775][476]MapCheck: New page: Map Check
+[2017.11.22-19.19.03:790][476]LightingResults: New page: Lighting Build - 22 Nov 2017 19:19:03
+[2017.11.22-19.19.03:804][476]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.19.03:806][476]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.19.03:806][476]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.19.03:807][476]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.19.03:807][476]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.19.08:315][476]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.19.08:315][476]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.19.08:315][476]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.19.08:315][476]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.19.08:315][476]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.19.08:437][476]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.19.13:706][762]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.19.13:706][762]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.19.15:411][863]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.19.15:411][863]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.19.15:441][865]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.19.15:441][865]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.19.16:124][906]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.19.16:144][907]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.19.16:845][949]Job is a success!
+[2017.11.22-19.19.17:266][950]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.11.22-19.19.17:267][950]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.19.17:267][950]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.11.22-19.19.17:267][950]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.22-19.19.17:267][950]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.22-19.19.17:267][950]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.22-19.19.17:281][950]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X64)
+[2017.11.22-19.19.17:344][950]Lightmass on MSI: 8.40 sec total, 161 ms importing, 44 ms setup, 2.51 sec photons, 5.64 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 39.3 sec total, 29.9 sec processing.
+[2017.11.22-19.19.17:390][950]LogStaticLightingSystem: Illumination: 13.5 sec (336 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2017.11.22-19.19.17:390][950]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.19.17:390][950]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.19.18:320][950]DumpUnbuiltLightIteractions
+[2017.11.22-19.19.18:320][950]Lights with unbuilt interactions: 0
+[2017.11.22-19.19.18:320][950]
+[2017.11.22-19.19.18:320][950]Primitives with unbuilt interactions: 0
+[2017.11.22-19.19.18:334][951]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.19.18:334][951]MapCheck: New page: Kitchen - 22 Nov 2017 19:19:18
+[2017.11.22-19.19.18:403][951]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.19.18:403][951]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.19.18:403][951]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.19.18:404][951]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.19.18:404][951]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.19.18:404][951]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.19.18:461][951]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 127.339ms to complete.
+[2017.11.22-19.19.35:294][777]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.22-19.19.42:590][197]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.11.22-19.19.43:639][257]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.11.22-19.19.46:751][434]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.22-19.20.01:164][242]MapCheck: New page: Map Check
+[2017.11.22-19.20.01:177][242]LightingResults: New page: Lighting Build - 22 Nov 2017 19:20:01
+[2017.11.22-19.20.01:194][242]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.22-19.20.01:196][242]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.22-19.20.01:196][242]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.22-19.20.01:196][242]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.22-19.20.01:196][242]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5288
+[2017.11.22-19.20.05:704][242]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.22-19.20.05:704][242]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.22-19.20.05:704][242]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.22-19.20.05:704][242]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.22-19.20.05:704][242]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.22-19.20.05:809][242]LogEditorBuildUtils: Build time 0:04
+[2017.11.22-19.20.08:539][378]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.20.08:539][378]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.20.09:593][441]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.22-19.20.09:593][441]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.20.09:644][444]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.22-19.20.09:644][444]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.20.09:865][457]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.22-19.20.09:865][457]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.22-19.20.10:255][481]Job is a success!
+[2017.11.22-19.20.10:550][482]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.22-19.20.10:550][482]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.22-19.20.10:550][482]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.22-19.20.10:550][482]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.22-19.20.10:574][482]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 512X64)
+[2017.11.22-19.20.10:618][482]Lightmass on MSI: 4.29 sec total, 158 ms importing, 43 ms setup, 1.03 sec photons, 3.03 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 21.1 sec total, 14.5 sec processing.
+[2017.11.22-19.20.10:688][482]LogStaticLightingSystem: Illumination: 9.47 sec (208 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2017.11.22-19.20.10:688][482]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.22-19.20.10:688][482]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.22-19.20.11:710][482]DumpUnbuiltLightIteractions
+[2017.11.22-19.20.11:710][482]Lights with unbuilt interactions: 0
+[2017.11.22-19.20.11:710][482]
+[2017.11.22-19.20.11:710][482]Primitives with unbuilt interactions: 0
+[2017.11.22-19.20.11:724][483]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.22-19.20.11:724][483]MapCheck: New page: Kitchen - 22 Nov 2017 19:20:11
+[2017.11.22-19.20.11:774][483]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.20.11:774][483]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.20.11:774][483]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.20.11:774][483]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.20.11:774][483]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.20.11:774][483]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.22-19.20.11:826][483]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 101.669ms to complete.
+[2017.11.22-19.20.20:503][906]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-19.20.20:532][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.20.20:532][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-19.20.20:532][906]PIE: New page: PIE session: Kitchen (22 Nov 2017 19:20:20)
+[2017.11.22-19.20.20:532][906]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.22-19.20.20:541][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009358s)
+[2017.11.22-19.20.20:542][906]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.22-19.20.20:542][906]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2017.11.22-19.20.20:542][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010383s)
+[2017.11.22-19.20.20:605][906]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.22-19.20.20:653][906]LogInit: FAudioDevice initialized.
+[2017.11.22-19.20.20:688][906]LogLoad: Game class is 'MyGame_C'
+[2017.11.22-19.20.20:692][906]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.11.22-19.20.20
+[2017.11.22-19.20.20:693][906]LogWorld: Bringing up level for play took: 0.004856
+[2017.11.22-19.20.20:696][906]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.654
+[2017.11.22-19.20.20:696][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.20.20:738][906]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.22-19.20.33:582][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.20.33:625][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.22-19.20.44:734][338]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.11.22-19.21.12:902][ 21]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.22-19.21.14:644][123]Cmd: DELETE
+[2017.11.22-19.21.14:644][123]Cmd: ACTOR DELETE
+[2017.11.22-19.21.14:645][123]LogEditorActor: Deleted Actor: SkyLight
+[2017.11.22-19.21.14:655][123]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.22-19.21.19:834][434]Cmd: TRANSACTION UNDO
+[2017.11.22-19.21.19:834][434]LogEditorTransaction: Undo Delete Actors
+[2017.11.22-19.22.53:583][746]LogSavePackage: Save=164.81ms
+[2017.11.22-19.22.53:583][746]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Kitchen_Auto256A47131467C1000191130AFF7552E6C.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto2.umap'
+[2017.11.22-19.22.53:585][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto2.umap
+[2017.11.22-19.22.53:587][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kitchen' took 0.201
+[2017.11.22-19.22.53:587][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.201
+[2017.11.22-19.22.53:588][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Kitchen_BuiltData] ([1] browsable assets)...
+[2017.11.22-19.22.53:588][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kitchen_BuiltData]
+[2017.11.22-19.22.53:626][746]LogSavePackage: Save=15.45ms
+[2017.11.22-19.22.53:626][746]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Kitchen_BuiltData_Auto2F633C9034B7BEDD3398668B3AD73584D.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_BuiltData_Auto2.uasset'
+[2017.11.22-19.22.53:627][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Autosaves/Game/Kitchen_BuiltData_Auto2.uasset
+[2017.11.22-19.22.53:627][746]LogFileHelpers: Auto-saving content packages took 0.039
+[2017.11.22-19.39.30:142][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.22-19.39.30:355][759]LogSavePackage: Save=177.13ms
+[2017.11.22-19.39.30:355][759]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/KitchenDC4A295E4C53B593D84E248A56DC5054.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.22-19.39.30:362][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen.umap
+[2017.11.22-19.39.30:412][759]LogFileHelpers: Saving map 'Kitchen' took 2.172
+[2017.11.22-19.39.30:414][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.22-19.39.30:521][759]LogSavePackage: Save=81.80ms
+[2017.11.22-19.39.30:521][759]LogSavePackage: Moving '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Kitchen_BuiltData0AFA29674E13C8B5E04248AC44386F87.tmp' to '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.22-19.39.30:528][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.22-19.39.30:868][760]Cmd: QUIT_EDITOR
+[2017.11.22-19.39.31:392][760]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.22-19.39.31:406][760]LogExit: Preparing to exit.
+[2017.11.22-19.39.32:558][760]LogDirectoryWatcher: A directory notification for 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/' was aborted.
+[2017.11.22-19.39.32:562][760]PIE: UWidget::RemoveFromParent() called on '/Game/Kitchen.Kitchen:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.11.22-19.39.32:564][760]PIE: UWidget::RemoveFromParent() called on '/Game/Kitchen.Kitchen:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.11.22-19.39.32:564][760]PIE: UWidget::RemoveFromParent() called on '/Game/Kitchen.Kitchen:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.11.22-19.39.32:581][760]LogExit: Editor shut down
+[2017.11.22-19.39.32:585][760]LogExit: Transaction tracking system shut down
+[2017.11.22-19.39.32:644][760]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.22-19.39.32:644][760]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/' was aborted.
+[2017.11.22-19.39.32:644][760]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.22-19.39.32:644][760]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.22-19.39.32:644][760]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.22-19.39.32:691][760]LogExit: Object subsystem successfully closed.
+[2017.11.22-19.39.32:715][760]LogD3D11RHI: Shutdown
+[2017.11.22-19.39.32:715][760]LogD3D11RHI: CleanupD3DDevice
+[2017.11.22-19.39.32:809][760]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.22-19.39.32:822][760]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.11.22-19.39.32:822][760]LogModuleManager: Shutting down and abandoning module StatsViewer (530)
+[2017.11.22-19.39.32:822][760]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (528)
+[2017.11.22-19.39.32:822][760]LogModuleManager: Shutting down and abandoning module SceneOutliner (526)
+[2017.11.22-19.39.32:822][760]LogModuleManager: Shutting down and abandoning module AddContentDialog (524)
+[2017.11.22-19.39.32:822][760]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module WidgetCarousel (523)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module EditorWidgets (520)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module CollectionManager (518)
+[2017.11.22-19.39.32:824][760]LogDirectoryWatcher: A directory notification for 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Collections/' was aborted.
+[2017.11.22-19.39.32:824][760]LogDirectoryWatcher: A directory notification for 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Content/Developers/Stumps/Collections/' was aborted.
+[2017.11.22-19.39.32:824][760]LogDirectoryWatcher: A directory notification for 'C:/Users/Stumps/Desktop/StitchesAndBones/StitchesAndBones/Saved/Collections/' was aborted.
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.22-19.39.32:824][760]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.22-19.39.32:825][760]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.22-19.39.33:712][760]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.22-19.39.33:773][760]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.22-19.39.33:774][760]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.22-19.39.33:983][760]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.22-19.39.33:984][760]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.22-19.39.33:985][760]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.22-19.39.33:985][760]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.22-19.39.33:985][760]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.22-19.39.34:085][760]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.22-19.39.34:185][760]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.22-19.39.34:185][760]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.22-19.39.34:185][760]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.22-19.39.34:185][760]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.22-19.39.34:185][760]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.22-19.39.34:185][760]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.22-19.39.34:186][760]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.22-19.39.34:187][760]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.22-19.39.34:189][760]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.22-19.39.34:190][760]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.22-19.39.34:272][760]LogDerivedDataCache: Shutdown
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.22-19.39.34:272][760]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.22-19.39.34:273][760]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.22-19.39.34:273][760]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.22-19.39.34:273][760]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.22-19.39.34:273][760]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4BB9C0A8-4009-CEEE-AC00-99877FAFBCF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=4e1c652841417e4dcb185cb6888fcec9%7Ceaa7ed5ebec04e62b7875f125685b0e6%7C04d2ed9c-9225-4cb2-b67a-4bce4f84c733&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.22-19.39.34:296][760]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.22-19.39.34:298][760]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.22-19.39.34:299][760]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.22-19.39.34:301][760]LogExit: Exiting.
+[2017.11.22-19.39.34:325][760]Log file closed, 11/22/17 19:39:34
