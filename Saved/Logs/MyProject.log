@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 11/27/17 18:57:40
+=======
+﻿Log file open, 11/27/17 18:17:04
+>>>>>>> 89195f17f958d0a59724a233ac492e35b7826e23
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,9 +13,15 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: MyProject
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(-2126363027) SRandInit(-2126363027).
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.163555
+=======
+LogInit: Display: RandInit(2128056258) SRandInit(2128056258).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164660
+>>>>>>> 89195f17f958d0a59724a233ac492e35b7826e23
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -109,10 +119,11 @@ LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.17
 LogInit: Command line:  
-LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2017.11.27-18.57.41:454][  0]LogInit: Selected Device Profile: [Windows]
 [2017.11.27-18.57.41:454][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2017.11.27-18.57.41:471][  0]LogInit: Computer: MSI
@@ -2396,3 +2407,1155 @@ LogInit: Object subsystem initialized
 [2017.11.27-19.43.46:123][ 18]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2017.11.27-19.43.46:126][ 18]LogExit: Exiting.
 [2017.11.27-19.43.46:152][ 18]Log file closed, 11/27/17 19:43:46
+=======
+[2017.11.27-18.17.04:909][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-18.17.04:909][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.27-18.17.04:954][  0]LogInit: Computer: DESKTOP-3DBCGQU
+[2017.11.27-18.17.04:954][  0]LogInit: User: Harry
+[2017.11.27-18.17.04:954][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.27-18.17.04:954][  0]LogInit: High frequency timer resolution =3.906251 MHz
+[2017.11.27-18.17.04:954][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.27-18.17.04:954][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.27-18.17.04:954][  0]LogMemory: Process Physical Memory: 279.67 MB used, 279.67 MB peak
+[2017.11.27-18.17.04:954][  0]LogMemory: Process Virtual Memory: 277.25 MB used, 277.25 MB peak
+[2017.11.27-18.17.04:955][  0]LogMemory: Physical Memory: 4927.86 MB used,  11406.88 MB free, 16334.73 MB total
+[2017.11.27-18.17.04:955][  0]LogMemory: Virtual Memory: 705.18 MB used,  11406.88 MB free, 134217728.00 MB total
+[2017.11.27-18.17.05:283][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.27-18.17.05:283][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.27-18.17.05:290][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.27-18.17.06:492][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.27-18.17.06:568][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.11.27-18.17.06:568][  0]LogD3D11RHI:       4058/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.27-18.17.06:570][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.27-18.17.06:570][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.27-18.17.06:570][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.27-18.17.06:574][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.27-18.17.06:574][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.27-18.17.06:574][  0]LogWindows: EnumDisplayDevices:
+[2017.11.27-18.17.06:574][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.11.27-18.17.06:575][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.11.27-18.17.06:575][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.11.27-18.17.06:575][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.11.27-18.17.06:575][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.27-18.17.06:575][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.11.27-18.17.06:575][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.27-18.17.06:575][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.27-18.17.06:575][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.27-18.17.06:598][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.27-18.17.06:611][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.27-18.17.06:653][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/12844/).
+[2017.11.27-18.17.06:653][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Harry/AppData/Local/Temp/UnrealShaderWorkingDir/3B0CA6EE4A9C56DA0EE3EBB90625C68B/'.
+[2017.11.27-18.17.06:653][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.27-18.17.08:306][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.27-18.17.08:410][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.27-18.17.08:497][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.27-18.17.08:582][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.27-18.17.08:670][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.27-18.17.08:765][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.27-18.17.08:855][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.27-18.17.08:941][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.27-18.17.09:022][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.27-18.17.09:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.27-18.17.09:193][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.27-18.17.09:276][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.27-18.17.09:361][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.27-18.17.09:447][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.27-18.17.09:530][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.27-18.17.09:712][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.27-18.17.09:712][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.27-18.17.09:787][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.27-18.17.09:931][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.27-18.17.09:980][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.27-18.17.10:063][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.27-18.17.10:147][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.27-18.17.10:238][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.27-18.17.10:323][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.27-18.17.10:323][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.27-18.17.11:209][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.27-18.17.11:270][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/Harry/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.27-18.17.11:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Harry/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.27-18.17.11:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.27-18.17.11:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.27-18.17.11:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.27-18.17.11:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.27-18.17.11:283][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.27-18.17.11:295][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.27-18.17.11:303][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.27-18.17.11:304][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.27-18.17.11:305][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-18.17.11:305][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-18.17.11:822][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.11.27-18.17.11:962][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-18.17.12:544][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.27-18.17.12:623][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.27-18.17.12:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.27-18.17.12:623][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.27-18.17.12:623][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.27-18.17.12:623][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.27-18.17.12:663][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.27-18.17.13:122][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2017.11.27-18.17.13:384][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.038855 seconds
+[2017.11.27-18.17.13:388][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.27-18.17.13:388][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.27-18.17.13:388][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.27-18.17.13:510][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-18.17.17:757][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.27-18.17.17:817][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.27-18.17.18:956][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.27-18.17.19:633][  0]SourceControl: Source control is disabled
+[2017.11.27-18.17.19:633][  0]SourceControl: Source control is disabled
+[2017.11.27-18.17.19:716][  0]SourceControl: Source control is disabled
+[2017.11.27-18.17.19:799][  0]SourceControl: Source control is disabled
+[2017.11.27-18.17.20:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.27-18.17.21:254][  0]LogOcInput: OculusInput pre-init called
+[2017.11.27-18.17.21:669][  0]LogEngine: Initializing Engine...
+[2017.11.27-18.17.21:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.27-18.17.21:850][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.27-18.17.21:850][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.27-18.17.22:080][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.27-18.17.22:087][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.17.22:102][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-18.17.24:672][  0]LogDerivedDataCache: Saved boot cache 2.57s 93MB C:/Users/Harry/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.27-18.17.24:694][  0]LogInit: Texture streaming: Enabled
+[2017.11.27-18.17.24:931][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.27-18.17.25:345][  0]LogInit: Transaction tracking system initialized
+[2017.11.27-18.17.26:087][  0]BlueprintLog: New page: Editor Load
+[2017.11.27-18.17.27:786][  0]LocalizationService: Localization service is disabled
+[2017.11.27-18.17.28:992][  0]LogConsoleResponse: Display: 
+[2017.11.27-18.17.29:193][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.27-18.17.29:193][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.27-18.17.29:193][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.27-18.17.30:072][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/' took 0.02s
+[2017.11.27-18.17.31:038][  0]SourceControl: Source control is disabled
+[2017.11.27-18.17.31:038][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-18.17.31:038][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-18.17.31:038][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-18.17.31:227][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 188.895ms to complete.
+[2017.11.27-18.17.31:227][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.189
+[2017.11.27-18.17.31:482][  0]LogCollectionManager: Loaded 0 collections in 0.001272 seconds
+[2017.11.27-18.17.31:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Collections/' took 0.01s
+[2017.11.27-18.17.31:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/Developers/Harry/Collections/' took 0.01s
+[2017.11.27-18.17.31:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/Collections/' took 0.01s
+[2017.11.27-18.17.31:632][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.27-18.17.31:639][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2386 classes and 500 folders.
+[2017.11.27-18.17.31:753][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.11.27-18.17.31:807][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.11.27-18.17.31:884][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.27-18.17.31:931][  0]LogSlate: Took 0.000561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-18.17.31:933][  0]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.27-18.17.31:938][  0]LogSlate: Took 0.000664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.27-18.17.32:047][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-18.17.32:236][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.27-18.17.32:236][  0]LogLoad: (Engine Initialization) Total time: 29.48 seconds
+[2017.11.27-18.17.32:236][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.27-18.17.32:236][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.27-18.17.32:618][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.27-18.17.32:649][  0]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-18.17.32:917][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/' took 0.33s
+[2017.11.27-18.17.37:238][ 14]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.27-18.18.35:913][662]LogAssetRegistry: Asset discovery search completed in 84.1132 seconds
+[2017.11.27-18.18.35:920][662]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2017.11.27-18.18.52:893][210]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-18.18.53:413][210]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.27-18.18.53:413][210]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.27-18.18.53:413][210]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.27-18.18.53:413][210]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 512X64)
+[2017.11.27-18.18.53:413][210]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.27-18.18.53:413][210]LogMaterial: Missing cached shader map for material KitchenTile, compiling. 
+[2017.11.27-18.18.53:815][210]LogMaterial: Missing cached shader map for material ChairLeg, compiling. 
+[2017.11.27-18.18.53:835][210]LogMaterial: Missing cached shader map for material ChairBack, compiling. 
+[2017.11.27-18.18.53:924][210]LogStaticMesh: Building static mesh KitchenChair...
+[2017.11.27-18.18.54:233][210]LogStaticMesh: Built static mesh [0.31s] /Game/Level_Assets/Environments/Kitchen/KitchenChair.KitchenChair
+[2017.11.27-18.18.54:424][210]LogMaterial: Missing cached shader map for material Porcelain, compiling. 
+[2017.11.27-18.18.54:435][210]LogStaticMesh: Building static mesh Bowl...
+[2017.11.27-18.18.54:437][210]LogStaticMesh: Built static mesh [0.00s] /Game/Level_Assets/Environments/Kitchen/Bowl.Bowl
+[2017.11.27-18.18.54:594][210]LogMaterial: Missing cached shader map for material TeaPot1, compiling. 
+[2017.11.27-18.18.54:605][210]LogStaticMesh: Building static mesh TeaPot...
+[2017.11.27-18.18.54:609][210]LogStaticMesh: Built static mesh [0.00s] /Game/Level_Assets/Environments/Kitchen/TeaPot.TeaPot
+[2017.11.27-18.18.54:610][210]LogStaticMesh: Building static mesh TableSpoon...
+[2017.11.27-18.18.54:615][210]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/TableSpoon.TableSpoon
+[2017.11.27-18.18.54:618][210]LogMaterial: Missing cached shader map for material CutleryMetal, compiling. 
+[2017.11.27-18.18.54:635][210]LogMaterial: Missing cached shader map for material CutleryHandle, compiling. 
+[2017.11.27-18.18.54:648][210]LogStaticMesh: Building static mesh TableKnife...
+[2017.11.27-18.18.54:654][210]LogStaticMesh: Built static mesh [0.01s] /Game/Level_Assets/Environments/Kitchen/TableKnife.TableKnife
+[2017.11.27-18.18.54:674][210]LogStaticMesh: Building static mesh Plate...
+[2017.11.27-18.18.54:676][210]LogStaticMesh: Built static mesh [0.00s] /Game/Level_Assets/Environments/Kitchen/Plate.Plate
+[2017.11.27-18.18.54:800][210]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.18.54:819][210]LogSlate: Took 0.000563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-18.19.03:829][198]Cmd: MAP LOAD FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-18.19.03:830][198]LightingResults: New page: Lighting Build
+[2017.11.27-18.19.03:916][198]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2017.11.27-18.19.03:917][198]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.11.27-18.19.03:917][198]MapCheck: New page: Map Check
+[2017.11.27-18.19.03:917][198]LightingResults: New page: Lighting Build
+[2017.11.27-18.19.03:982][198]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-18.19.04:033][198]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-18.19.04:213][198]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 180.578ms to complete.
+[2017.11.27-18.19.04:214][198]LogFileHelpers: Loading map 'Kitchen' took 0.386
+[2017.11.27-18.19.30:359][892]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.11.27-18.19.44:843][520]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.27-18.19.47:789][824]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.27-18.20.37:391][228]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.11.27-18.20.37:987][228]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.27-18.20.38:181][229]LogSlate: Took 0.000551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.27-18.21.15:367][359]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-18.21.26:469][560]LogRenderer: Reallocating scene render targets to support 1056x688 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-18.21.49:655][747]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2017.11.27-18.21.49:655][747]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.27-18.21.49:655][747]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.17
+[2017.11.27-18.21.49:655][747]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.27-18.21.49:655][747]LogTemp: BranchPath = DESKTOP-3DBCGQU/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-3DBCGQU/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries
+[2017.11.27-18.21.49:655][747]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Harry\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.27-18.25.10:382][400]LogSlate: Took 0.039741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.27-18.29.04:417][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.27-18.29.04:769][450]LogSavePackage: Save=285.19ms
+[2017.11.27-18.29.04:769][450]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_Auto1AC836D7645B3ECD20452F09DDA039B4A.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto1.umap'
+[2017.11.27-18.29.04:771][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Autosaves/Game/Kitchen_Auto1.umap
+[2017.11.27-18.29.04:773][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kitchen' took 0.383
+[2017.11.27-18.29.04:773][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.383
+[2017.11.27-18.29.04:778][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/Characters/Hugo] ([1] browsable assets)...
+[2017.11.27-18.29.04:827][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CaveAssets/Characters/Hugo.Hugo]
+[2017.11.27-18.29.04:828][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/Characters/Hugo]
+[2017.11.27-18.29.04:957][450]LogSavePackage: Save=95.80ms
+[2017.11.27-18.29.04:957][450]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Hugo_Auto1178F331D4A09BCC6FC096B8BD6B777D6.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Autosaves/Game/CaveAssets/Characters/Hugo_Auto1.uasset'
+[2017.11.27-18.29.04:958][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Autosaves/Game/CaveAssets/Characters/Hugo_Auto1.uasset
+[2017.11.27-18.29.04:958][450]LogFileHelpers: Auto-saving content packages took 0.182
+[2017.11.27-18.30.56:231][300]BlueprintLog: New page: Compile Hugo
+[2017.11.27-18.31.07:663][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.27-18.31.07:795][553]LogSavePackage: Save=92.08ms
+[2017.11.27-18.31.07:795][553]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Hugo87EA402D4BD7BC8593639394F35F9A0E.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.27-18.31.07:799][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.27-18.33.54:135][469]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.27-18.39.17:492][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2017.11.27-18.39.17:554][ 14]LogSavePackage: Save=29.38ms
+[2017.11.27-18.39.17:554][ 14]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/MyGame8FD5E6874E7AFC20AA95B98F63029946.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2017.11.27-18.39.17:558][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2017.11.27-18.39.18:496][125]BlueprintLog: New page: Compile MyGame
+[2017.11.27-18.39.21:753][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.27-18.39.22:658][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-18.39.22:898][591]LogSavePackage: Save=194.90ms
+[2017.11.27-18.39.22:898][591]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen253C63864E71D628EDD7B88673596EEA.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.27-18.39.22:901][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap
+[2017.11.27-18.39.22:941][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.27-18.39.23:054][591]LogSavePackage: Save=80.45ms
+[2017.11.27-18.39.23:054][591]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_BuiltDataA309055A4D46A287AF24D5A9CB027382.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.27-18.39.23:055][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.27-18.39.25:006][820]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.39.25:278][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.25:279][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.39.25:320][820]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:39:25)
+[2017.11.27-18.39.25:320][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.39.25:360][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040237s)
+[2017.11.27-18.39.25:361][820]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.39.25:362][820]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2017.11.27-18.39.25:362][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.041748s)
+[2017.11.27-18.39.25:399][820]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.39.25:417][820]LogInit: FAudioDevice initialized.
+[2017.11.27-18.39.25:492][820]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.39.25:622][820]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.39.25
+[2017.11.27-18.39.25:680][820]LogWorld: Bringing up level for play took: 0.165832
+[2017.11.27-18.39.25:915][820]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2017.11.27-18.39.26:096][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.008 Y=30.869 Z=2069.145] for [Hugo_C]
+[2017.11.27-18.39.26:100][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.39.26:103][820]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 1.488
+[2017.11.27-18.39.26:103][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.26:219][820]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.39.31:515][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.31:592][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.35:718][884]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.39.35:737][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.35:737][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.39.35:737][884]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:39:35)
+[2017.11.27-18.39.35:738][884]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.39.35:749][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011099s)
+[2017.11.27-18.39.35:749][884]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.39.35:749][884]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2017.11.27-18.39.35:750][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.012193s)
+[2017.11.27-18.39.35:767][884]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.39.35:775][884]LogInit: FAudioDevice initialized.
+[2017.11.27-18.39.35:805][884]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.39.35:811][884]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.39.35
+[2017.11.27-18.39.35:812][884]LogWorld: Bringing up level for play took: 0.005538
+[2017.11.27-18.39.35:816][884]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.008 Y=30.869 Z=2069.145] for [Hugo_C]
+[2017.11.27-18.39.35:817][884]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.39.35:817][884]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.798
+[2017.11.27-18.39.35:817][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.35:933][884]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.39.36:723][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.39.36:760][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.41.20:677][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.11.27-18.41.20:798][180]LogSavePackage: Save=89.05ms
+[2017.11.27-18.41.20:798][180]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/HugoE283EC3043BF4D75811C0DB620DC0427.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.11.27-18.41.20:802][180]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset
+[2017.11.27-18.41.21:266][232]BlueprintLog: New page: Compile Hugo
+[2017.11.27-18.41.46:585][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Char2_Temp" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Char2_Temp.uasset" SILENT=true
+[2017.11.27-18.41.46:686][252]LogSavePackage: Save=97.26ms
+[2017.11.27-18.41.46:686][252]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Char2_TempC41D6DD84862BCFDB9F606B10FC0BA64.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Char2_Temp.uasset'
+[2017.11.27-18.41.46:690][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Char2_Temp.uasset
+[2017.11.27-18.41.49:142][495]BlueprintLog: New page: Compile Char2_Temp
+[2017.11.27-18.42.28:531][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-18.42.28:813][970]LogSavePackage: Save=234.62ms
+[2017.11.27-18.42.28:813][970]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/KitchenC155777342E70566666C26A042269F1D.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.27-18.42.28:817][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap
+[2017.11.27-18.42.28:861][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.27-18.42.28:951][970]LogSavePackage: Save=61.79ms
+[2017.11.27-18.42.28:951][970]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_BuiltData05E067794526C3B1FCBCE2AD40CF24C5.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.27-18.42.28:953][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.27-18.42.29:727][ 53]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall)
+[2017.11.27-18.42.33:775][383]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2017.11.27-18.42.33:775][383]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.27-18.42.33:775][383]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.17
+[2017.11.27-18.42.33:775][383]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.27-18.42.33:783][384]LogTemp: BranchPath = DESKTOP-3DBCGQU/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-3DBCGQU/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries
+[2017.11.27-18.42.33:793][385]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Harry\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.27-18.44.53:866][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-18.44.54:110][852]LogSavePackage: Save=195.83ms
+[2017.11.27-18.44.54:110][852]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/KitchenA22135DC472C457C3B1040B7491512C3.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.27-18.44.54:112][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap
+[2017.11.27-18.44.54:157][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.27-18.44.54:251][852]LogSavePackage: Save=61.63ms
+[2017.11.27-18.44.54:251][852]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_BuiltData4100EA4D4B6E9DFF5DA529BF1043B423.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.27-18.44.54:253][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.27-18.45.00:242][562]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.45.00:266][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.00:266][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.45.00:266][562]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:45:00)
+[2017.11.27-18.45.00:266][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.45.00:277][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010046s)
+[2017.11.27-18.45.00:278][562]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.45.00:278][562]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2017.11.27-18.45.00:278][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011157s)
+[2017.11.27-18.45.00:296][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.45.00:305][562]LogInit: FAudioDevice initialized.
+[2017.11.27-18.45.00:340][562]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.45.00:352][562]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.45.00
+[2017.11.27-18.45.00:354][562]LogWorld: Bringing up level for play took: 0.012837
+[2017.11.27-18.45.00:362][562]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.008 Y=30.869 Z=2069.145] for [Hugo_C]
+[2017.11.27-18.45.00:363][562]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.45.00:364][562]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.251
+[2017.11.27-18.45.00:364][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.00:406][562]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.45.04:394][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.04:436][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.05:788][198]MapCheck: New page: Map Check
+[2017.11.27-18.45.05:824][198]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.27-18.45.05:824][198]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.27-18.45.06:181][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.27-18.45.06:214][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2017.11.27-18.45.06:227][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Worktop, compiling. 
+[2017.11.27-18.45.06:242][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cupboard, compiling. 
+[2017.11.27-18.45.06:250][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal, compiling. 
+[2017.11.27-18.45.06:257][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SoftWood, compiling. 
+[2017.11.27-18.45.06:265][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood, compiling. 
+[2017.11.27-18.45.06:272][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Gold, compiling. 
+[2017.11.27-18.45.06:278][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy KitchenTile, compiling. 
+[2017.11.27-18.45.06:285][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy rackwood, compiling. 
+[2017.11.27-18.45.06:291][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Tile, compiling. 
+[2017.11.27-18.45.06:296][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.11.27-18.45.06:300][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.11.27-18.45.06:305][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book1, compiling. 
+[2017.11.27-18.45.06:310][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book3, compiling. 
+[2017.11.27-18.45.06:314][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Book2, compiling. 
+[2017.11.27-18.45.06:319][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2017.11.27-18.45.06:324][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2017.11.27-18.45.06:328][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Manaliquid, compiling. 
+[2017.11.27-18.45.06:333][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2017.11.27-18.45.06:338][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HealthLiquid, compiling. 
+[2017.11.27-18.45.06:342][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2017.11.27-18.45.06:346][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2017.11.27-18.45.06:351][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2017.11.27-18.45.06:355][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2017.11.27-18.45.06:360][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 03_-_Default, compiling. 
+[2017.11.27-18.45.06:366][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 02_-_Default, compiling. 
+[2017.11.27-18.45.06:372][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2017.11.27-18.45.06:378][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 07_-_Default, compiling. 
+[2017.11.27-18.45.06:385][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 08_-_Default, compiling. 
+[2017.11.27-18.45.06:391][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueBase, compiling. 
+[2017.11.27-18.45.06:519][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pencil1, compiling. 
+[2017.11.27-18.45.06:527][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pencil2, compiling. 
+[2017.11.27-18.45.06:532][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pencil3, compiling. 
+[2017.11.27-18.45.06:538][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TableTop, compiling. 
+[2017.11.27-18.45.06:544][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TableLeg, compiling. 
+[2017.11.27-18.45.06:549][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy standardwood, compiling. 
+[2017.11.27-18.45.06:557][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BarrelWood, compiling. 
+[2017.11.27-18.45.06:564][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ChairBack, compiling. 
+[2017.11.27-18.45.06:571][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ChairLeg, compiling. 
+[2017.11.27-18.45.06:577][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TeaPot1, compiling. 
+[2017.11.27-18.45.06:584][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CutleryHandle, compiling. 
+[2017.11.27-18.45.06:590][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CutleryMetal, compiling. 
+[2017.11.27-18.45.06:595][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Porcelain, compiling. 
+[2017.11.27-18.45.06:602][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ToastBrown, compiling. 
+[2017.11.27-18.45.06:608][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ToastWhite, compiling. 
+[2017.11.27-18.45.06:614][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5SG, compiling. 
+[2017.11.27-18.45.06:622][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert4SG, compiling. 
+[2017.11.27-18.45.07:742][198]TextureStreamingBuild: Display: Compiling optional shaders took 1.568 seconds.
+[2017.11.27-18.45.07:798][198]LogLevel: Display: Export Material TexCoord Scales took 0.056 seconds.
+[2017.11.27-18.45.07:834][198]TextureStreamingBuild: Display: Build Texture Streaming took 0.035 seconds.
+[2017.11.27-18.45.07:860][198]LightingResults: New page: Lighting Build - 27 Nov 2017 18:45:07
+[2017.11.27-18.45.08:216][198]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.27-18.45.08:431][198]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.27-18.45.10:127][198]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.27-18.45.12:937][198]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2017.11.27-18.45.13:039][198]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2017.11.27-18.45.18:246][198]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.27-18.45.18:246][198]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12844
+[2017.11.27-18.45.24:491][198]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.27-18.45.24:491][198]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.27-18.45.24:492][198]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.27-18.45.24:492][198]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.27-18.45.24:492][198]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.27-18.45.25:463][198]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.27-18.45.25:464][198]MapCheck: New page: Kitchen - 27 Nov 2017 18:45:25
+[2017.11.27-18.45.25:465][198]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.25:465][198]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.25:465][198]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.25:465][198]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.25:465][198]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.25:465][198]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.25:465][198]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2017.11.27-18.45.25:678][198]MapCheck: Map check complete: 1 Error(s), 6 Warning(s), took 214.258ms to complete.
+[2017.11.27-18.45.25:700][198]LogEditorBuildUtils: Build time 0:19
+[2017.11.27-18.45.25:719][198]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Worktop, compiling. 
+[2017.11.27-18.45.25:729][198]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Worktop, compiling. 
+[2017.11.27-18.45.25:842][199]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cupboard, compiling. 
+[2017.11.27-18.45.25:847][199]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cupboard, compiling. 
+[2017.11.27-18.45.25:894][200]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2017.11.27-18.45.25:902][200]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2017.11.27-18.45.25:952][201]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SoftWood, compiling. 
+[2017.11.27-18.45.25:959][201]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SoftWood, compiling. 
+[2017.11.27-18.45.25:987][202]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2017.11.27-18.45.25:995][202]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2017.11.27-18.45.26:011][203]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Gold, compiling. 
+[2017.11.27-18.45.26:019][203]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Gold, compiling. 
+[2017.11.27-18.45.26:041][204]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer KitchenTile, compiling. 
+[2017.11.27-18.45.26:048][204]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer KitchenTile, compiling. 
+[2017.11.27-18.45.26:079][205]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer rackwood, compiling. 
+[2017.11.27-18.45.26:086][205]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer rackwood, compiling. 
+[2017.11.27-18.45.26:107][206]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tile, compiling. 
+[2017.11.27-18.45.26:114][206]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tile, compiling. 
+[2017.11.27-18.45.26:146][207]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2017.11.27-18.45.26:152][207]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2017.11.27-18.45.26:180][208]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2017.11.27-18.45.26:185][208]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2017.11.27-18.45.26:215][209]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Book1, compiling. 
+[2017.11.27-18.45.26:223][209]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Book1, compiling. 
+[2017.11.27-18.45.26:239][210]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Book3, compiling. 
+[2017.11.27-18.45.26:246][210]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Book3, compiling. 
+[2017.11.27-18.45.26:261][211]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Book2, compiling. 
+[2017.11.27-18.45.26:269][211]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Book2, compiling. 
+[2017.11.27-18.45.26:290][212]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2017.11.27-18.45.26:297][212]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2017.11.27-18.45.26:319][213]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2017.11.27-18.45.26:326][213]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2017.11.27-18.45.26:342][214]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Manaliquid, compiling. 
+[2017.11.27-18.45.26:349][214]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Manaliquid, compiling. 
+[2017.11.27-18.45.26:368][215]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2017.11.27-18.45.26:375][215]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2017.11.27-18.45.26:395][216]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer HealthLiquid, compiling. 
+[2017.11.27-18.45.26:401][216]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer HealthLiquid, compiling. 
+[2017.11.27-18.45.26:417][217]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 03_-_Default, compiling. 
+[2017.11.27-18.45.26:425][217]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 03_-_Default, compiling. 
+[2017.11.27-18.45.26:445][218]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 02_-_Default, compiling. 
+[2017.11.27-18.45.26:452][218]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 02_-_Default, compiling. 
+[2017.11.27-18.45.26:471][219]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2017.11.27-18.45.26:477][219]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2017.11.27-18.45.26:497][220]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 07_-_Default, compiling. 
+[2017.11.27-18.45.26:503][220]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 07_-_Default, compiling. 
+[2017.11.27-18.45.26:532][221]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 08_-_Default, compiling. 
+[2017.11.27-18.45.26:540][221]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 08_-_Default, compiling. 
+[2017.11.27-18.45.26:557][222]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BlueBase, compiling. 
+[2017.11.27-18.45.26:564][222]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BlueBase, compiling. 
+[2017.11.27-18.45.26:579][223]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TableTop, compiling. 
+[2017.11.27-18.45.26:587][223]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TableTop, compiling. 
+[2017.11.27-18.45.26:607][224]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TableLeg, compiling. 
+[2017.11.27-18.45.26:613][224]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TableLeg, compiling. 
+[2017.11.27-18.45.26:634][225]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ChairBack, compiling. 
+[2017.11.27-18.45.26:642][225]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ChairBack, compiling. 
+[2017.11.27-18.45.26:659][226]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ChairLeg, compiling. 
+[2017.11.27-18.45.26:667][226]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ChairLeg, compiling. 
+[2017.11.27-18.45.26:687][227]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TeaPot1, compiling. 
+[2017.11.27-18.45.26:694][227]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TeaPot1, compiling. 
+[2017.11.27-18.45.26:710][228]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CutleryHandle, compiling. 
+[2017.11.27-18.45.26:716][228]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CutleryHandle, compiling. 
+[2017.11.27-18.45.26:735][229]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CutleryMetal, compiling. 
+[2017.11.27-18.45.26:741][229]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CutleryMetal, compiling. 
+[2017.11.27-18.45.26:759][230]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Porcelain, compiling. 
+[2017.11.27-18.45.26:766][230]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Porcelain, compiling. 
+[2017.11.27-18.45.26:785][231]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ToastBrown, compiling. 
+[2017.11.27-18.45.26:791][231]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ToastBrown, compiling. 
+[2017.11.27-18.45.26:806][232]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ToastWhite, compiling. 
+[2017.11.27-18.45.26:811][232]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ToastWhite, compiling. 
+[2017.11.27-18.45.35:506][358]LightingResults: Warning: KitchenChair Object has wrapping UVs.
+[2017.11.27-18.45.35:506][358]LightingResults: Warning: KitchenChair Object has overlapping UVs.
+[2017.11.27-18.45.35:506][358]LightingResults: KitchenChair Lightmap UV are overlapping by 15.1%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:239][404]LightingResults: Warning: KitchenChair Object has wrapping UVs.
+[2017.11.27-18.45.36:239][404]LightingResults: Warning: KitchenChair Object has overlapping UVs.
+[2017.11.27-18.45.36:239][404]LightingResults: KitchenChair Lightmap UV are overlapping by 15.1%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:259][405]LightingResults: Warning: KitchenChair Object has wrapping UVs.
+[2017.11.27-18.45.36:259][405]LightingResults: Warning: KitchenChair Object has overlapping UVs.
+[2017.11.27-18.45.36:259][405]LightingResults: KitchenChair Lightmap UV are overlapping by 15.1%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:280][407]LightingResults: Warning: KitchenChair Object has wrapping UVs.
+[2017.11.27-18.45.36:280][407]LightingResults: Warning: KitchenChair Object has overlapping UVs.
+[2017.11.27-18.45.36:280][407]LightingResults: KitchenChair Lightmap UV are overlapping by 15.1%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:949][409]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.27-18.45.36:949][409]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:949][409]LightingResults: Warning: KnifeBlock Object has overlapping UVs.
+[2017.11.27-18.45.36:949][409]LightingResults: KnifeBlock Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:949][409]LightingResults: Warning: Knife Object has overlapping UVs.
+[2017.11.27-18.45.36:949][409]LightingResults: Knife Lightmap UV are overlapping by 47.4%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.36:949][409]LightingResults: Warning: Oven Object has overlapping UVs.
+[2017.11.27-18.45.36:949][409]LightingResults: Oven Lightmap UV are overlapping by 2.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.27-18.45.37:086][422]Job is a success!
+[2017.11.27-18.45.37:161][424]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Porcelain.Porcelain needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-18.45.37:163][424]LogMaterial: Missing cached shader map for material Porcelain, compiling. 
+[2017.11.27-18.45.37:180][424]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/CutleryHandle.CutleryHandle needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-18.45.37:201][424]LogMaterial: Missing cached shader map for material CutleryHandle, compiling. 
+[2017.11.27-18.45.37:222][424]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/CutleryMetal.CutleryMetal needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-18.45.37:225][424]LogMaterial: Missing cached shader map for material CutleryMetal, compiling. 
+[2017.11.27-18.45.37:250][424]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/TeaPot1.TeaPot1 needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-18.45.37:253][424]LogMaterial: Missing cached shader map for material TeaPot1, compiling. 
+[2017.11.27-18.45.37:277][424]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Materials/ToastBrown.ToastBrown needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-18.45.37:280][424]LogMaterial: Missing cached shader map for material ToastBrown, compiling. 
+[2017.11.27-18.45.37:302][424]LogMaterial: Warning: Material /Game/Level_Assets/Environments/Kitchen/Materials/ToastWhite.ToastWhite needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-18.45.37:305][424]LogMaterial: Missing cached shader map for material ToastWhite, compiling. 
+[2017.11.27-18.45.37:569][424]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.27-18.45.37:569][424]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.27-18.45.37:569][424]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.27-18.45.37:569][424]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.27-18.45.37:585][424]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X64)
+[2017.11.27-18.45.37:773][424]Lightmass on DESKTOP-3DBCGQU: 3.11 sec total, 240 ms importing, 26 ms setup, 512 ms photons, 2.30 sec processing, 0 ms extra exporting [74/74 mappings]. Threads: 15.9 sec total, 9.34 sec processing.
+[2017.11.27-18.45.37:800][424]LogStaticLightingSystem: Illumination: 29.9 sec (219 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2017.11.27-18.45.37:800][424]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.27-18.45.37:800][424]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.27-18.45.38:493][424]DumpUnbuiltLightIteractions
+[2017.11.27-18.45.38:494][424]Lights with unbuilt interactions: 0
+[2017.11.27-18.45.38:494][424]
+[2017.11.27-18.45.38:494][424]Primitives with unbuilt interactions: 0
+[2017.11.27-18.45.38:512][425]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.27-18.45.38:512][425]MapCheck: New page: Kitchen - 27 Nov 2017 18:45:38
+[2017.11.27-18.45.38:519][425]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.38:519][425]MapCheck: Warning: Wall10 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.38:519][425]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.38:519][425]MapCheck: Warning: Wall11 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.38:519][425]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.38:519][425]MapCheck: Warning: Wall9 Static mesh actor has NULL StaticMesh property 
+[2017.11.27-18.45.38:747][425]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 234.752ms to complete.
+[2017.11.27-18.45.51:755][750]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.45.51:784][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.51:784][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.45.51:784][750]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:45:51)
+[2017.11.27-18.45.51:784][750]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.45.51:795][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010693s)
+[2017.11.27-18.45.51:795][750]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.45.51:796][750]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2017.11.27-18.45.51:796][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011532s)
+[2017.11.27-18.45.51:813][750]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.45.51:822][750]LogInit: FAudioDevice initialized.
+[2017.11.27-18.45.51:854][750]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.45.51:859][750]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.45.51
+[2017.11.27-18.45.51:860][750]LogWorld: Bringing up level for play took: 0.005775
+[2017.11.27-18.45.51:865][750]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.008 Y=30.869 Z=2069.145] for [Hugo_C]
+[2017.11.27-18.45.51:865][750]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.45.51:866][750]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.749
+[2017.11.27-18.45.51:866][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.51:943][750]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.45.55:630][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.55:676][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.56:832][325]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.45.56:854][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.56:854][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.45.56:854][325]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:45:56)
+[2017.11.27-18.45.56:854][325]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.45.56:864][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009443s)
+[2017.11.27-18.45.56:864][325]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.45.56:864][325]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2017.11.27-18.45.56:865][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010200s)
+[2017.11.27-18.45.56:882][325]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.45.56:892][325]LogInit: FAudioDevice initialized.
+[2017.11.27-18.45.56:925][325]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.45.56:931][325]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.45.56
+[2017.11.27-18.45.56:932][325]LogWorld: Bringing up level for play took: 0.005074
+[2017.11.27-18.45.56:935][325]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.008 Y=30.869 Z=2069.145] for [Hugo_C]
+[2017.11.27-18.45.56:936][325]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.45.56:937][325]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.322
+[2017.11.27-18.45.56:937][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.56:998][325]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.45.57:826][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.45.57:872][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.48.30:603][809]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Source/Runtime/Engine/Classes/Camera/CameraComponent.h'.
+[2017.11.27-18.48.30:604][809]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Source/Runtime/Engine/Private/Camera/CameraComponent.cpp'.
+[2017.11.27-18.48.30:604][809]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:607][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:608][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:609][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:610][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:611][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:612][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:616][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:634][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:642][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:643][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:644][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:644][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:644][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.48.30:644][809]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.27-18.49.37:508][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Char2_Temp" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Char2_Temp.uasset" SILENT=true
+[2017.11.27-18.49.37:632][448]LogSavePackage: Save=90.78ms
+[2017.11.27-18.49.37:632][448]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Char2_Temp5E9AAE7C4F8E8E8626C79C9390123300.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Char2_Temp.uasset'
+[2017.11.27-18.49.37:635][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/Char2_Temp.uasset
+[2017.11.27-18.49.38:248][519]BlueprintLog: New page: Compile Char2_Temp
+[2017.11.27-18.49.40:476][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-18.49.40:745][748]LogSavePackage: Save=213.05ms
+[2017.11.27-18.49.40:745][748]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen4EE6533B47B07E6809CAFEB4930E09E1.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.27-18.49.40:748][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap
+[2017.11.27-18.49.40:795][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.27-18.49.40:906][748]LogSavePackage: Save=79.08ms
+[2017.11.27-18.49.40:906][748]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_BuiltDataB699F54A4AFC2FF50044EAB5F9B95FB8.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.27-18.49.40:910][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.27-18.49.41:553][823]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.49.41:585][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.49.41:585][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.49.41:585][823]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:49:41)
+[2017.11.27-18.49.41:585][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.49.41:604][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018654s)
+[2017.11.27-18.49.41:604][823]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.49.41:604][823]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2017.11.27-18.49.41:604][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.019578s)
+[2017.11.27-18.49.41:622][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.49.41:631][823]LogInit: FAudioDevice initialized.
+[2017.11.27-18.49.41:664][823]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.49.41:670][823]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.49.41
+[2017.11.27-18.49.41:671][823]LogWorld: Bringing up level for play took: 0.006020
+[2017.11.27-18.49.41:675][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.008 Y=30.869 Z=2069.145] for [Hugo_C]
+[2017.11.27-18.49.41:676][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.49.41:676][823]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 1.061
+[2017.11.27-18.49.41:677][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.49.41:716][823]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.49.53:475][231]Cmd: SELECT NONE
+[2017.11.27-18.49.54:825][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.49.54:869][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.17:253][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2017.11.27-18.51.17:315][964]LogSavePackage: Save=30.93ms
+[2017.11.27-18.51.17:315][964]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/MyGameF49CAF764C01B54E44980C924C791A01.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2017.11.27-18.51.17:318][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2017.11.27-18.51.17:887][ 32]BlueprintLog: New page: Compile MyGame
+[2017.11.27-18.51.21:160][398]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.51.21:183][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.21:183][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.51.21:183][398]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:51:21)
+[2017.11.27-18.51.21:183][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.51.21:194][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010134s)
+[2017.11.27-18.51.21:194][398]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.51.21:194][398]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.11.27-18.51.21:195][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011300s)
+[2017.11.27-18.51.21:213][398]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.51.21:223][398]LogInit: FAudioDevice initialized.
+[2017.11.27-18.51.21:258][398]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.51.21:264][398]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.51.21
+[2017.11.27-18.51.21:265][398]LogWorld: Bringing up level for play took: 0.006121
+[2017.11.27-18.51.21:270][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-0.006 Y=22.538 Z=2081.375] for [Char2_Temp_C]
+[2017.11.27-18.51.21:271][398]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.656
+[2017.11.27-18.51.21:271][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.21:337][398]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.51.35:026][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.35:072][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.47:023][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2017.11.27-18.51.47:084][456]LogSavePackage: Save=30.93ms
+[2017.11.27-18.51.47:084][456]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/MyGameE29711964CC85DA28E882E9429485033.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2017.11.27-18.51.47:087][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2017.11.27-18.51.47:582][515]BlueprintLog: New page: Compile MyGame
+[2017.11.27-18.51.49:749][754]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.51.49:772][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.49:772][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-18.51.49:773][754]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:51:49)
+[2017.11.27-18.51.49:773][754]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.51.49:783][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010615s)
+[2017.11.27-18.51.49:784][754]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.51.49:784][754]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2017.11.27-18.51.49:784][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011740s)
+[2017.11.27-18.51.49:803][754]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.51.49:813][754]LogInit: FAudioDevice initialized.
+[2017.11.27-18.51.49:842][754]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.51.49:847][754]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.51.49
+[2017.11.27-18.51.49:848][754]LogWorld: Bringing up level for play took: 0.005397
+[2017.11.27-18.51.49:853][754]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.762
+[2017.11.27-18.51.49:854][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.51.49:900][754]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.53.44:661][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.53.44:707][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.54.19:445][380]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2017.11.27-18.54.19:445][380]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.27-18.54.19:445][380]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.17
+[2017.11.27-18.54.19:445][380]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.27-18.54.19:445][380]LogTemp: BranchPath = DESKTOP-3DBCGQU/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-3DBCGQU/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries
+[2017.11.27-18.54.19:455][381]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Harry\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.27-18.54.29:390][563]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.27-18.54.30:362][667]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2017.11.27-18.54.32:951][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-18.54.33:202][973]LogSavePackage: Save=200.52ms
+[2017.11.27-18.54.33:202][973]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/KitchenB1BA0CB54B026F8C0AD6AABBCD9C4C7B.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.27-18.54.33:204][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap
+[2017.11.27-18.54.33:267][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.27-18.54.33:371][973]LogSavePackage: Save=71.22ms
+[2017.11.27-18.54.33:371][973]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_BuiltData85F4EB1747B921F3BD94938751032745.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.27-18.54.33:373][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.27-18.54.34:747][137]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-18.54.34:771][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.54.34:771][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.27-18.54.34:776][137]LogPlayLevel: [PlayLevel] Compiling MyGame before play...
+[2017.11.27-18.54.34:931][137]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2017.11.27-18.54.34:931][137]PIE: New page: PIE session: Kitchen (27 Nov 2017 18:54:34)
+[2017.11.27-18.54.34:931][137]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.11.27-18.54.34:941][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009962s)
+[2017.11.27-18.54.34:942][137]LogAIModule: Creating AISystem for world Kitchen
+[2017.11.27-18.54.34:942][137]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2017.11.27-18.54.34:942][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010827s)
+[2017.11.27-18.54.34:960][137]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-18.54.34:969][137]LogInit: FAudioDevice initialized.
+[2017.11.27-18.54.34:999][137]LogLoad: Game class is 'MyGame_C'
+[2017.11.27-18.54.35:005][137]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 0) at 2017.11.27-18.54.35
+[2017.11.27-18.54.35:006][137]LogWorld: Bringing up level for play took: 0.005680
+[2017.11.27-18.54.35:010][137]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.396
+[2017.11.27-18.54.35:011][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.54.35:018][137]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.11.27-18.55.25:314][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.55.25:381][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.11.27-18.55.27:028][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2017.11.27-18.55.27:089][332]LogSavePackage: Save=30.93ms
+[2017.11.27-18.55.27:089][332]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/MyGame98F2EBA64652ECB5D863A8A5A4ADB2AC.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2017.11.27-18.55.27:093][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2017.11.27-18.55.29:211][576]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.27-18.55.30:160][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.27-18.55.31:458][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-18.55.31:708][811]LogSavePackage: Save=204.15ms
+[2017.11.27-18.55.31:708][811]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/KitchenC6379B204975F5B4160EB8B2F759C69D.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap'
+[2017.11.27-18.55.31:710][811]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen.umap
+[2017.11.27-18.55.31:750][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.11.27-18.55.31:849][811]LogSavePackage: Save=69.24ms
+[2017.11.27-18.55.31:849][811]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Kitchen_BuiltData16976E6A4AB9B0A6C8AF9D861F5BC9B2.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.11.27-18.55.31:851][811]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.11.27-18.56.14:004][820]LogSavePackage: Save=11.36ms
+[2017.11.27-18.56.14:005][820]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/CutleryHandle93DD799242C7CBFF8E501BBD2C1FA556.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/CutleryHandle.uasset'
+[2017.11.27-18.56.14:007][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/CutleryHandle.uasset
+[2017.11.27-18.56.14:068][820]LogSavePackage: Save=10.68ms
+[2017.11.27-18.56.14:068][820]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/CutleryMetalFED69A444C991D3FC268219E7BDEED25.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/CutleryMetal.uasset'
+[2017.11.27-18.56.14:072][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/CutleryMetal.uasset
+[2017.11.27-18.56.14:131][820]LogSavePackage: Save=10.61ms
+[2017.11.27-18.56.14:131][820]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/ToastBrownE71525AC464EE73D14E5628479917522.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Materials/ToastBrown.uasset'
+[2017.11.27-18.56.14:134][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Materials/ToastBrown.uasset
+[2017.11.27-18.56.14:189][820]LogSavePackage: Save=9.68ms
+[2017.11.27-18.56.14:189][820]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/ToastWhiteC6A391A04EA314DFB34061B9601592EA.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Materials/ToastWhite.uasset'
+[2017.11.27-18.56.14:193][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Materials/ToastWhite.uasset
+[2017.11.27-18.56.14:248][820]LogSavePackage: Save=9.73ms
+[2017.11.27-18.56.14:248][820]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Porcelain957950D3448F888B2E78D8B1FA625C35.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Porcelain.uasset'
+[2017.11.27-18.56.14:252][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/Porcelain.uasset
+[2017.11.27-18.56.14:308][820]LogSavePackage: Save=10.04ms
+[2017.11.27-18.56.14:308][820]LogSavePackage: Moving '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Saved/TeaPot1B6D78A8140CDE269485A5680D520B77A.tmp' to '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/TeaPot1.uasset'
+[2017.11.27-18.56.14:311][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/Level_Assets/Environments/Kitchen/TeaPot1.uasset
+[2017.11.27-18.56.14:594][821]Cmd: QUIT_EDITOR
+[2017.11.27-18.56.14:950][821]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-18.56.14:998][821]LogExit: Preparing to exit.
+[2017.11.27-18.56.15:975][821]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/', and we were unable to create a new request.
+[2017.11.27-18.56.16:129][821]LogExit: Editor shut down
+[2017.11.27-18.56.16:151][821]LogExit: Transaction tracking system shut down
+[2017.11.27-18.56.16:358][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.27-18.56.16:359][821]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Harry/Documents/GitHub/StitchesAndBones/Content/' was aborted.
+[2017.11.27-18.56.16:359][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.27-18.56.16:359][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.27-18.56.16:359][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.27-18.56.16:501][821]LogExit: Object subsystem successfully closed.
+[2017.11.27-18.56.16:520][821]LogD3D11RHI: Shutdown
+[2017.11.27-18.56.16:520][821]LogD3D11RHI: CleanupD3DDevice
+[2017.11.27-18.56.16:523][821]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (540)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (536)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module StatsViewer (530)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (528)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module SceneOutliner (526)
+[2017.11.27-18.56.16:555][821]LogModuleManager: Shutting down and abandoning module AddContentDialog (524)
+[2017.11.27-18.56.16:555][821]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module WidgetCarousel (523)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module EditorWidgets (520)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module CollectionManager (518)
+[2017.11.27-18.56.16:560][821]LogDirectoryWatcher: A directory notification for 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/Collections/' was aborted.
+[2017.11.27-18.56.16:560][821]LogDirectoryWatcher: A directory notification for 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Content/Developers/Harry/Collections/' was aborted.
+[2017.11.27-18.56.16:560][821]LogDirectoryWatcher: A directory notification for 'C:/Users/Harry/Documents/GitHub/StitchesAndBones/Saved/Collections/' was aborted.
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.27-18.56.16:560][821]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.27-18.56.16:561][821]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.27-18.56.17:288][821]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.27-18.56.17:288][821]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.27-18.56.17:288][821]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.27-18.56.17:288][821]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.27-18.56.17:288][821]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.27-18.56.17:289][821]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.27-18.56.17:289][821]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.27-18.56.17:289][821]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.27-18.56.17:289][821]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.27-18.56.17:290][821]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.27-18.56.17:290][821]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.27-18.56.17:290][821]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.27-18.56.17:290][821]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.27-18.56.17:290][821]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.27-18.56.17:291][821]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.27-18.56.17:291][821]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.27-18.56.17:291][821]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.27-18.56.17:292][821]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.27-18.56.17:292][821]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.27-18.56.17:292][821]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.27-18.56.17:293][821]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.27-18.56.17:293][821]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.27-18.56.17:293][821]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.27-18.56.17:293][821]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.27-18.56.17:357][821]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.27-18.56.17:358][821]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.27-18.56.17:373][821]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.27-18.56.17:376][821]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.27-18.56.17:376][821]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.27-18.56.17:376][821]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.27-18.56.17:376][821]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.27-18.56.17:376][821]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.27-18.56.17:376][821]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.27-18.56.17:377][821]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.27-18.56.17:408][821]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.27-18.56.17:409][821]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.27-18.56.17:410][821]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.27-18.56.17:410][821]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.27-18.56.17:411][821]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.27-18.56.17:512][821]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.27-18.56.17:612][821]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.27-18.56.17:612][821]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.27-18.56.17:612][821]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.27-18.56.17:612][821]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.27-18.56.17:612][821]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.27-18.56.17:612][821]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.27-18.56.17:614][821]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.27-18.56.17:614][821]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.27-18.56.17:614][821]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.27-18.56.17:614][821]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.27-18.56.17:617][821]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.27-18.56.17:617][821]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.27-18.56.17:618][821]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.27-18.56.17:625][821]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.27-18.56.17:626][821]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.27-18.56.17:626][821]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.27-18.56.17:626][821]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.27-18.56.17:626][821]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.27-18.56.17:635][821]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.27-18.56.17:641][821]LogDerivedDataCache: Shutdown
+[2017.11.27-18.56.17:641][821]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.27-18.56.17:641][821]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.27-18.56.17:641][821]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.27-18.56.17:641][821]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.27-18.56.17:642][821]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.27-18.56.17:642][821]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.27-18.56.17:643][821]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.27-18.56.17:643][821]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.27-18.56.17:643][821]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F028FD9-4B2D-F497-2B97-43BDC8582343%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=2cccb17e44e4444bcb01d5bca3f60601%7C31821a0cf46d4dc4848f0f7fd54aa011%7C0d34aea0-fb44-4570-8547-1faa7f898e86&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.27-18.56.17:659][821]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.27-18.56.17:661][821]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.27-18.56.17:664][821]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.27-18.56.17:665][821]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.27-18.56.17:665][821]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.27-18.56.17:665][821]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.27-18.56.17:668][821]LogExit: Exiting.
+[2017.11.27-18.56.17:698][821]Log file closed, 11/27/17 18:56:17
+>>>>>>> 89195f17f958d0a59724a233ac492e35b7826e23
