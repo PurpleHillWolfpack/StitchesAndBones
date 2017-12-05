@@ -1,0 +1,1052 @@
+﻿Log file open, 12/03/17 19:28:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1381231175) SRandInit(1381231175).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164653
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.03-19.28.20:669][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-19.28.20:670][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.03-19.28.20:679][  0]LogInit: Computer: MSI
+[2017.12.03-19.28.20:679][  0]LogInit: User: Cormac
+[2017.12.03-19.28.20:679][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.03-19.28.20:679][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2017.12.03-19.28.20:679][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2017.12.03-19.28.20:679][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.03-19.28.20:679][  0]LogMemory: Process Physical Memory: 274.10 MB used, 274.10 MB peak
+[2017.12.03-19.28.20:679][  0]LogMemory: Process Virtual Memory: 273.54 MB used, 273.54 MB peak
+[2017.12.03-19.28.20:679][  0]LogMemory: Physical Memory: 11113.10 MB used,  21612.23 MB free, 32725.33 MB total
+[2017.12.03-19.28.20:679][  0]LogMemory: Virtual Memory: 647.98 MB used,  21612.23 MB free, 134217728.00 MB total
+[2017.12.03-19.28.20:970][  0]LogInit: Using OS detected language (en-US).
+[2017.12.03-19.28.20:970][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.03-19.28.20:972][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.03-19.28.21:297][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.03-19.28.21:496][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.03-19.28.21:543][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.12.03-19.28.21:543][  0]LogD3D11RHI:       8086/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.03-19.28.21:544][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.03-19.28.21:544][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.03-19.28.21:544][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.03-19.28.21:551][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.03-19.28.21:551][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.03-19.28.21:551][  0]LogWindows: EnumDisplayDevices:
+[2017.12.03-19.28.21:551][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.12.03-19.28.21:551][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.03-19.28.21:551][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.03-19.28.21:551][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.03-19.28.21:551][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.03-19.28.21:551][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.12.03-19.28.21:551][  0]LogD3D11RHI:   Driver Version: 388.43 (internal:23.21.13.8843, unified:388.43)
+[2017.12.03-19.28.21:551][  0]LogD3D11RHI:      Driver Date: 11-27-2017
+[2017.12.03-19.28.21:551][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2017.12.03-19.28.21:574][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.03-19.28.21:584][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.03-19.28.21:631][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Cormac/Desktop/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/15996/).
+[2017.12.03-19.28.21:631][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cormac/AppData/Local/Temp/UnrealShaderWorkingDir/AE1DCE564386DD370FDDA09D53E5237D/'.
+[2017.12.03-19.28.21:631][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.03-19.28.22:362][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.03-19.28.22:404][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.03-19.28.22:446][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.03-19.28.22:487][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.03-19.28.22:528][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.03-19.28.22:569][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.03-19.28.22:612][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.03-19.28.22:653][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.03-19.28.22:688][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.03-19.28.22:729][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.03-19.28.22:771][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.03-19.28.22:811][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.03-19.28.22:851][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.03-19.28.22:892][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.03-19.28.22:971][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.03-19.28.22:971][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.03-19.28.23:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.03-19.28.23:042][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.03-19.28.23:120][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.03-19.28.23:144][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.03-19.28.23:183][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.03-19.28.23:223][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.03-19.28.23:263][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.03-19.28.23:302][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.03-19.28.23:302][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.03-19.28.23:666][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.03-19.28.23:731][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.03-19.28.23:731][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.03-19.28.23:731][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.03-19.28.23:731][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.03-19.28.23:731][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.03-19.28.23:731][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.03-19.28.23:743][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.03-19.28.23:755][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cormac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.03-19.28.23:762][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.03-19.28.23:763][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.03-19.28.23:763][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-19.28.23:763][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-19.28.24:041][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-19.28.24:312][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.03-19.28.24:348][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.03-19.28.24:348][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.03-19.28.24:348][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.03-19.28.24:348][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.03-19.28.24:348][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.03-19.28.24:370][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2017.12.03-19.28.24:506][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2017.12.03-19.28.24:911][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.054055 seconds
+[2017.12.03-19.28.24:915][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.03-19.28.24:915][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.03-19.28.24:915][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.03-19.28.24:956][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.03-19.28.27:028][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.03-19.28.27:061][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.03-19.28.27:596][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.03-19.28.27:931][  0]SourceControl: Source control is disabled
+[2017.12.03-19.28.27:931][  0]SourceControl: Source control is disabled
+[2017.12.03-19.28.27:972][  0]SourceControl: Source control is disabled
+[2017.12.03-19.28.28:013][  0]SourceControl: Source control is disabled
+[2017.12.03-19.28.28:648][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.03-19.28.28:855][  0]LogOcInput: OculusInput pre-init called
+[2017.12.03-19.28.29:080][  0]LogEngine: Initializing Engine...
+[2017.12.03-19.28.29:082][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.03-19.28.29:256][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.03-19.28.29:256][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.03-19.28.29:356][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.03-19.28.29:379][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.03-19.28.29:422][  0]LogInit: FAudioDevice initialized.
+[2017.12.03-19.28.29:464][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.03-19.28.29:473][  0]LogInit: Texture streaming: Enabled
+[2017.12.03-19.28.29:558][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.03-19.28.29:663][  0]LogInit: Transaction tracking system initialized
+[2017.12.03-19.28.29:919][  0]BlueprintLog: New page: Editor Load
+[2017.12.03-19.28.30:637][  0]LocalizationService: Localization service is disabled
+[2017.12.03-19.28.31:223][  0]LogConsoleResponse: Display: 
+[2017.12.03-19.28.31:376][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.03-19.28.31:376][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.03-19.28.31:376][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.03-19.28.32:284][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' took 0.01s
+[2017.12.03-19.28.32:324][  0]SourceControl: Source control is disabled
+[2017.12.03-19.28.32:324][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-19.28.32:325][  0]LightingResults: New page: Lighting Build
+[2017.12.03-19.28.32:361][  0]MapCheck: New page: Map Check
+[2017.12.03-19.28.32:361][  0]LightingResults: New page: Lighting Build
+[2017.12.03-19.28.32:696][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.28.32:696][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.28.32:696][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.28.32:700][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0013.85] Compile of PersistentLevel.Kitchen successful, but with 3 Warning(s) [in 5 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.28.33:078][  0]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.28.33:095][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-19.28.33:106][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-19.28.33:153][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.547ms to complete.
+[2017.12.03-19.28.33:153][  0]LogFileHelpers: Loading map 'Kitchen' took 0.828
+[2017.12.03-19.28.33:207][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.03-19.28.33:273][  0]LogCollectionManager: Loaded 0 collections in 0.001129 seconds
+[2017.12.03-19.28.33:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Saved/Collections/' took 0.01s
+[2017.12.03-19.28.33:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Developers/Cormac/Collections/' took 0.01s
+[2017.12.03-19.28.33:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Collections/' took 0.01s
+[2017.12.03-19.28.33:343][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.03-19.28.33:349][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2363 classes and 519 folders.
+[2017.12.03-19.28.33:404][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.03-19.28.33:430][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.03-19.28.33:463][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.03-19.28.33:478][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-19.28.33:480][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.03-19.28.33:485][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.03-19.28.33:566][  0]LogRenderer: Reallocating scene render targets to support 1072x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.03-19.28.33:612][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-19.28.33:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.03-19.28.33:709][  0]LogLoad: (Engine Initialization) Total time: 14.86 seconds
+[2017.12.03-19.28.33:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.03-19.28.33:709][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.03-19.28.33:769][  0]LogAssetRegistry: Asset discovery search completed in 9.2847 seconds
+[2017.12.03-19.28.33:770][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.03-19.28.33:770][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2017.12.03-19.28.33:773][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.03-19.28.33:847][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' took 0.11s
+[2017.12.03-19.28.38:871][299]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-19.28.39:197][318]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-19.28.39:467][318]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2017.12.03-19.28.39:989][318]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.03-19.28.40:888][364]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.03-19.29.00:317][528]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.29.00:341][528]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.29.00:341][528]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.29.00:341][528]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.29.00:342][528]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.29.00:343][528]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.29.00:343][528]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.29.00:437][528]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0041.59] Compile of PersistentLevel.Kitchen failed. 3 Fatal Issue(s) 3 Warning(s) [in 120 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.29.19:414][662]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.03-19.29.43:856][108]BlueprintLog: New page: Compile MyGame
+[2017.12.03-19.29.44:544][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2017.12.03-19.29.44:575][138]LogSavePackage: Save=11.27ms
+[2017.12.03-19.29.44:575][138]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/MyGameEDF04DC14CBEBAA077F8409EC0A3E7D4.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2017.12.03-19.29.44:577][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2017.12.03-19.29.51:428][543]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.03-19.29.52:493][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.29.52:535][543]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.29.52:535][543]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.29.52:535][543]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.29.52:537][543]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.29.52:537][543]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.29.52:537][543]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.29.52:538][543]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0093.69] Compile of PersistentLevel.Kitchen failed. 3 Fatal Issue(s) 3 Warning(s) [in 14 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.29.52:845][543]LogSavePackage: Save=329.81ms
+[2017.12.03-19.29.52:845][543]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen8C0AEFC74000EB3E894C8CA3EDF63F9D.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2017.12.03-19.29.52:848][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2017.12.03-19.29.52:891][543]LogFileHelpers: Saving map 'Kitchen' took 0.450
+[2017.12.03-19.29.52:892][543]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-19.29.52:892][543]LightingResults: New page: Lighting Build
+[2017.12.03-19.29.52:892][543]LoadErrors: New page: Loading map: TitleScreen.umap
+[2017.12.03-19.29.52:894][543]MapCheck: New page: Map Check
+[2017.12.03-19.29.52:894][543]LightingResults: New page: Lighting Build
+[2017.12.03-19.29.52:908][543]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-19.29.52:913][543]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-19.29.52:973][543]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-19.29.53:029][543]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.816ms to complete.
+[2017.12.03-19.29.53:029][543]LogFileHelpers: Loading map 'TitleScreen' took 0.138
+[2017.12.03-19.29.54:263][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.29.54:263][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.29.54:263][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.29.54:267][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.29.54:267][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.29.54:267][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.29.54:269][614]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.29.54:269][614]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.29.54:269][614]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.29.54:270][614]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0095.42] Compile of PersistentLevel.Kitchen failed. 3 Fatal Issue(s) 6 Warning(s) [in 8 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.29.54:306][614]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.29.54:329][614]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-19.29.54:329][614]LightingResults: New page: Lighting Build
+[2017.12.03-19.29.54:330][614]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.12.03-19.29.54:330][614]MapCheck: New page: Map Check
+[2017.12.03-19.29.54:330][614]LightingResults: New page: Lighting Build
+[2017.12.03-19.29.54:356][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-19.29.54:414][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-19.29.54:468][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.005ms to complete.
+[2017.12.03-19.29.54:468][614]LogFileHelpers: Loading map 'Kitchen' took 0.140
+[2017.12.03-19.29.58:550][836]LogBlueprint: Warning: [Kitchen] 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.29.58:550][836]LogBlueprint: Warning: [Kitchen] 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.29.58:550][836]LogBlueprint: Warning: [Kitchen] 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.29.58:550][836]LogBlueprint: Warning: [Kitchen] 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.12:298][638]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.30.12:322][638]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set CoOp
+[2017.12.03-19.30.12:323][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.30.12:323][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.30.12:323][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Could not find a function named "SpawnPlayers" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Spawn Players
+[2017.12.03-19.30.12:323][638]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set Player1Character
+[2017.12.03-19.30.12:323][638]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.30.12:323][638]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.30.12:323][638]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.30.12:325][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.12:325][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.30.12:325][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.12:325][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.12:326][638]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.30.12:413][638]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0113.56] Compile of PersistentLevel.Kitchen failed. 8 Fatal Issue(s) 5 Warning(s) [in 115 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.30.26:561][484]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.03-19.30.53:805][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2017.12.03-19.30.53:830][ 22]LogSavePackage: Save=10.85ms
+[2017.12.03-19.30.53:830][ 22]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/MyGameE0A7798E4613ED325979CCBA35645B40.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2017.12.03-19.30.53:833][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2017.12.03-19.30.53:884][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set CoOp
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Could not find a function named "SpawnPlayers" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Spawn Players
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set Player1Character
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.30.53:933][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.30.53:934][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.53:935][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.30.53:935][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.53:935][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.53:935][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.30.53:936][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0155.08] Compile of PersistentLevel.Kitchen failed. 8 Fatal Issue(s) 5 Warning(s) [in 16 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.30.54:251][ 22]LogSavePackage: Save=343.40ms
+[2017.12.03-19.30.54:251][ 22]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen07C963DA463D5AFFBCB5B5848966AB49.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2017.12.03-19.30.54:254][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2017.12.03-19.30.54:298][ 22]LogFileHelpers: Saving map 'Kitchen' took 0.466
+[2017.12.03-19.30.54:300][ 22]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-19.30.54:300][ 22]LightingResults: New page: Lighting Build
+[2017.12.03-19.30.54:301][ 22]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.12.03-19.30.54:353][ 22]MapCheck: New page: Map Check
+[2017.12.03-19.30.54:353][ 22]LightingResults: New page: Lighting Build
+[2017.12.03-19.30.54:391][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:391][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:392][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Get : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:392][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Set : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:392][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Set Player1Character : 'Player1Character' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:392][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Set : 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:392][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Set CoOp : 'CoOp' variable not found. Base class was probably changed. /Game/Kitchen.Kitchen:PersistentLevel.Kitchen
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set CoOp
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Could not find a function named "SpawnPlayers" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Spawn Players
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set Player1Character
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.30.54:395][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "CoOp" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.30.54:396][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "Player1Character" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.30.54:397][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.54:397][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.30.54:397][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.54:397][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.30.54:397][ 22]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.30.54:398][ 22]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0155.55] Compile of PersistentLevel.Kitchen failed. 8 Fatal Issue(s) 12 Warning(s) [in 8 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.30.54:438][ 22]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.30.54:450][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-19.30.54:508][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-19.30.54:558][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.096ms to complete.
+[2017.12.03-19.30.54:559][ 22]LogFileHelpers: Loading map 'Kitchen' took 0.260
+[2017.12.03-19.31.03:015][497]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.03-19.31.34:037][904]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.31.34:061][904]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.31.34:061][904]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.31.34:061][904]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Could not find a function named "SpawnPlayers" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Spawn Players
+[2017.12.03-19.31.34:156][904]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0195.30] Compile of PersistentLevel.Kitchen failed. 3 Fatal Issue(s) 0 Warning(s) [in 119 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.31.54:494][123]LogEditorTransaction: Undo Move Node
+[2017.12.03-19.31.54:697][128]LogEditorTransaction: Undo Create Pin Link
+[2017.12.03-19.31.54:849][137]LogEditorTransaction: Undo Change Parameter Type
+[2017.12.03-19.31.54:995][139]LogEditorTransaction: Undo Change Parameter Type
+[2017.12.03-19.31.55:162][149]LogEditorTransaction: Undo Rename Variable
+[2017.12.03-19.31.55:354][154]LogEditorTransaction: Undo Add Variable
+[2017.12.03-19.31.55:508][156]LogEditorTransaction: Undo Rename Variable
+[2017.12.03-19.31.55:695][160]LogEditorTransaction: Undo Change Parameter Type
+[2017.12.03-19.31.55:874][164]LogEditorTransaction: Undo Add Variable
+[2017.12.03-19.32.04:022][452]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.32.04:046][452]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "NewVar_0" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set NewVar_0
+[2017.12.03-19.32.04:047][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.32.04:047][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  <Unnamed>  no longer exists on node  Spawn Players . Please refresh node or break links to remove pin.
+[2017.12.03-19.32.04:047][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Could not find a function named "SpawnPlayers" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Spawn Players
+[2017.12.03-19.32.04:047][452]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "NewVar_0" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Set NewVar_0
+[2017.12.03-19.32.04:047][452]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "NewVar_0" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.32.04:047][452]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "NewVar_0" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get CoOp
+[2017.12.03-19.32.04:047][452]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Could not find a variable named "NewVar_0" in 'Kitchen_C'.
+Make sure 'Kitchen_C' has been compiled for  Get Player1Character
+[2017.12.03-19.32.04:048][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.32.04:049][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Co Op  could not be found
+[2017.12.03-19.32.04:049][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  Player 1Character  could not be found
+[2017.12.03-19.32.04:049][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  New Var 0  could not be found
+[2017.12.03-19.32.04:049][452]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  New Var 0  could not be found
+[2017.12.03-19.32.04:156][452]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0225.30] Compile of PersistentLevel.Kitchen failed. 8 Fatal Issue(s) 5 Warning(s) [in 134 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.33.21:391][663]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.33.21:414][663]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Input pin  Player 1Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2017.12.03-19.33.21:414][663]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  Co Op  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.03-19.33.21:415][663]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  New Var 0  could not be found
+[2017.12.03-19.33.21:504][663]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0302.65] Compile of PersistentLevel.Kitchen failed. 2 Fatal Issue(s) 1 Warning(s) [in 112 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.33.39:490][706]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.33.39:514][706]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] Input pin  Player 1Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2017.12.03-19.33.39:514][706]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  Co Op  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.03-19.33.39:516][706]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] The property associated with  New Var 0  could not be found
+[2017.12.03-19.33.39:612][706]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0320.76] Compile of PersistentLevel.Kitchen failed. 2 Fatal Issue(s) 1 Warning(s) [in 122 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.33.55:423][637]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.33.55:446][637]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] In use pin  Co Op  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.03-19.33.55:537][637]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [0336.69] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 0 Warning(s) [in 113 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.03-19.34.09:646][469]BlueprintLog: New page: Compile Kitchen
+[2017.12.03-19.34.10:908][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.34.11:289][533]LogSavePackage: Save=348.74ms
+[2017.12.03-19.34.11:289][533]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen9FA5DDCB459E4F9BCE7A6C83D14973DC.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2017.12.03-19.34.11:292][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2017.12.03-19.34.11:335][533]LogFileHelpers: Saving map 'Kitchen' took 0.479
+[2017.12.03-19.34.15:553][782]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-19.34.15:614][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.03-19.34.15:614][782]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.03-19.34.15:620][782]LogPlayLevel: [PlayLevel] Compiling MyGame before play...
+[2017.12.03-19.34.15:791][782]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2017.12.03-19.34.15:791][782]PIE: New page: PIE session: Kitchen (3 Dec 2017 19:34:15)
+[2017.12.03-19.34.15:791][782]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.03-19.34.15:802][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010398s)
+[2017.12.03-19.34.15:802][782]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.34.15:802][782]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2017.12.03-19.34.15:803][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011187s)
+[2017.12.03-19.34.15:834][782]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.03-19.34.15:879][782]LogInit: FAudioDevice initialized.
+[2017.12.03-19.34.15:920][782]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.34.15:925][782]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.03-19.34.15
+[2017.12.03-19.34.15:926][782]LogWorld: Bringing up level for play took: 0.005489
+[2017.12.03-19.34.15:965][782]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.03-19.34.15:969][782]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.12
+[2017.12.03-19.34.15:970][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.03-19.34.15:975][782]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.03-19.34.22:671][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.03-19.34.22:706][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.03-19.34.25:439][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Set : 'GameStarted' variable not found. Base class was probably changed. /Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2017.12.03-19.34.25:439][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Set GameStarted : 'GameStarted' variable not found. Base class was probably changed. /Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2017.12.03-19.34.25:439][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Set : 'GameStarted' variable not found. Base class was probably changed. /Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2017.12.03-19.34.25:439][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Set GameStarted : 'GameStarted' variable not found. Base class was probably changed. /Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2017.12.03-19.34.25:442][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.25:442][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.25:443][344]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.25:443][344]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.25:443][344]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] [0366.59] Compile of PersistentLevel.TitleScreen failed. 2 Fatal Issue(s) 6 Warning(s) [in 5 ms] (/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen)
+[2017.12.03-19.34.25:452][344]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.03-19.34.25:470][344]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-19.34.25:470][344]LightingResults: New page: Lighting Build
+[2017.12.03-19.34.25:471][344]LoadErrors: New page: Loading map: TitleScreen.umap
+[2017.12.03-19.34.25:472][344]MapCheck: New page: Map Check
+[2017.12.03-19.34.25:472][344]LightingResults: New page: Lighting Build
+[2017.12.03-19.34.25:489][344]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-19.34.25:546][344]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-19.34.25:599][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.526ms to complete.
+[2017.12.03-19.34.25:599][344]LogFileHelpers: Loading map 'TitleScreen' took 0.130
+[2017.12.03-19.34.28:176][498]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-19.34.28:200][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.34.28:200][498]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.03-19.34.28:208][498]LogPlayLevel: [PlayLevel] Compiling TitleScreen before play...
+[2017.12.03-19.34.28:218][498]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.28:218][498]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.28:219][498]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.28:219][498]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.28:220][498]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] [0369.37] Compile of PersistentLevel.TitleScreen failed. 2 Fatal Issue(s) 2 Warning(s) [in 11 ms] (/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen)
+[2017.12.03-19.34.28:311][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2017.12.03-19.34.28:312][498]BlueprintLog: Blueprint TitleScreen failed to compile
+[2017.12.03-19.34.34:168][681]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.34.34:183][681]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.34:183][681]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.34:184][681]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.34:185][681]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.34:272][681]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] [0375.42] Compile of PersistentLevel.TitleScreen failed. 2 Fatal Issue(s) 2 Warning(s) [in 103 ms] (/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen)
+[2017.12.03-19.34.38:355][923]LogEditorTransaction: Undo Delete current selection
+[2017.12.03-19.34.45:143][327]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.34.45:157][327]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] Could not find a variable named "GameStarted" in 'MyGame_C'.
+Make sure 'MyGame_C' has been compiled for  Set GameStarted
+[2017.12.03-19.34.45:158][327]LogBlueprint: Error: [Compiler PersistentLevel.TitleScreen] The property associated with  Game Started  could not be found
+[2017.12.03-19.34.45:246][327]LogBlueprint: Warning: [Compiler PersistentLevel.TitleScreen] [0386.39] Compile of PersistentLevel.TitleScreen failed. 1 Fatal Issue(s) 1 Warning(s) [in 103 ms] (/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen)
+[2017.12.03-19.35.02:992][391]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.35.03:813][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.35.03:992][430]LogSavePackage: Save=145.88ms
+[2017.12.03-19.35.03:992][430]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreen60C04CA34031B216681AF9B61F1CB283.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.03-19.35.03:994][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.03-19.35.04:041][430]LogFileHelpers: Saving map 'TitleScreen' took 0.280
+[2017.12.03-19.35.26:241][759]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.35.27:350][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.35.27:521][815]LogSavePackage: Save=141.89ms
+[2017.12.03-19.35.27:521][815]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreenF6567FB947830492107F029E2BA40921.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.03-19.35.27:525][815]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.03-19.35.27:567][815]LogFileHelpers: Saving map 'TitleScreen' took 0.272
+[2017.12.03-19.35.29:115][904]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-19.35.29:139][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.35.29:140][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-19.35.29:140][904]PIE: New page: PIE session: TitleScreen (3 Dec 2017 19:35:29)
+[2017.12.03-19.35.29:140][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.03-19.35.29:141][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001191s)
+[2017.12.03-19.35.29:141][904]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.03-19.35.29:142][904]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2017.12.03-19.35.29:142][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.002287s)
+[2017.12.03-19.35.29:175][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.03-19.35.29:233][904]LogInit: FAudioDevice initialized.
+[2017.12.03-19.35.29:268][904]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.35.29:269][904]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.03-19.35.29
+[2017.12.03-19.35.29:269][904]LogWorld: Bringing up level for play took: 0.000444
+[2017.12.03-19.35.29:270][904]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen -0.819
+[2017.12.03-19.35.29:271][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.35.29:278][904]LogSlate: Took 0.002265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.12.03-19.35.32:107][ 74]LogNet: Browse: /Game/Kitchen
+[2017.12.03-19.35.32:107][ 74]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.03-19.35.32:503][ 74]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.35.32:503][ 74]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.35.32:512][ 74]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.03-19.35.32
+[2017.12.03-19.35.32:513][ 74]LogWorld: Bringing up level for play took: 0.008984
+[2017.12.03-19.35.32:516][ 74]LogLoad: Took 0.409072 seconds to LoadMap(/Game/Kitchen)
+[2017.12.03-19.35.32:519][ 74]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.03-19.35.35:517][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.35.35:554][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.35.41:277][596]LogEditorViewport: Clicking Background
+[2017.12.03-19.36.30:553][524]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.36.31:211][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.36.31:387][553]LogSavePackage: Save=146.49ms
+[2017.12.03-19.36.31:387][553]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreenBA2A243D4893B4CFE219EE8B13B104E7.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.03-19.36.31:391][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.03-19.36.31:438][553]LogFileHelpers: Saving map 'TitleScreen' took 0.281
+[2017.12.03-19.36.33:025][645]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-19.36.33:050][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.36.33:050][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-19.36.33:050][645]PIE: New page: PIE session: TitleScreen (3 Dec 2017 19:36:33)
+[2017.12.03-19.36.33:050][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.03-19.36.33:051][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001283s)
+[2017.12.03-19.36.33:052][645]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.03-19.36.33:052][645]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2017.12.03-19.36.33:052][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.001891s)
+[2017.12.03-19.36.33:084][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.03-19.36.33:130][645]LogInit: FAudioDevice initialized.
+[2017.12.03-19.36.33:161][645]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.36.33:162][645]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.03-19.36.33
+[2017.12.03-19.36.33:162][645]LogWorld: Bringing up level for play took: 0.000316
+[2017.12.03-19.36.33:163][645]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 1.074
+[2017.12.03-19.36.33:163][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.36.35:144][764]LogNet: Browse: /Game/Kitchen
+[2017.12.03-19.36.35:144][764]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.03-19.36.35:399][764]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.36.35:399][764]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.36.35:408][764]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.03-19.36.35
+[2017.12.03-19.36.35:409][764]LogWorld: Bringing up level for play took: 0.009422
+[2017.12.03-19.36.35:413][764]LogLoad: Took 0.269702 seconds to LoadMap(/Game/Kitchen)
+[2017.12.03-19.36.35:416][764]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.03-19.36.36:518][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.36.36:554][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.37.06:680][607]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.37.07:205][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.37.07:378][628]LogSavePackage: Save=143.90ms
+[2017.12.03-19.37.07:378][628]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreen9C19A12A44353490B7C5569CE878069A.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.03-19.37.07:380][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.03-19.37.07:423][628]LogFileHelpers: Saving map 'TitleScreen' took 0.276
+[2017.12.03-19.37.08:794][707]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-19.37.08:818][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.37.08:818][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-19.37.08:818][707]PIE: New page: PIE session: TitleScreen (3 Dec 2017 19:37:08)
+[2017.12.03-19.37.08:819][707]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.03-19.37.08:820][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001229s)
+[2017.12.03-19.37.08:820][707]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.03-19.37.08:820][707]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2017.12.03-19.37.08:820][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.001818s)
+[2017.12.03-19.37.08:852][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.03-19.37.08:896][707]LogInit: FAudioDevice initialized.
+[2017.12.03-19.37.08:931][707]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.37.08:932][707]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.03-19.37.08
+[2017.12.03-19.37.08:932][707]LogWorld: Bringing up level for play took: 0.000362
+[2017.12.03-19.37.08:933][707]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 0.844
+[2017.12.03-19.37.08:933][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.37.11:182][842]LogNet: Browse: /Game/Kitchen
+[2017.12.03-19.37.11:182][842]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.03-19.37.11:439][842]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.03-19.37.11:439][842]LogLoad: Game class is 'MyGame_C'
+[2017.12.03-19.37.11:449][842]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.03-19.37.11
+[2017.12.03-19.37.11:450][842]LogWorld: Bringing up level for play took: 0.010397
+[2017.12.03-19.37.11:455][842]LogLoad: Took 0.273299 seconds to LoadMap(/Game/Kitchen)
+[2017.12.03-19.37.11:457][842]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.03-19.37.12:279][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.37.12:315][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.03-19.37.22:486][483]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.37.48:394][ 20]BlueprintLog: New page: Compile TitleScreen
+[2017.12.03-19.37.49:006][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-19.37.49:183][ 46]LogSavePackage: Save=146.65ms
+[2017.12.03-19.37.49:183][ 46]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreenD46FFD984D98E2CEDC5C269EE80B4EE3.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.03-19.37.49:185][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.03-19.37.49:230][ 46]LogFileHelpers: Saving map 'TitleScreen' took 0.283
+[2017.12.03-19.52.07:490][157]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.03-20.06.09:962][687]Cmd: QUIT_EDITOR
+[2017.12.03-20.06.10:272][687]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.03-20.06.10:283][687]LogExit: Preparing to exit.
+[2017.12.03-20.06.10:816][687]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' was aborted.
+[2017.12.03-20.06.10:842][687]LogExit: Editor shut down
+[2017.12.03-20.06.10:846][687]LogExit: Transaction tracking system shut down
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/' was aborted.
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.03-20.06.11:019][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.03-20.06.11:101][687]LogExit: Object subsystem successfully closed.
+[2017.12.03-20.06.11:121][687]LogD3D11RHI: Shutdown
+[2017.12.03-20.06.11:121][687]LogD3D11RHI: CleanupD3DDevice
+[2017.12.03-20.06.11:123][687]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.03-20.06.11:141][687]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.12.03-20.06.11:141][687]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2017.12.03-20.06.11:141][687]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.03-20.06.11:141][687]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.03-20.06.11:141][687]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.03-20.06.11:141][687]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.03-20.06.11:143][687]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Collections/' was aborted.
+[2017.12.03-20.06.11:143][687]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Developers/Cormac/Collections/' was aborted.
+[2017.12.03-20.06.11:143][687]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Saved/Collections/' was aborted.
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.03-20.06.11:143][687]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.03-20.06.11:144][687]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.03-20.06.11:145][687]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.03-20.06.11:146][687]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.03-20.06.11:146][687]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.03-20.06.11:146][687]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.03-20.06.11:146][687]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.03-20.06.11:146][687]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.03-20.06.11:146][687]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.03-20.06.11:727][687]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.03-20.06.11:728][687]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.03-20.06.11:781][687]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.03-20.06.11:787][687]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.03-20.06.11:788][687]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.03-20.06.11:930][687]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.03-20.06.11:931][687]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.03-20.06.11:932][687]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.03-20.06.12:033][687]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.03-20.06.12:134][687]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.03-20.06.12:135][687]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.03-20.06.12:141][687]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.03-20.06.12:143][687]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.03-20.06.12:144][687]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.03-20.06.12:221][687]LogDerivedDataCache: Shutdown
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.03-20.06.12:221][687]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.03-20.06.12:222][687]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.03-20.06.12:222][687]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.03-20.06.12:222][687]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1A3E521F-4159-2D64-7918-DAB3EB511D5D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=88ddbd0a4f420f2d671fd392716753eb%7Ceaa7ed5ebec04e62b7875f125685b0e6%7Caa405f8b-d904-444a-83fd-af1dc9c4c244&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.03-20.06.12:246][687]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.03-20.06.12:246][687]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.03-20.06.12:246][687]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.03-20.06.12:246][687]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.03-20.06.12:246][687]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.03-20.06.12:247][687]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.03-20.06.12:247][687]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.03-20.06.12:247][687]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.03-20.06.12:248][687]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.03-20.06.12:251][687]LogExit: Exiting.
+[2017.12.03-20.06.12:272][687]Log file closed, 12/03/17 20:06:12
