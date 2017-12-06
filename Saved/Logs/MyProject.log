@@ -27118,3 +27118,664 @@ LogInit: Object subsystem initialized
 [2017.12.06-16.20.44:660][ 79]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
 [2017.12.06-16.21.02:115][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
 [2017.12.06-16.21.02:152][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.22.36:972][890]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.22.37:001][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.22.37:001][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.22.37:001][890]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:22:37)
+[2017.12.06-16.22.37:002][890]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.22.37:005][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2017.12.06-16.22.37:005][890]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.22.37:005][890]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2017.12.06-16.22.37:006][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.003581s)
+[2017.12.06-16.22.37:032][890]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.22.37:080][890]LogInit: FAudioDevice initialized.
+[2017.12.06-16.22.37:112][890]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.22.37:113][890]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.22.37
+[2017.12.06-16.22.37:113][890]LogWorld: Bringing up level for play took: 0.000365
+[2017.12.06-16.22.37:115][890]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 0.025
+[2017.12.06-16.22.37:115][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.22.39:696][ 45]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.22.39:696][ 45]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.22.39:970][ 45]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.22.39:971][ 45]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.22.39:981][ 45]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.22.39
+[2017.12.06-16.22.39:981][ 45]LogWorld: Bringing up level for play took: 0.010146
+[2017.12.06-16.22.39:983][ 45]LogBlueprintUserMessages: [Kitchen_C_0] false
+[2017.12.06-16.22.39:984][ 45]LogLoad: Took 0.287989 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.22.39:987][ 45]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.22.52:324][785]LogActorComponent: Error: May not destroy component CapsuleComponent /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.Hugo_C_0.CollisionCylinder owned by Hugo_C /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.Hugo_C_0.
+[2017.12.06-16.22.52:324][785]LogActorComponent: Error: May not destroy component CapsuleComponent /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.Hugo_C_0.CollisionCylinder owned by Hugo_C /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.Hugo_C_0.
+[2017.12.06-16.22.52:340][786]LogActorComponent: Error: May not destroy component CapsuleComponent /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.Hugo_C_0.CollisionCylinder owned by Hugo_C /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.Hugo_C_0.
+[2017.12.06-16.22.53:509][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.22.53:546][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.22.56:235][997]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.22.56:288][997]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.22.56:288][997]LightingResults: New page: Lighting Build
+[2017.12.06-16.22.56:289][997]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.12.06-16.22.56:289][997]MapCheck: New page: Map Check
+[2017.12.06-16.22.56:289][997]LightingResults: New page: Lighting Build
+[2017.12.06-16.22.56:316][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.22.56:375][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.22.56:434][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.282ms to complete.
+[2017.12.06-16.22.56:434][997]LogFileHelpers: Loading map 'Kitchen' took 0.146
+[2017.12.06-16.22.57:463][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.12.06-16.22.57:699][ 58]Cmd: DELETE
+[2017.12.06-16.22.57:699][ 58]Cmd: ACTOR DELETE
+[2017.12.06-16.23.01:253][ 58]LogEditorActor: Deleted 0 Actors (3.550 secs)
+[2017.12.06-16.23.05:265][276]LogEditorViewport: Clicking on Actor (LMB): ShelfEvent_C (ShelfEvent)
+[2017.12.06-16.23.05:704][296]Cmd: DELETE
+[2017.12.06-16.23.05:704][296]Cmd: ACTOR DELETE
+[2017.12.06-16.23.05:709][296]LogEditorActor: Deleted Actor: ShelfEvent_C
+[2017.12.06-16.23.05:723][296]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.06-16.23.06:483][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.12.06-16.23.06:778][349]Cmd: DELETE
+[2017.12.06-16.23.06:778][349]Cmd: ACTOR DELETE
+[2017.12.06-16.23.08:541][349]LogEditorActor: Deleted 0 Actors (1.762 secs)
+[2017.12.06-16.23.09:190][381]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere)
+[2017.12.06-16.23.16:777][696]Cmd: DELETE
+[2017.12.06-16.23.16:778][696]Cmd: ACTOR DELETE
+[2017.12.06-16.23.18:146][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.06-16.23.18:164][696]LogEditorActor: Deleted 1 Actors (1.386 secs)
+[2017.12.06-16.23.19:235][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.23.19:297][742]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] OnActorHit (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2017.12.06-16.23.19:299][742]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Couldn't find object for bound event node  OnActorHit (None)
+[2017.12.06-16.23.19:300][742]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [5229.73] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 1 Warning(s) [in 19 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2017.12.06-16.23.19:635][742]LogSavePackage: Save=365.16ms
+[2017.12.06-16.23.19:635][742]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenD630F4454775A6AF906F3EB479CCC084.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2017.12.06-16.23.19:638][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2017.12.06-16.23.19:687][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2017.12.06-16.23.19:783][742]LogSavePackage: Save=76.94ms
+[2017.12.06-16.23.19:783][742]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen_BuiltData6CD43A474A9F182C1A43D8BB3DC95B54.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2017.12.06-16.23.19:785][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2017.12.06-16.23.38:175][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Worktop_2)
+[2017.12.06-16.23.38:378][714]Cmd: TRANSACTION UNDO
+[2017.12.06-16.23.38:378][714]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.06-16.23.51:781][374]BlueprintLog: New page: Compile Kitchen
+[2017.12.06-16.23.52:770][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.23.53:158][399]LogSavePackage: Save=352.64ms
+[2017.12.06-16.23.53:158][399]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenC64FAAED40ABE0C90446D88E40298B8D.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2017.12.06-16.23.53:160][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2017.12.06-16.23.53:203][399]LogFileHelpers: Saving map 'Kitchen' took 0.486
+[2017.12.06-16.24.22:304][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.24.22:332][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.24.22:332][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.24.22:332][ 80]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:24:22)
+[2017.12.06-16.24.22:332][ 80]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.24.22:343][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010303s)
+[2017.12.06-16.24.22:343][ 80]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.24.22:343][ 80]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.12.06-16.24.22:343][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011264s)
+[2017.12.06-16.24.22:369][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.24.22:408][ 80]LogInit: FAudioDevice initialized.
+[2017.12.06-16.24.22:438][ 80]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.24.22:442][ 80]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.24.22
+[2017.12.06-16.24.22:443][ 80]LogWorld: Bringing up level for play took: 0.004261
+[2017.12.06-16.24.22:444][ 80]LogBlueprintUserMessages: [Kitchen_C_0] false
+[2017.12.06-16.24.22:445][ 80]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.645
+[2017.12.06-16.24.22:445][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.24.22:471][ 80]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.24.23:978][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.24.24:014][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.24.26:257][291]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.24.26:257][291]LightingResults: New page: Lighting Build
+[2017.12.06-16.24.26:258][291]LoadErrors: New page: Loading map: Kitchen.umap
+[2017.12.06-16.24.26:285][291]MapCheck: New page: Map Check
+[2017.12.06-16.24.26:285][291]LightingResults: New page: Lighting Build
+[2017.12.06-16.24.26:374][291]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.24.26:387][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.24.26:481][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.24.26:541][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.428ms to complete.
+[2017.12.06-16.24.26:542][291]LogFileHelpers: Loading map 'Kitchen' took 0.285
+[2017.12.06-16.25.03:939][279]BlueprintLog: New page: Compile Kitchen
+[2017.12.06-16.25.04:732][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.25.05:111][296]LogSavePackage: Save=348.39ms
+[2017.12.06-16.25.05:112][296]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen3200B4084B4642683DB4168E803726DF.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2017.12.06-16.25.05:114][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2017.12.06-16.25.05:157][296]LogFileHelpers: Saving map 'Kitchen' took 0.480
+[2017.12.06-16.25.07:906][431]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.25.07:932][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.07:932][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.25.07:932][431]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:25:07)
+[2017.12.06-16.25.07:933][431]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.25.07:942][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009824s)
+[2017.12.06-16.25.07:943][431]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.25.07:943][431]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2017.12.06-16.25.07:943][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010677s)
+[2017.12.06-16.25.07:967][431]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.25.08:006][431]LogInit: FAudioDevice initialized.
+[2017.12.06-16.25.08:036][431]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.25.08:039][431]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.25.08
+[2017.12.06-16.25.08:040][431]LogWorld: Bringing up level for play took: 0.004090
+[2017.12.06-16.25.08:043][431]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.953
+[2017.12.06-16.25.08:043][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.08:071][431]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.25.13:431][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.13:470][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.24:560][844]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.25.24:586][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.24:587][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.25.24:587][844]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:25:24)
+[2017.12.06-16.25.24:587][844]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.25.24:597][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009967s)
+[2017.12.06-16.25.24:597][844]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.25.24:598][844]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2017.12.06-16.25.24:598][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010894s)
+[2017.12.06-16.25.24:622][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.25.24:658][844]LogInit: FAudioDevice initialized.
+[2017.12.06-16.25.24:693][844]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.25.24:697][844]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.25.24
+[2017.12.06-16.25.24:697][844]LogWorld: Bringing up level for play took: 0.003982
+[2017.12.06-16.25.24:699][844]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.391
+[2017.12.06-16.25.24:700][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.24:729][844]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.25.31:207][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.31:259][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.41:768][432]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.25.41:793][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.41:793][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.25.41:794][432]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:25:41)
+[2017.12.06-16.25.41:794][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.25.41:804][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010440s)
+[2017.12.06-16.25.41:805][432]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.25.41:805][432]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2017.12.06-16.25.41:805][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011225s)
+[2017.12.06-16.25.41:829][432]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.25.41:865][432]LogInit: FAudioDevice initialized.
+[2017.12.06-16.25.41:898][432]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.25.41:902][432]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.25.41
+[2017.12.06-16.25.41:903][432]LogWorld: Bringing up level for play took: 0.004577
+[2017.12.06-16.25.41:906][432]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.816
+[2017.12.06-16.25.41:906][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.41:931][432]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.25.48:684][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.48:723][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.25.56:215][255]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:274][257]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:347][260]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:433][265]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:589][270]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:674][275]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:757][280]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:843][285]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.56:927][290]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:013][295]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:097][300]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:182][305]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:269][310]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:353][315]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:436][320]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.25.57:519][325]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.26.21:905][730]BlueprintLog: New page: Compile Hugo
+[2017.12.06-16.26.22:856][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.12.06-16.26.23:024][755]LogSavePackage: Save=146.75ms
+[2017.12.06-16.26.23:024][755]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/HugoE8021176416768A4A9E3DBBFCE1965D8.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.12.06-16.26.23:027][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset
+[2017.12.06-16.26.24:324][820]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.26.24:353][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.26.24:353][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.26.24:353][820]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:26:24)
+[2017.12.06-16.26.24:353][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.26.24:363][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010010s)
+[2017.12.06-16.26.24:364][820]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.26.24:364][820]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2017.12.06-16.26.24:364][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010904s)
+[2017.12.06-16.26.24:387][820]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.26.24:424][820]LogInit: FAudioDevice initialized.
+[2017.12.06-16.26.24:456][820]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.26.24:460][820]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.26.24
+[2017.12.06-16.26.24:460][820]LogWorld: Bringing up level for play took: 0.003810
+[2017.12.06-16.26.24:463][820]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.628
+[2017.12.06-16.26.24:463][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.26.24:487][820]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.26.33:130][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.26.33:178][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.26.34:017][373]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.26.53:828][495]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.26.53:862][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.26.53:862][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.26.53:862][495]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:26:53)
+[2017.12.06-16.26.53:863][495]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.26.53:878][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014759s)
+[2017.12.06-16.26.53:878][495]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.26.53:878][495]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2017.12.06-16.26.53:879][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.016005s)
+[2017.12.06-16.26.53:909][495]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.26.53:960][495]LogInit: FAudioDevice initialized.
+[2017.12.06-16.26.53:990][495]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.26.53:995][495]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.26.53
+[2017.12.06-16.26.53:996][495]LogWorld: Bringing up level for play took: 0.005157
+[2017.12.06-16.26.53:999][495]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.909
+[2017.12.06-16.26.53:999][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.26.54:032][495]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.27.56:803][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.27.56:840][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.28.02:877][620]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.28.03:197][638]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.28.03:329][643]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.28.03:419][648]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.28.04:068][664]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.30.07:111][ 55]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.30.08:354][122]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.31.59:671][504]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.00:746][564]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.32.00:772][564]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.00:772][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.32.00:772][564]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:32:00)
+[2017.12.06-16.32.00:772][564]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.32.00:783][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010795s)
+[2017.12.06-16.32.00:784][564]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.32.00:784][564]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2017.12.06-16.32.00:784][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.011735s)
+[2017.12.06-16.32.00:807][564]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.32.00:848][564]LogInit: FAudioDevice initialized.
+[2017.12.06-16.32.00:881][564]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.32.00:886][564]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.32.00
+[2017.12.06-16.32.00:887][564]LogWorld: Bringing up level for play took: 0.004675
+[2017.12.06-16.32.00:889][564]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.201
+[2017.12.06-16.32.00:889][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.00:913][564]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.32.03:164][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.03:202][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.05:582][818]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.32.05:607][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.05:607][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.32.05:608][818]PIE: New page: PIE session: Kitchen (6 Dec 2017 16:32:05)
+[2017.12.06-16.32.05:608][818]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2017.12.06-16.32.05:618][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009855s)
+[2017.12.06-16.32.05:618][818]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.32.05:618][818]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2017.12.06-16.32.05:618][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.010731s)
+[2017.12.06-16.32.05:641][818]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.32.05:677][818]LogInit: FAudioDevice initialized.
+[2017.12.06-16.32.05:707][818]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.32.05:711][818]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.32.05
+[2017.12.06-16.32.05:712][818]LogWorld: Bringing up level for play took: 0.003959
+[2017.12.06-16.32.05:714][818]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.624
+[2017.12.06-16.32.05:714][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.05:740][818]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.32.07:093][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.07:128][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2017.12.06-16.32.07:510][916]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.07:628][921]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.07:715][926]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.07:837][931]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.07:921][936]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.08:004][941]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.08:089][946]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.08:188][951]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.08:272][956]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.08:386][961]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.08:485][966]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.13:059][222]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.32.13:077][222]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.32.13:077][222]LightingResults: New page: Lighting Build
+[2017.12.06-16.32.13:078][222]LoadErrors: New page: Loading map: TitleScreen.umap
+[2017.12.06-16.32.13:103][222]MapCheck: New page: Map Check
+[2017.12.06-16.32.13:103][222]LightingResults: New page: Lighting Build
+[2017.12.06-16.32.13:119][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.32.13:173][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.32.13:228][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.122ms to complete.
+[2017.12.06-16.32.13:228][222]LogFileHelpers: Loading map 'TitleScreen' took 0.152
+[2017.12.06-16.32.13:855][252]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.32.13:880][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.32.13:880][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.32.13:880][252]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:32:13)
+[2017.12.06-16.32.13:880][252]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.32.13:883][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002299s)
+[2017.12.06-16.32.13:883][252]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.32.13:883][252]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2017.12.06-16.32.13:883][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.002990s)
+[2017.12.06-16.32.13:906][252]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.32.13:943][252]LogInit: FAudioDevice initialized.
+[2017.12.06-16.32.13:975][252]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.32.13:976][252]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.32.13
+[2017.12.06-16.32.13:976][252]LogWorld: Bringing up level for play took: 0.000317
+[2017.12.06-16.32.13:978][252]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 0.888
+[2017.12.06-16.32.13:978][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.32.20:670][653]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.32.20:670][653]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.32.20:804][653]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.32.20:804][653]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.32.20:814][653]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.32.20
+[2017.12.06-16.32.20:815][653]LogWorld: Bringing up level for play took: 0.009916
+[2017.12.06-16.32.20:817][653]LogLoad: Took 0.146798 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.32.20:819][653]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.32.26:122][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.32.26:157][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.32.37:147][578]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:206][580]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:253][583]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:336][588]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:420][593]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:505][598]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:636][603]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:732][608]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:815][613]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:898][618]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.37:982][623]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.38:065][628]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.38:184][633]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.38:268][638]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.38:351][643]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.32.38:434][648]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.34.04:006][514]LogEditorTransaction: Undo Create Pin Link
+[2017.12.06-16.34.04:416][529]LogEditorTransaction: Undo Create Pin Link
+[2017.12.06-16.34.29:698][942]BlueprintLog: New page: Compile Hugo
+[2017.12.06-16.34.29:760][942]LogBlueprint: Error: [Compiler Hugo] The type of  Object  is undetermined.  Connect something to  Cast To StateCheck  to imply a specific type.
+[2017.12.06-16.34.29:761][942]LogBlueprint: Error: [Compiler Hugo] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2017.12.06-16.34.30:022][942]LogBlueprint: Warning: [Compiler Hugo] [5900.45] Compile of Hugo failed. 2 Fatal Issue(s) 0 Warning(s) [in 323 ms] (/Game/CaveAssets/Characters/Hugo.Hugo)
+[2017.12.06-16.34.30:452][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.12.06-16.34.30:606][956]LogSavePackage: Save=131.61ms
+[2017.12.06-16.34.30:606][956]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/HugoF869A02E4A3141415DA57F8FCD076F44.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.12.06-16.34.30:609][956]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset
+[2017.12.06-16.34.38:759][413]BlueprintLog: New page: Compile Hugo
+[2017.12.06-16.34.39:538][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/Hugo" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset" SILENT=true
+[2017.12.06-16.34.39:694][429]LogSavePackage: Save=140.12ms
+[2017.12.06-16.34.39:694][429]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Hugo3B5AEEC74F2764595E7F0EAE6B084808.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset'
+[2017.12.06-16.34.39:697][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/Hugo.uasset
+[2017.12.06-16.34.40:882][494]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.34.40:907][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.34.40:907][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.34.40:907][494]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:34:40)
+[2017.12.06-16.34.40:908][494]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.34.40:910][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002397s)
+[2017.12.06-16.34.40:911][494]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.34.40:911][494]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2017.12.06-16.34.40:911][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.003242s)
+[2017.12.06-16.34.40:934][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.34.40:975][494]LogInit: FAudioDevice initialized.
+[2017.12.06-16.34.41:007][494]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.34.41:008][494]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.34.41
+[2017.12.06-16.34.41:008][494]LogWorld: Bringing up level for play took: 0.000315
+[2017.12.06-16.34.41:009][494]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen -0.081
+[2017.12.06-16.34.41:009][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.34.43:701][655]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.34.43:701][655]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.34.43:948][655]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.34.43:948][655]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.34.43:955][655]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.34.43
+[2017.12.06-16.34.43:956][655]LogWorld: Bringing up level for play took: 0.007774
+[2017.12.06-16.34.43:958][655]LogLoad: Took 0.257301 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.34.43:960][655]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.34.45:698][756]LogScript: Warning: Attempted to access ProjectileMesh via property K2Node_Event_OtherComp, but ProjectileMesh is pending kill
+	MagicMissile_C /Game/UEDPIE_0_Kitchen.Kitchen:PersistentLevel.MagicMissile_C_3
+	Function /Game/CaveAssets/MagicMissile.MagicMissile_C:ExecuteUbergraph_MagicMissile:0110
+[2017.12.06-16.34.45:699][756]PIE: Error: Blueprint Runtime Error: Attempted to access ProjectileMesh via property K2Node_Event_OtherComp, but ProjectileMesh is pending kill from function: 'ExecuteUbergraph_MagicMissile' from node: Branch in graph: EventGraph in object: MagicMissile with description: Attempted to access ProjectileMesh via property K2Node_Event_OtherComp, but ProjectileMesh is pending kill
+[2017.12.06-16.35.02:057][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.35.02:096][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.35.02:924][734]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.03:032][739]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.03:208][744]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.09:581][  6]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.29:705][781]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.29:805][786]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.29:889][791]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.29:973][796]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:056][801]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:139][806]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:223][811]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:306][816]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:389][821]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:473][826]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:556][831]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:639][836]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:722][841]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:806][846]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:889][851]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.30:973][856]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.31:056][861]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.31:140][866]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.31:223][871]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.31:306][876]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.31:398][881]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.31:958][912]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.33:459][  1]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.33:575][  6]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.33:680][ 11]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.33:762][ 16]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.33:845][ 21]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.33:931][ 26]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.34:014][ 31]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.34:114][ 37]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.34:197][ 42]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.34:281][ 47]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2017.12.06-16.35.36:782][179]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.35.36:782][179]LightingResults: New page: Lighting Build
+[2017.12.06-16.35.36:783][179]LoadErrors: New page: Loading map: TitleScreen.umap
+[2017.12.06-16.35.36:783][179]MapCheck: New page: Map Check
+[2017.12.06-16.35.36:783][179]LightingResults: New page: Lighting Build
+[2017.12.06-16.35.36:841][179]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.35.36:843][179]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.35.36:900][179]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.35.36:961][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.243ms to complete.
+[2017.12.06-16.35.36:963][179]LogFileHelpers: Loading map 'TitleScreen' took 0.182
+[2017.12.06-16.38.00:455][ 38]BlueprintLog: New page: Compile TitleScreen
+[2017.12.06-16.38.01:236][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.38.01:504][ 55]LogSavePackage: Save=231.93ms
+[2017.12.06-16.38.01:504][ 55]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreenFE678C96481236E1512FA393333B8523.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.06-16.38.01:506][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.06-16.38.01:551][ 55]LogFileHelpers: Saving map 'TitleScreen' took 0.368
+[2017.12.06-16.38.07:430][363]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.38.07:459][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.38.07:459][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.38.07:459][363]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:38:07)
+[2017.12.06-16.38.07:459][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.38.07:462][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002188s)
+[2017.12.06-16.38.07:462][363]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.38.07:462][363]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2017.12.06-16.38.07:462][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.002946s)
+[2017.12.06-16.38.07:485][363]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.38.07:524][363]LogInit: FAudioDevice initialized.
+[2017.12.06-16.38.07:559][363]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.38.07:559][363]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.38.07
+[2017.12.06-16.38.07:560][363]LogWorld: Bringing up level for play took: 0.000349
+[2017.12.06-16.38.07:561][363]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 0.471
+[2017.12.06-16.38.07:561][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.38.09:701][491]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.38.09:702][491]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.38.09:950][491]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.38.09:951][491]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.38.09:959][491]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.38.09
+[2017.12.06-16.38.09:960][491]LogWorld: Bringing up level for play took: 0.008672
+[2017.12.06-16.38.09:962][491]LogLoad: Took 0.260269 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.38.09:964][491]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.38.11:181][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.38.11:217][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.39.11:693][614]BlueprintLog: New page: Compile TitleScreen
+[2017.12.06-16.39.12:476][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.39.12:740][631]LogSavePackage: Save=231.64ms
+[2017.12.06-16.39.12:740][631]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreen08888EDF4C639798C66AEDB3CD575E85.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.06-16.39.12:742][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.06-16.39.12:784][631]LogFileHelpers: Saving map 'TitleScreen' took 0.362
+[2017.12.06-16.39.14:232][702]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.39.14:256][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.39.14:256][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.39.14:257][702]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:39:14)
+[2017.12.06-16.39.14:258][702]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.39.14:260][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002177s)
+[2017.12.06-16.39.14:260][702]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.39.14:260][702]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2017.12.06-16.39.14:261][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.002798s)
+[2017.12.06-16.39.14:284][702]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.39.14:319][702]LogInit: FAudioDevice initialized.
+[2017.12.06-16.39.14:350][702]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.39.14:351][702]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.39.14
+[2017.12.06-16.39.14:351][702]LogWorld: Bringing up level for play took: 0.000357
+[2017.12.06-16.39.14:352][702]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen -0.738
+[2017.12.06-16.39.14:353][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.39.23:603][252]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.39.23:607][252]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.39.23:863][252]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.39.23:864][252]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.39.23:872][252]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.39.23
+[2017.12.06-16.39.23:873][252]LogWorld: Bringing up level for play took: 0.008092
+[2017.12.06-16.39.23:875][252]LogLoad: Took 0.267716 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.39.23:877][252]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.39.24:241][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.39.24:274][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.39.27:106][427]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.39.27:106][427]LightingResults: New page: Lighting Build
+[2017.12.06-16.39.27:107][427]LoadErrors: New page: Loading map: TitleScreen.umap
+[2017.12.06-16.39.27:133][427]MapCheck: New page: Map Check
+[2017.12.06-16.39.27:133][427]LightingResults: New page: Lighting Build
+[2017.12.06-16.39.27:198][427]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.39.27:200][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.39.27:260][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.39.27:315][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.139ms to complete.
+[2017.12.06-16.39.27:316][427]LogFileHelpers: Loading map 'TitleScreen' took 0.211
+[2017.12.06-16.39.55:620][755]BlueprintLog: New page: Compile TitleScreen
+[2017.12.06-16.39.56:502][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.39.56:767][776]LogSavePackage: Save=233.38ms
+[2017.12.06-16.39.56:767][776]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreen6A759AD34988BC34E66639A1436DEB1B.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.06-16.39.56:770][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.06-16.39.56:810][776]LogFileHelpers: Saving map 'TitleScreen' took 0.361
+[2017.12.06-16.39.58:283][849]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.39.58:307][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.39.58:307][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.39.58:308][849]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:39:58)
+[2017.12.06-16.39.58:308][849]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.39.58:310][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002316s)
+[2017.12.06-16.39.58:310][849]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.39.58:311][849]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2017.12.06-16.39.58:311][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.003039s)
+[2017.12.06-16.39.58:339][849]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.39.58:378][849]LogInit: FAudioDevice initialized.
+[2017.12.06-16.39.58:409][849]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.39.58:410][849]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.39.58
+[2017.12.06-16.39.58:410][849]LogWorld: Bringing up level for play took: 0.000508
+[2017.12.06-16.39.58:412][849]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen -0.678
+[2017.12.06-16.39.58:412][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.40.00:420][968]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.40.00:421][968]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.40.00:672][968]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.40.00:672][968]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.40.00:681][968]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.40.00
+[2017.12.06-16.40.00:681][968]LogWorld: Bringing up level for play took: 0.008604
+[2017.12.06-16.40.00:684][968]LogLoad: Took 0.262991 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.40.00:686][968]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.40.01:813][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.40.01:861][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.40.03:930][148]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.40.03:930][148]LightingResults: New page: Lighting Build
+[2017.12.06-16.40.03:931][148]LoadErrors: New page: Loading map: TitleScreen.umap
+[2017.12.06-16.40.03:958][148]MapCheck: New page: Map Check
+[2017.12.06-16.40.03:958][148]LightingResults: New page: Lighting Build
+[2017.12.06-16.40.04:016][148]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.40.04:018][148]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.40.04:073][148]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.40.04:127][148]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.893ms to complete.
+[2017.12.06-16.40.04:128][148]LogFileHelpers: Loading map 'TitleScreen' took 0.198
+[2017.12.06-16.40.49:423][340]BlueprintLog: New page: Compile TitleScreen
+[2017.12.06-16.40.50:411][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.40.50:676][366]LogSavePackage: Save=234.25ms
+[2017.12.06-16.40.50:676][366]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreenC586C1D242C08D509D8025BA7E1F58CC.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.06-16.40.50:679][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.06-16.40.50:724][366]LogFileHelpers: Saving map 'TitleScreen' took 0.366
+[2017.12.06-16.40.52:234][436]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.40.52:258][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.40.52:259][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.40.52:259][436]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:40:52)
+[2017.12.06-16.40.52:259][436]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.40.52:261][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002195s)
+[2017.12.06-16.40.52:262][436]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.40.52:262][436]LogPlayLevel: PIE: World Init took: (0.000449s)
+[2017.12.06-16.40.52:262][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.002822s)
+[2017.12.06-16.40.52:285][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.40.52:319][436]LogInit: FAudioDevice initialized.
+[2017.12.06-16.40.52:354][436]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.40.52:355][436]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.40.52
+[2017.12.06-16.40.52:356][436]LogWorld: Bringing up level for play took: 0.000324
+[2017.12.06-16.40.52:357][436]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen -0.733
+[2017.12.06-16.40.52:357][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.40.56:346][673]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.40.56:363][673]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.40.56:615][673]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.40.56:615][673]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.40.56:623][673]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.40.56
+[2017.12.06-16.40.56:624][673]LogWorld: Bringing up level for play took: 0.007982
+[2017.12.06-16.40.56:626][673]LogLoad: Took 0.263402 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.40.56:629][673]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.41.00:922][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.00:960][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.01:654][955]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.41.01:680][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.01:681][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.41.01:681][955]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:41:01)
+[2017.12.06-16.41.01:681][955]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.41.01:684][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002413s)
+[2017.12.06-16.41.01:684][955]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.41.01:684][955]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2017.12.06-16.41.01:685][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.003064s)
+[2017.12.06-16.41.01:709][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.41.01:747][955]LogInit: FAudioDevice initialized.
+[2017.12.06-16.41.01:779][955]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.41.01:781][955]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.41.01
+[2017.12.06-16.41.01:781][955]LogWorld: Bringing up level for play took: 0.000316
+[2017.12.06-16.41.01:782][955]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 0.692
+[2017.12.06-16.41.01:782][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.03:974][ 86]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.41.03:974][ 86]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.41.04:217][ 86]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.41.04:217][ 86]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.41.04:225][ 86]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.41.04
+[2017.12.06-16.41.04:226][ 86]LogWorld: Bringing up level for play took: 0.007809
+[2017.12.06-16.41.04:228][ 86]LogLoad: Took 0.254052 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.41.04:230][ 86]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.41.07:349][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.07:384][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.10:055][419]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.41.10:082][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.10:082][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.41.10:082][419]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:41:10)
+[2017.12.06-16.41.10:083][419]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.41.10:086][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2017.12.06-16.41.10:086][419]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.41.10:086][419]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2017.12.06-16.41.10:086][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.003018s)
+[2017.12.06-16.41.10:108][419]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.41.10:144][419]LogInit: FAudioDevice initialized.
+[2017.12.06-16.41.10:175][419]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.41.10:176][419]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.41.10
+[2017.12.06-16.41.10:176][419]LogWorld: Bringing up level for play took: 0.000375
+[2017.12.06-16.41.10:177][419]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 1.087
+[2017.12.06-16.41.10:177][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.17:574][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.17:604][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.41.23:655][150]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.06-16.41.23:719][152]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2017.12.06-16.41.23:719][152]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.06-16.41.23:719][152]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.06-16.41.23:719][152]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.06-16.41.23:719][152]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.06-16.41.23:723][152]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Cormac\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.06-16.42.02:008][956]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-16.42.02:032][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.42.02:032][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-16.42.02:033][956]PIE: New page: PIE session: TitleScreen (6 Dec 2017 16:42:02)
+[2017.12.06-16.42.02:033][956]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TitleScreen
+[2017.12.06-16.42.02:036][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002654s)
+[2017.12.06-16.42.02:036][956]LogAIModule: Creating AISystem for world TitleScreen
+[2017.12.06-16.42.02:036][956]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2017.12.06-16.42.02:036][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TitleScreen.TitleScreen to /Game/UEDPIE_0_TitleScreen.TitleScreen (0.003319s)
+[2017.12.06-16.42.02:059][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-16.42.02:094][956]LogInit: FAudioDevice initialized.
+[2017.12.06-16.42.02:125][956]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.42.02:126][956]LogWorld: Bringing World /Game/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2017.12.06-16.42.02
+[2017.12.06-16.42.02:126][956]LogWorld: Bringing up level for play took: 0.000347
+[2017.12.06-16.42.02:128][956]PIE: Play in editor start time for /Game/UEDPIE_0_TitleScreen 1.038
+[2017.12.06-16.42.02:128][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.42.06:381][209]LogNet: Browse: /Game/Kitchen
+[2017.12.06-16.42.06:385][209]LogLoad: LoadMap: /Game/Kitchen
+[2017.12.06-16.42.06:634][209]LogAIModule: Creating AISystem for world Kitchen
+[2017.12.06-16.42.06:634][209]LogLoad: Game class is 'MyGame_C'
+[2017.12.06-16.42.06:642][209]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2017.12.06-16.42.06
+[2017.12.06-16.42.06:643][209]LogWorld: Bringing up level for play took: 0.007501
+[2017.12.06-16.42.06:645][209]LogLoad: Took 0.259147 seconds to LoadMap(/Game/Kitchen)
+[2017.12.06-16.42.06:647][209]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2017.12.06-16.42.15:309][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.42.15:347][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TitleScreen.TitleScreen:PersistentLevel' has LevelScriptBlueprint '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen' with GeneratedClass '/Game/TitleScreen.TitleScreen_C' with ClassGeneratedBy '/Game/TitleScreen.TitleScreen:PersistentLevel.TitleScreen'
+[2017.12.06-16.42.18:328][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitleScreen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.06-16.42.18:601][886]LogSavePackage: Save=244.79ms
+[2017.12.06-16.42.18:601][886]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/TitleScreenC7B6ADE446283701C382AA8674E8840D.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap'
+[2017.12.06-16.42.18:603][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap
+[2017.12.06-16.42.23:674][110]LogEditorViewport: Clicking Background
