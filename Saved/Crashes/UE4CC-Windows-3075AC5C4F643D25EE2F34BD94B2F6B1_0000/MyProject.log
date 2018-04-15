@@ -1,0 +1,721 @@
+﻿Log file open, 04/15/18 22:47:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-926805598) SRandInit(-926805598).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.463958
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GFur/Binaries/Win64/UE4Editor-GFur.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GFur/Binaries/Win64/UE4Editor-GFurEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin GFur
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Marketplace/GFur/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Marketplace/GFur/Shaders to virtual directory /Plugin/GFur
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.15-21.47.32:810][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.15-21.47.32:810][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.15-21.47.32:835][  0]LogInit: Computer: MSI
+[2018.04.15-21.47.32:835][  0]LogInit: User: Cormac
+[2018.04.15-21.47.32:835][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.15-21.47.32:835][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.04.15-21.47.32:835][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.15-21.47.32:835][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.15-21.47.32:835][  0]LogMemory: Process Physical Memory: 274.79 MB used, 274.79 MB peak
+[2018.04.15-21.47.32:835][  0]LogMemory: Process Virtual Memory: 265.90 MB used, 265.90 MB peak
+[2018.04.15-21.47.32:835][  0]LogMemory: Physical Memory: 20055.80 MB used,  12669.53 MB free, 32725.33 MB total
+[2018.04.15-21.47.32:835][  0]LogMemory: Virtual Memory: 674.00 MB used,  12669.53 MB free, 134217728.00 MB total
+[2018.04.15-21.47.33:175][  0]LogInit: Using OS detected language (en-US).
+[2018.04.15-21.47.33:175][  0]LogInit: Using OS detected locale (en-GB).
+[2018.04.15-21.47.33:228][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.15-21.47.33:735][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.15-21.47.36:243][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.15-21.47.36:301][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.15-21.47.36:301][  0]LogD3D11RHI:       8079/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.15-21.47.36:303][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.15-21.47.36:303][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.15-21.47.36:303][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.15-21.47.36:312][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.15-21.47.36:314][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.15-21.47.36:314][  0]LogWindows: EnumDisplayDevices:
+[2018.04.15-21.47.36:314][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.15-21.47.36:314][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.15-21.47.36:314][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.15-21.47.36:314][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.15-21.47.36:314][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.15-21.47.36:314][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.15-21.47.36:314][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.15-21.47.36:315][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.15-21.47.36:315][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.04.15-21.47.36:353][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.15-21.47.36:379][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.15-21.47.36:429][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Cormac/Desktop/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/14964/).
+[2018.04.15-21.47.36:429][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cormac/AppData/Local/Temp/UnrealShaderWorkingDir/F65740A541AA214551F33BA337F64061/'.
+[2018.04.15-21.47.36:430][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.15-21.47.38:581][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.15-21.47.38:637][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.15-21.47.38:693][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.15-21.47.38:751][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.15-21.47.38:814][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.15-21.47.38:871][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.15-21.47.38:932][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.15-21.47.38:993][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.15-21.47.39:045][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.15-21.47.39:103][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.15-21.47.39:159][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.15-21.47.39:215][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.15-21.47.39:273][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.15-21.47.39:331][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.15-21.47.39:447][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.15-21.47.39:447][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.15-21.47.39:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.15-21.47.39:556][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.15-21.47.39:661][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.15-21.47.39:691][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.15-21.47.39:748][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.15-21.47.39:806][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.15-21.47.39:863][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.15-21.47.39:929][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.15-21.47.39:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.15-21.47.40:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.15-21.47.40:690][  0]LogDerivedDataCache: Loaded boot cache 0.17s 79MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.15-21.47.40:690][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.15-21.47.40:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.15-21.47.40:690][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.15-21.47.40:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.15-21.47.40:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.15-21.47.40:719][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.15-21.47.40:731][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cormac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.15-21.47.40:744][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.15-21.47.40:749][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.15-21.47.40:757][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.15-21.47.40:757][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.15-21.47.41:496][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.15-21.47.42:070][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.15-21.47.42:117][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.15-21.47.42:117][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.15-21.47.42:117][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.15-21.47.42:117][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.15-21.47.42:117][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.15-21.47.42:187][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.04.15-21.47.42:655][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.04.15-21.47.43:927][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.099576 seconds
+[2018.04.15-21.47.43:937][  0]LogUObjectArray: 35937 objects as part of root set at end of initial load.
+[2018.04.15-21.47.43:937][  0]LogUObjectAllocator: 7380488 out of 0 bytes used by permanent object pool.
+[2018.04.15-21.47.43:937][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.15-21.47.44:000][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.15-21.47.50:016][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `05C33B1047E57E54E94AD1990728B065` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.04.15-21.47.50:017][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.04.15-21.47.50:149][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.04.15-21.47.50:188][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.15-21.47.50:233][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.15-21.47.51:122][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.15-21.47.51:727][  0]SourceControl: Source control is disabled
+[2018.04.15-21.47.51:727][  0]SourceControl: Source control is disabled
+[2018.04.15-21.47.51:791][  0]SourceControl: Source control is disabled
+[2018.04.15-21.47.51:852][  0]SourceControl: Source control is disabled
+[2018.04.15-21.47.52:821][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.15-21.47.53:113][  0]LogOcInput: OculusInput pre-init called
+[2018.04.15-21.47.53:358][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.04.15-21.47.53:501][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.04.15-21.47.53:501][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `A028810D44057C9E137A4ABAE6397831` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.04.15-21.47.53:503][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/NewDlgDialogue.NewDlgDialogue`
+[2018.04.15-21.47.53:503][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `B6AE5CFF458D425859A62FBE97F211A6` for Dialogue = `/Game/NewDlgDialogue.NewDlgDialogue` because of new created Dialogue.
+[2018.04.15-21.47.53:504][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.04.15-21.47.54:045][  0]LogEngine: Initializing Engine...
+[2018.04.15-21.47.54:050][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.15-21.47.54:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.15-21.47.54:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.15-21.47.54:592][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.15-21.47.54:602][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-21.47.54:638][  0]LogInit: FAudioDevice initialized.
+[2018.04.15-21.47.54:691][  0]LogDerivedDataCache: Saved boot cache 0.05s 79MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.15-21.47.54:705][  0]LogInit: Texture streaming: Enabled
+[2018.04.15-21.47.54:817][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.15-21.47.54:968][  0]LogInit: Transaction tracking system initialized
+[2018.04.15-21.47.55:339][  0]BlueprintLog: New page: Editor Load
+[2018.04.15-21.47.56:454][  0]LocalizationService: Localization service is disabled
+[2018.04.15-21.47.57:432][  0]LogConsoleResponse: Display: 
+[2018.04.15-21.47.58:065][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.15-21.47.58:065][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.15-21.47.58:065][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.15-21.47.58:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' took 0.04s
+[2018.04.15-21.47.59:620][  0]SourceControl: Source control is disabled
+[2018.04.15-21.47.59:622][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.15-21.47.59:628][  0]LightingResults: New page: Lighting Build
+[2018.04.15-21.47.59:682][  0]MapCheck: New page: Map Check
+[2018.04.15-21.47.59:682][  0]LightingResults: New page: Lighting Build
+[2018.04.15-21.47.59:867][  0]LogAIModule: Creating AISystem for world TitleScreen
+[2018.04.15-21.47.59:871][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.15-21.47.59:884][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.15-21.47.59:935][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.938ms to complete.
+[2018.04.15-21.47.59:935][  0]LogFileHelpers: Loading map 'TitleScreen' took 0.314
+[2018.04.15-21.48.00:165][  0]LogCollectionManager: Loaded 0 collections in 0.001723 seconds
+[2018.04.15-21.48.00:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Saved/Collections/' took 0.01s
+[2018.04.15-21.48.00:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Developers/Cormac/Collections/' took 0.01s
+[2018.04.15-21.48.00:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Collections/' took 0.01s
+[2018.04.15-21.48.00:268][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.15-21.48.00:280][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2419 classes and 544 folders.
+[2018.04.15-21.48.00:363][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.15-21.48.00:756][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.15-21.48.00:814][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.15-21.48.00:963][  0]LogSlate: Took 0.008511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.15-21.48.00:971][  0]LogSlate: Took 0.005553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.15-21.48.00:984][  0]LogSlate: Took 0.005017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.15-21.48.01:172][  0]LogRenderer: Reallocating scene render targets to support 1056x552 Format 10 NumSamples 1 (Frame:1).
+[2018.04.15-21.48.01:251][  0]LogSlate: Took 0.004804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-21.48.01:479][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.15-21.48.01:479][  0]LogLoad: (Engine Initialization) Total time: 33.22 seconds
+[2018.04.15-21.48.01:479][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.15-21.48.01:479][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.15-21.48.01:479][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.15-21.48.01:558][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.15-21.48.01:667][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.04.15-21.48.01:675][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' took 0.16s
+[2018.04.15-21.48.01:704][  1]LogAssetRegistry: Asset discovery search completed in 19.0712 seconds
+[2018.04.15-21.48.01:710][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.15-21.48.01:710][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.04.15-21.48.21:868][175]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-21.48.22:738][175]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.15-21.48.24:191][175]LogMaterial: Missing cached shader map for material Material__39, compiling. 
+[2018.04.15-21.48.24:192][175]LogMaterial: Warning: C:\Users\Cormac\Desktop\StitchesAndBones\Content\Level_Assets\Environments\Kitchen\Materials\Material__39.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.15-21.48.24:192][175]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Level_Assets/Environments/Kitchen/CerealBoxMap.CerealBoxMap
+[2018.04.15-21.48.25:567][175]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-21.48.25:648][175]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.15-21.48.25:648][175]LightingResults: New page: Lighting Build
+[2018.04.15-21.48.25:648][175]LoadErrors: New page: Loading map: Kitchen.umap
+[2018.04.15-21.48.25:649][175]MapCheck: New page: Map Check
+[2018.04.15-21.48.25:649][175]LightingResults: New page: Lighting Build
+[2018.04.15-21.48.25:780][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.15-21.48.25:854][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.15-21.48.25:941][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.13ms to complete.
+[2018.04.15-21.48.25:941][175]LogFileHelpers: Loading map 'Kitchen' took 0.295
+[2018.04.15-21.49.55:988][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-21.49.55:988][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-21.49.55:989][551]PIE: New page: PIE session: Kitchen (15 Apr 2018 23:49:55)
+[2018.04.15-21.49.55:990][551]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-21.49.56:012][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022168s)
+[2018.04.15-21.49.56:013][551]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-21.49.56:013][551]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.04.15-21.49.56:013][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023480s)
+[2018.04.15-21.49.56:026][551]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-21.49.56:056][551]LogInit: FAudioDevice initialized.
+[2018.04.15-21.49.56:099][551]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-21.49.56:109][551]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-22.49.56
+[2018.04.15-21.49.56:114][551]LogWorld: Bringing up level for play took: 0.012773
+[2018.04.15-21.49.56:162][551]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.15-21.49.56:168][551]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.572
+[2018.04.15-21.49.56:168][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-21.49.56:212][551]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-21.50.03:599][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-21.50.03:640][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-21.50.04:544][ 46]Cmd: SELECT NONE
+[2018.04.15-21.55.50:745][705]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.05.46:341][274]LogSlate: Took 0.004021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-22.05.47:421][308]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.04.15-22.05.48:137][308]LogSlate: Took 0.004435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.15-22.05.48:402][309]LogSlate: Took 0.004747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.15-22.07.11:475][224]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.07.14:874][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.07.15:522][273]LogSavePackage: Save=610.29ms
+[2018.04.15-22.07.15:522][273]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenC2487E7747A0DAE6CA969BBACF87B358.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.07.15:528][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.07.15:589][273]LogFileHelpers: Saving map 'Kitchen' took 3.088
+[2018.04.15-22.07.18:096][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenChair4)
+[2018.04.15-22.07.19:308][484]LogEditorViewport: Clicking on Actor (LMB): QBP2_C (QBP2)
+[2018.04.15-22.07.21:813][632]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.04.15-22.07.23:433][725]LogEditorViewport: Clicking on Actor (LMB): QBP2_C (QBP2)
+[2018.04.15-22.09.12:418][560]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.09.12:469][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.09.12:469][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.09.12:469][560]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:09:12)
+[2018.04.15-22.09.12:470][560]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.09.12:505][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035209s)
+[2018.04.15-22.09.12:505][560]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.09.12:506][560]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.04.15-22.09.12:506][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.036409s)
+[2018.04.15-22.09.12:530][560]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.09.12:587][560]LogInit: FAudioDevice initialized.
+[2018.04.15-22.09.12:622][560]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.09.12:630][560]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.09.12
+[2018.04.15-22.09.12:631][560]LogWorld: Bringing up level for play took: 0.008079
+[2018.04.15-22.09.12:634][560]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 1.038
+[2018.04.15-22.09.12:634][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.09.12:660][560]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.09.36:148][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.09.36:185][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.10.57:518][811]LogEditorViewport: Clicking on Actor (LMB): Actor (ExtraInput)
+[2018.04.15-22.11.16:889][941]LogRenderer: Reallocating scene render targets to support 1136x712 Format 10 NumSamples 1 (Frame:1).
+[2018.04.15-22.11.51:217][923]BlueprintLog: New page: Compile ExtraInput_Blueprint
+[2018.04.15-22.11.52:384][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraInput_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset" SILENT=true
+[2018.04.15-22.11.52:403][970]LogSavePackage: Save=15.70ms
+[2018.04.15-22.11.52:403][970]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/ExtraInput_Blueprint1947FF204374C0B90CD246A19BDB2D32.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset'
+[2018.04.15-22.11.52:409][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset
+[2018.04.15-22.12.04:258][658]BlueprintLog: New page: Compile ExtraInput_Blueprint
+[2018.04.15-22.12.05:043][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraInput_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset" SILENT=true
+[2018.04.15-22.12.05:081][681]LogSavePackage: Save=16.71ms
+[2018.04.15-22.12.05:081][681]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/ExtraInput_BlueprintABD67E59412D54D8D7CEF798BEE80B30.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset'
+[2018.04.15-22.12.05:085][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset
+[2018.04.15-22.12.25:758][867]BlueprintLog: New page: Compile ExtraInput_Blueprint
+[2018.04.15-22.12.26:479][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraInput_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset" SILENT=true
+[2018.04.15-22.12.26:508][887]LogSavePackage: Save=18.08ms
+[2018.04.15-22.12.26:508][887]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/ExtraInput_BlueprintA929E0064C0C3BABCF303F825708B370.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset'
+[2018.04.15-22.12.26:512][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset
+[2018.04.15-22.12.31:317][163]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.15-22.12.47:567][109]BlueprintLog: New page: Compile MyGame
+[2018.04.15-22.12.48:244][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2018.04.15-22.12.48:275][132]LogSavePackage: Save=13.22ms
+[2018.04.15-22.12.48:275][132]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/MyGame07B7BDF84C180906EB53F09F48F77595.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2018.04.15-22.12.48:279][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2018.04.15-22.15.25:880][367]BlueprintLog: New page: Compile ExtraInput_Blueprint
+[2018.04.15-22.15.26:772][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraInput_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset" SILENT=true
+[2018.04.15-22.15.26:811][396]LogSavePackage: Save=22.12ms
+[2018.04.15-22.15.26:811][396]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/ExtraInput_Blueprint21DF8B8041B9709C6BEA999980FC9A6B.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset'
+[2018.04.15-22.15.26:815][396]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset
+[2018.04.15-22.16.02:500][412]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.16.03:240][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.16.03:887][439]LogSavePackage: Save=611.63ms
+[2018.04.15-22.16.03:887][439]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen7CB568B54F60820B7272C685B25D35BF.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.16.03:892][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.16.03:958][439]LogFileHelpers: Saving map 'Kitchen' took 0.798
+[2018.04.15-22.17.26:118][225]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.17.27:284][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.17.27:940][278]LogSavePackage: Save=622.08ms
+[2018.04.15-22.17.27:940][278]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen0D46F4D344BC5B908471689D69501A9B.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.17.27:945][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.17.28:012][278]LogFileHelpers: Saving map 'Kitchen' took 0.804
+[2018.04.15-22.17.46:581][368]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.46:603][369]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.46:749][377]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.46:835][382]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.46:917][387]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:001][392]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:083][397]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:166][402]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:250][407]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:333][412]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:417][417]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:500][422]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:583][427]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:666][432]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.47:750][437]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.48:100][442]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:319][808]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:408][813]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:496][818]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:578][823]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:661][828]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:744][833]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:827][838]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:910][843]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.17.54:994][848]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.15-22.19.39:151][968]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.19.51:340][683]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.20.01:157][247]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.20.07:222][597]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.20.07:873][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.20.08:538][619]LogSavePackage: Save=627.86ms
+[2018.04.15-22.20.08:538][619]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenB42B9E794A43BCB49F0BB58ACD665DA4.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.20.08:549][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.20.08:612][619]LogFileHelpers: Saving map 'Kitchen' took 0.818
+[2018.04.15-22.20.09:835][687]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.20.09:879][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.20.09:880][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.20.09:880][687]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:20:09)
+[2018.04.15-22.20.09:880][687]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.20.09:904][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023890s)
+[2018.04.15-22.20.09:905][687]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.20.09:905][687]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.04.15-22.20.09:906][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.025546s)
+[2018.04.15-22.20.09:930][687]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.20.09:986][687]LogInit: FAudioDevice initialized.
+[2018.04.15-22.20.10:030][687]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.20.10:039][687]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.20.10
+[2018.04.15-22.20.10:040][687]LogWorld: Bringing up level for play took: 0.009475
+[2018.04.15-22.20.10:045][687]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.449
+[2018.04.15-22.20.10:045][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.20.10:051][687]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.20.10:082][687]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.15-22.20.16:708][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.20.16:778][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.20.33:516][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.20.33:561][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.20.33:561][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.20.33:561][ 44]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:20:33)
+[2018.04.15-22.20.33:561][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.20.33:581][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019181s)
+[2018.04.15-22.20.33:581][ 44]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.20.33:582][ 44]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.04.15-22.20.33:582][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.020411s)
+[2018.04.15-22.20.33:605][ 44]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.20.33:661][ 44]LogInit: FAudioDevice initialized.
+[2018.04.15-22.20.33:702][ 44]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.20.33:710][ 44]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.20.33
+[2018.04.15-22.20.33:711][ 44]LogWorld: Bringing up level for play took: 0.008979
+[2018.04.15-22.20.33:714][ 44]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.118
+[2018.04.15-22.20.33:714][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.20.33:744][ 44]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.21.42:249][956]LogBlueprintDebug: Warning: Unknown breakpoint hit at node K2Node_ExecutionSequence in object Function /Game/Kitchen.Kitchen_C:ExecuteUbergraph_Kitchen:0E80
+[2018.04.15-22.21.42:503][956]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:StateCheck_C_3.HUD_C_7.WidgetTree_273.ProgressBar_100.FloatBinding_15 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.04.15-22.21.42:503][956]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:StateCheck_C_3.HUD_C_7.WidgetTree_273.ProgressBar_59.FloatBinding_14 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.04.15-22.21.54:599][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.21.54:661][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.21.54:881][966]Cmd: SELECT NONE
+[2018.04.15-22.21.56:871][ 85]Cmd: SELECT NONE
+[2018.04.15-22.22.29:806][ 21]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.22.30:524][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.22.31:187][ 47]LogSavePackage: Save=624.13ms
+[2018.04.15-22.22.31:187][ 47]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenD30C6A6F47C375746B3A0C887240E686.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.22.31:192][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.22.31:256][ 47]LogFileHelpers: Saving map 'Kitchen' took 0.810
+[2018.04.15-22.22.43:140][723]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.22.43:181][723]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.22.43:182][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.22.43:182][723]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:22:43)
+[2018.04.15-22.22.43:182][723]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.22.43:201][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018456s)
+[2018.04.15-22.22.43:201][723]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.22.43:201][723]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.04.15-22.22.43:202][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.019705s)
+[2018.04.15-22.22.43:222][723]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.22.43:280][723]LogInit: FAudioDevice initialized.
+[2018.04.15-22.22.43:316][723]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.22.43:324][723]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.22.43
+[2018.04.15-22.22.43:326][723]LogWorld: Bringing up level for play took: 0.008740
+[2018.04.15-22.22.43:329][723]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.267
+[2018.04.15-22.22.43:329][723]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.22.43:362][723]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.22.47:452][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.22.47:493][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.22.56:043][448]LogEditorTransaction: Undo Move Node
+[2018.04.15-22.23.22:707][994]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.23.23:766][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.23.24:419][ 41]LogSavePackage: Save=619.45ms
+[2018.04.15-22.23.24:419][ 41]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen13A4126543356098541A79B3B7314116.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.23.24:425][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.23.24:488][ 41]LogFileHelpers: Saving map 'Kitchen' took 0.799
+[2018.04.15-22.23.51:730][670]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.23.53:970][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.23.54:626][786]LogSavePackage: Save=627.70ms
+[2018.04.15-22.23.54:626][786]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen7A5B3A584ED2E6112C6848B22F9C6F22.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.23.54:630][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.23.54:695][786]LogFileHelpers: Saving map 'Kitchen' took 0.801
+[2018.04.15-22.23.55:645][837]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.23.55:687][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.23.55:687][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.23.55:688][837]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:23:55)
+[2018.04.15-22.23.55:688][837]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.23.55:706][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018563s)
+[2018.04.15-22.23.55:707][837]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.23.55:707][837]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.04.15-22.23.55:708][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.019757s)
+[2018.04.15-22.23.55:729][837]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.23.55:789][837]LogInit: FAudioDevice initialized.
+[2018.04.15-22.23.55:821][837]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.23.55:829][837]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.23.55
+[2018.04.15-22.23.55:830][837]LogWorld: Bringing up level for play took: 0.008726
+[2018.04.15-22.23.55:833][837]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.238
+[2018.04.15-22.23.55:833][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.23.55:866][837]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.23.59:069][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.23.59:104][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.24.44:119][668]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.24.45:625][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.24.46:282][742]LogSavePackage: Save=627.00ms
+[2018.04.15-22.24.46:282][742]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen509FDF1847F16884B5DFDC8D0B9E2511.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.24.46:287][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.24.46:352][742]LogFileHelpers: Saving map 'Kitchen' took 0.802
+[2018.04.15-22.26.29:852][755]LogEditorTransaction: Undo Create Pin Link
+[2018.04.15-22.26.30:658][796]LogEditorTransaction: Undo Break Pin Link
+[2018.04.15-22.27.14:127][385]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.27.14:168][385]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2018.04.15-22.27.14:313][385]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [2386.05] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 0 Warning(s) [in 185 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2018.04.15-22.27.30:381][346]BlueprintLog: New page: Compile Kitchen
+[2018.04.15-22.27.31:008][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-22.27.31:682][367]LogSavePackage: Save=632.25ms
+[2018.04.15-22.27.31:682][367]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen5DA0DD7144CFED77449998A906BD4926.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.15-22.27.31:686][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.15-22.27.31:750][367]LogFileHelpers: Saving map 'Kitchen' took 0.819
+[2018.04.15-22.27.33:543][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.27.33:586][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.27.33:586][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.27.33:586][469]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:27:33)
+[2018.04.15-22.27.33:586][469]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.27.33:606][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019444s)
+[2018.04.15-22.27.33:606][469]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.27.33:607][469]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.04.15-22.27.33:607][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.020413s)
+[2018.04.15-22.27.33:629][469]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.27.33:684][469]LogInit: FAudioDevice initialized.
+[2018.04.15-22.27.33:716][469]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.27.33:726][469]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.27.33
+[2018.04.15-22.27.33:727][469]LogWorld: Bringing up level for play took: 0.009457
+[2018.04.15-22.27.33:729][469]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.134
+[2018.04.15-22.27.33:730][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.27.33:762][469]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.27.43:848][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.27.43:888][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.28.57:809][444]LogEditorViewport: Clicking on Actor (LMB): ExtraInput_Blueprint_C (ExtraInput_Blueprint)
+[2018.04.15-22.29.22:064][855]BlueprintLog: New page: Compile ExtraInput_Blueprint
+[2018.04.15-22.29.23:695][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraInput_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset" SILENT=true
+[2018.04.15-22.29.23:737][928]LogSavePackage: Save=23.53ms
+[2018.04.15-22.29.23:737][928]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/ExtraInput_Blueprint748C06F54B1179C5167756814D8A9F9D.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset'
+[2018.04.15-22.29.23:742][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/ExtraInput_Blueprint.uasset
+[2018.04.15-22.29.35:559][595]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-22.29.35:602][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.29.35:602][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-22.29.35:602][595]PIE: New page: PIE session: Kitchen (16 Apr 2018 00:29:35)
+[2018.04.15-22.29.35:603][595]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.15-22.29.35:622][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019481s)
+[2018.04.15-22.29.35:622][595]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.15-22.29.35:623][595]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.04.15-22.29.35:623][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.020433s)
+[2018.04.15-22.29.35:647][595]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.15-22.29.35:704][595]LogInit: FAudioDevice initialized.
+[2018.04.15-22.29.35:735][595]LogLoad: Game class is 'MyGame_C'
+[2018.04.15-22.29.35:743][595]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.15-23.29.35
+[2018.04.15-22.29.35:745][595]LogWorld: Bringing up level for play took: 0.008646
+[2018.04.15-22.29.35:747][595]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.152
+[2018.04.15-22.29.35:748][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.29.35:778][595]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.15-22.29.39:768][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.29.39:804][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.15-22.29.47:156][268]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.15-22.29.55:529][748]BlueprintLog: New page: Compile MyGame
+[2018.04.15-22.29.56:182][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CaveAssets/Characters/MyGame" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset" SILENT=true
+[2018.04.15-22.29.56:216][770]LogSavePackage: Save=13.43ms
+[2018.04.15-22.29.56:216][770]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/MyGameF14D0C77401B4725C6E432970FC75A32.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset'
+[2018.04.15-22.29.56:219][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/CaveAssets/Characters/MyGame.uasset
+[2018.04.15-22.29.59:080][936]LogEditorViewport: Clicking on Actor (LMB): ExtraInput_Blueprint_C (ExtraInput_Blueprint)
+[2018.04.15-22.30.02:180][ 99]LogUObjectArray: Warning: Invalid object index 7077985
+[2018.04.15-22.30.02:757][ 99]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.577 s
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: 
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: Stack: 
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F81F2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F7F9123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F7FAB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F5EA32B6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000E05C03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000DF6A3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000DF5374AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000DF53ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000DF668225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F6DA7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F6DACE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F6FE9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.15-22.30.02:757][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F6E03484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F6DDB68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000F6DCD6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000FFA3E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000FFA31A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000FFA403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000FFA2D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x000000004B0FB85D USER32.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x000000004B0FB1EF USER32.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x00000000FFA41516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x0000000024D350C8 UE4Editor.exe!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x0000000024D45430 UE4Editor.exe!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x0000000024D454AA UE4Editor.exe!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x0000000024D52379 UE4Editor.exe!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x0000000024D53D57 UE4Editor.exe!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x000000004B331FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: [Callstack] 0x000000004C62F061 ntdll.dll!UnknownFunction []
+[2018.04.15-22.30.02:758][ 99]LogOutputDevice: Error: 
+[2018.04.15-22.30.02:764][ 99]LogStats:                SubmitErrorReport -  0.000 s
