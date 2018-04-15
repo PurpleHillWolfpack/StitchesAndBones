@@ -1,0 +1,24 @@
+DlgVersion 5
+DlgName "NewDlgDialogue"
+DlgGuid {  A -1444383736 B 1175179131 C 1078633142 D 955544147 }
+Node_Speech StartNode
+{
+	Text ""
+	SpeakerState "None"
+	bIsVirtualParent False
+	OwnerName "None"
+	bCheckChildrenOnEvaluation False
+	Children { {  TargetIndex 0 Text "Next" SpeakerState "None" } }
+}
+Node Nodes
+{
+	// 0
+	Node_Speech 
+	{
+		Text "Hello Hugo!"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "None"
+		bCheckChildrenOnEvaluation False
+	}
+}
