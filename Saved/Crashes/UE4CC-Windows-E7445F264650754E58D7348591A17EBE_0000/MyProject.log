@@ -1,0 +1,1512 @@
+﻿Log file open, 04/17/18 15:10:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1778280437) SRandInit(1778280437).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200213
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GFur/Binaries/Win64/UE4Editor-GFur.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GFur/Binaries/Win64/UE4Editor-GFurEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin GFur
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Marketplace/GFur/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Marketplace/GFur/Shaders to virtual directory /Plugin/GFur
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.17-14.10.04:372][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-14.10.04:372][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.17-14.10.04:394][  0]LogInit: Computer: MSI
+[2018.04.17-14.10.04:394][  0]LogInit: User: Cormac
+[2018.04.17-14.10.04:394][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.17-14.10.04:394][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.04.17-14.10.04:395][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.17-14.10.04:395][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.17-14.10.04:395][  0]LogMemory: Process Physical Memory: 276.70 MB used, 276.70 MB peak
+[2018.04.17-14.10.04:395][  0]LogMemory: Process Virtual Memory: 266.00 MB used, 266.00 MB peak
+[2018.04.17-14.10.04:395][  0]LogMemory: Physical Memory: 29519.55 MB used,  3205.79 MB free, 32725.33 MB total
+[2018.04.17-14.10.04:395][  0]LogMemory: Virtual Memory: 674.53 MB used,  3205.79 MB free, 134217728.00 MB total
+[2018.04.17-14.10.04:546][  0]LogInit: Using OS detected language (en-US).
+[2018.04.17-14.10.04:546][  0]LogInit: Using OS detected locale (en-GB).
+[2018.04.17-14.10.04:548][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.17-14.10.04:945][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.17-14.10.07:223][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.17-14.10.07:269][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.17-14.10.07:269][  0]LogD3D11RHI:       8079/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.17-14.10.07:271][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.17-14.10.07:271][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.17-14.10.07:271][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.17-14.10.07:279][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.17-14.10.07:279][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.17-14.10.07:279][  0]LogWindows: EnumDisplayDevices:
+[2018.04.17-14.10.07:279][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.17-14.10.07:279][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-14.10.07:279][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-14.10.07:279][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-14.10.07:279][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.17-14.10.07:279][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.17-14.10.07:279][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.17-14.10.07:279][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.17-14.10.07:279][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.04.17-14.10.07:310][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.17-14.10.07:327][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.17-14.10.07:375][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/Cormac/Desktop/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/3904/).
+[2018.04.17-14.10.07:375][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cormac/AppData/Local/Temp/UnrealShaderWorkingDir/5A63E8C149D13FFAF7A5C385997D800D/'.
+[2018.04.17-14.10.07:375][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.17-14.10.08:264][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.17-14.10.08:318][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.17-14.10.08:371][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.17-14.10.08:421][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.17-14.10.08:474][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.17-14.10.08:524][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.17-14.10.08:571][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.17-14.10.08:618][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.17-14.10.08:658][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.17-14.10.08:707][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.17-14.10.08:760][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.17-14.10.08:807][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.17-14.10.08:855][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.17-14.10.08:902][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.17-14.10.08:998][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.17-14.10.08:998][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.17-14.10.09:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.17-14.10.09:088][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.17-14.10.09:175][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.17-14.10.09:201][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.17-14.10.09:245][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.17-14.10.09:290][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.17-14.10.09:337][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.17-14.10.09:390][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.17-14.10.09:390][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.17-14.10.09:822][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.17-14.10.09:977][  0]LogDerivedDataCache: Loaded boot cache 0.16s 79MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.17-14.10.09:977][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.17-14.10.09:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.17-14.10.09:977][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.17-14.10.09:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.17-14.10.09:977][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.17-14.10.09:996][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.17-14.10.10:008][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cormac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.17-14.10.10:016][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.17-14.10.10:016][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.17-14.10.10:030][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-14.10.10:030][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-14.10.10:634][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-14.10.10:946][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.17-14.10.10:985][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.17-14.10.10:985][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.17-14.10.10:985][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.17-14.10.10:985][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.17-14.10.10:985][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.17-14.10.11:010][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.04.17-14.10.11:162][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.04.17-14.10.11:738][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.103569 seconds
+[2018.04.17-14.10.11:742][  0]LogUObjectArray: 35937 objects as part of root set at end of initial load.
+[2018.04.17-14.10.11:742][  0]LogUObjectAllocator: 7380480 out of 0 bytes used by permanent object pool.
+[2018.04.17-14.10.11:742][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.17-14.10.11:790][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.17-14.10.16:552][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `EEA4F16746E50D7A8D894AA78668A435` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.04.17-14.10.16:553][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.04.17-14.10.16:646][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.04.17-14.10.16:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.17-14.10.16:715][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.17-14.10.17:381][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.17-14.10.17:782][  0]SourceControl: Source control is disabled
+[2018.04.17-14.10.17:782][  0]SourceControl: Source control is disabled
+[2018.04.17-14.10.17:845][  0]SourceControl: Source control is disabled
+[2018.04.17-14.10.17:900][  0]SourceControl: Source control is disabled
+[2018.04.17-14.10.18:732][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.17-14.10.18:999][  0]LogOcInput: OculusInput pre-init called
+[2018.04.17-14.10.19:232][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.04.17-14.10.19:384][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.04.17-14.10.19:384][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `22F30AA54ACCC0635DCE1F8D6B0D0E13` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.04.17-14.10.19:385][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/NewDlgDialogue.NewDlgDialogue`
+[2018.04.17-14.10.19:386][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `B33D65C44EF7C4F075633391DD99B3C9` for Dialogue = `/Game/NewDlgDialogue.NewDlgDialogue` because of new created Dialogue.
+[2018.04.17-14.10.19:386][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.04.17-14.10.19:784][  0]LogEngine: Initializing Engine...
+[2018.04.17-14.10.19:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.17-14.10.19:998][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.17-14.10.19:998][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.17-14.10.20:100][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.17-14.10.20:106][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.10.20:137][  0]LogInit: FAudioDevice initialized.
+[2018.04.17-14.10.20:185][  0]LogDerivedDataCache: Saved boot cache 0.05s 79MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.17-14.10.20:202][  0]LogInit: Texture streaming: Enabled
+[2018.04.17-14.10.20:305][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.17-14.10.20:464][  0]LogInit: Transaction tracking system initialized
+[2018.04.17-14.10.20:779][  0]BlueprintLog: New page: Editor Load
+[2018.04.17-14.10.21:632][  0]LocalizationService: Localization service is disabled
+[2018.04.17-14.10.22:323][  0]LogConsoleResponse: Display: 
+[2018.04.17-14.10.22:651][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.17-14.10.22:651][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.17-14.10.22:651][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.17-14.10.22:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' took 0.04s
+[2018.04.17-14.10.24:066][  0]SourceControl: Source control is disabled
+[2018.04.17-14.10.24:067][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.17-14.10.24:067][  0]LightingResults: New page: Lighting Build
+[2018.04.17-14.10.24:113][  0]MapCheck: New page: Map Check
+[2018.04.17-14.10.24:113][  0]LightingResults: New page: Lighting Build
+[2018.04.17-14.10.24:228][  0]LogAIModule: Creating AISystem for world TitleScreen
+[2018.04.17-14.10.24:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.17-14.10.24:241][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.17-14.10.24:288][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.311ms to complete.
+[2018.04.17-14.10.24:288][  0]LogFileHelpers: Loading map 'TitleScreen' took 0.221
+[2018.04.17-14.10.24:452][  0]LogCollectionManager: Loaded 0 collections in 0.001419 seconds
+[2018.04.17-14.10.24:530][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Saved/Collections/' took 0.01s
+[2018.04.17-14.10.24:530][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Developers/Cormac/Collections/' took 0.01s
+[2018.04.17-14.10.24:530][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Collections/' took 0.01s
+[2018.04.17-14.10.24:530][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.17-14.10.24:539][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2419 classes and 544 folders.
+[2018.04.17-14.10.24:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.17-14.10.24:969][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.17-14.10.25:009][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.17-14.10.25:076][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.17-14.10.25:078][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.17-14.10.25:085][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.17-14.10.25:209][  0]LogRenderer: Reallocating scene render targets to support 1056x552 Format 10 NumSamples 1 (Frame:1).
+[2018.04.17-14.10.25:261][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.17-14.10.25:426][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.17-14.10.25:426][  0]LogLoad: (Engine Initialization) Total time: 24.33 seconds
+[2018.04.17-14.10.25:426][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.17-14.10.25:426][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.17-14.10.25:426][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.17-14.10.25:494][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.17-14.10.25:576][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.04.17-14.10.25:584][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/' took 0.12s
+[2018.04.17-14.10.25:603][  1]LogAssetRegistry: Asset discovery search completed in 14.4627 seconds
+[2018.04.17-14.10.25:607][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.17-14.10.25:607][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.04.17-14.10.34:693][537]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.17-14.10.35:141][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] Set : 'Epressed' variable not found. Base class was probably changed. /Game/excmark_Blueprint.excmark_Blueprint
+[2018.04.17-14.10.35:141][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] Set Epressed : 'Epressed' variable not found. Base class was probably changed. /Game/excmark_Blueprint.excmark_Blueprint
+[2018.04.17-14.10.35:141][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] Set : 'Epressed' variable not found. Base class was probably changed. /Game/excmark_Blueprint.excmark_Blueprint
+[2018.04.17-14.10.35:141][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] Set Epressed : 'Epressed' variable not found. Base class was probably changed. /Game/excmark_Blueprint.excmark_Blueprint
+[2018.04.17-14.10.35:143][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] Could not find a variable named "Epressed" in 'excmark_Blueprint_C'.
+Make sure 'excmark_Blueprint_C' has been compiled for  Set Epressed
+[2018.04.17-14.10.35:143][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] Could not find a variable named "Epressed" in 'excmark_Blueprint_C'.
+Make sure 'excmark_Blueprint_C' has been compiled for  Set Epressed
+[2018.04.17-14.10.35:145][537]LogBlueprint: Error: [Compiler excmark_Blueprint] The property associated with  Epressed  could not be found
+[2018.04.17-14.10.35:145][537]LogBlueprint: Error: [Compiler excmark_Blueprint] The property associated with  Epressed  could not be found
+[2018.04.17-14.10.35:145][537]LogBlueprint: Warning: [Compiler excmark_Blueprint] [0034.05] Compile of excmark_Blueprint failed. 2 Fatal Issue(s) 6 Warning(s) [in 5 ms] (/Game/excmark_Blueprint.excmark_Blueprint)
+[2018.04.17-14.10.35:661][537]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.17-14.10.36:177][537]LogMaterial: Missing cached shader map for material Material__39, compiling. 
+[2018.04.17-14.10.36:178][537]LogMaterial: Warning: C:\Users\Cormac\Desktop\StitchesAndBones\Content\Level_Assets\Environments\Kitchen\Materials\Material__39.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.17-14.10.36:178][537]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Level_Assets/Environments/Kitchen/CerealBoxMap.CerealBoxMap
+[2018.04.17-14.10.37:443][537]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.10.37:498][537]Cmd: MAP LOAD FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.17-14.10.37:499][537]LightingResults: New page: Lighting Build
+[2018.04.17-14.10.37:499][537]LoadErrors: New page: Loading map: Kitchen.umap
+[2018.04.17-14.10.37:499][537]MapCheck: New page: Map Check
+[2018.04.17-14.10.37:499][537]LightingResults: New page: Lighting Build
+[2018.04.17-14.10.37:622][537]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.17-14.10.37:689][537]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.17-14.10.37:769][537]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.836ms to complete.
+[2018.04.17-14.10.37:769][537]LogFileHelpers: Loading map 'Kitchen' took 0.272
+[2018.04.17-14.10.56:124][602]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.04.17-14.10.56:774][602]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.17-14.10.56:865][603]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.17-14.11.02:176][915]LogEditorViewport: Clicking on Actor (LMB): QBP2_C (QBP2)
+[2018.04.17-14.11.27:605][379]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.11.29:065][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.11.29:126][444]LogSavePackage: Save=48.69ms
+[2018.04.17-14.11.29:126][444]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_BlueprintC33D46E74AA664DAA2290A892C99A2D5.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.11.29:131][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.11.52:420][827]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.11.53:084][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.11.53:142][846]LogSavePackage: Save=49.73ms
+[2018.04.17-14.11.53:143][846]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_BlueprintC072210D406079837371C6817F7BA6DE.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.11.53:146][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.11.55:183][962]LogEditorViewport: Clicking on Actor (LMB): QBP2_C (QBP2)
+[2018.04.17-14.12.08:511][729]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.17-14.12.09:687][797]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.17-14.12.51:957][198]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.12.52:618][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.12.52:682][215]LogSavePackage: Save=53.14ms
+[2018.04.17-14.12.52:682][215]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_Blueprint0BDBA5744261F226C17021810D3D2F81.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.12.52:684][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.13.24:817][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TeaPot)
+[2018.04.17-14.13.28:547][343]Cmd: DELETE
+[2018.04.17-14.13.28:547][343]Cmd: ACTOR DELETE
+[2018.04.17-14.13.28:556][343]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.17-14.13.28:572][343]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.04.17-14.13.35:144][737]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (OldManAnimated)
+[2018.04.17-14.14.02:537][336]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (OldManAnimated)
+[2018.04.17-14.14.18:836][307]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.14.19:578][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.14.19:650][330]LogSavePackage: Save=58.94ms
+[2018.04.17-14.14.19:651][330]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_Blueprint28F93E2642292CFD3F4DF8B9699BB17B.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.14.19:653][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.14.53:396][264]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.14.54:016][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.14.54:077][280]LogSavePackage: Save=53.24ms
+[2018.04.17-14.14.54:077][280]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_BlueprintB89E1ACF46E86060EF41E7A0C61D1AC3.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.14.54:080][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.14.56:153][398]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (OldManAnimated)
+[2018.04.17-14.14.56:735][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2018.04.17-14.14.57:530][477]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (OldManAnimated)
+[2018.04.17-14.15.06:859][998]LogRenderer: Reallocating scene render targets to support 1128x712 Format 10 NumSamples 1 (Frame:1).
+[2018.04.17-14.16.35:220][118]BlueprintLog: New page: Compile OldManAnimated_Blueprint
+[2018.04.17-14.16.36:173][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldManAnimated_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/OldManAnimated_Blueprint.uasset" SILENT=true
+[2018.04.17-14.16.36:204][143]LogSavePackage: Save=28.52ms
+[2018.04.17-14.16.36:204][143]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/OldManAnimated_Blueprint8536C9F6440AF001CF4747AFA04B0779.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/OldManAnimated_Blueprint.uasset'
+[2018.04.17-14.16.36:206][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/OldManAnimated_Blueprint.uasset
+[2018.04.17-14.16.44:303][619]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.16.44:349][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.16.44:349][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.16.44:350][619]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:16:44)
+[2018.04.17-14.16.44:350][619]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.16.44:374][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023689s)
+[2018.04.17-14.16.44:374][619]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.16.44:374][619]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2018.04.17-14.16.44:375][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.024916s)
+[2018.04.17-14.16.44:396][619]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.16.44:423][619]LogInit: FAudioDevice initialized.
+[2018.04.17-14.16.44:465][619]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.16.44:475][619]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.16.44
+[2018.04.17-14.16.44:478][619]LogWorld: Bringing up level for play took: 0.011273
+[2018.04.17-14.16.44:478][619]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.16.44:519][619]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.04.17-14.16.44:520][619]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.16.44:522][619]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.939
+[2018.04.17-14.16.44:523][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.16.44:565][619]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.16.50:379][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.16.50:414][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.17.27:572][146]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.17.28:337][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.17.28:408][170]LogSavePackage: Save=54.29ms
+[2018.04.17-14.17.28:408][170]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_Blueprint5B02498B44666AFB41A985A509480700.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.17.28:412][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.17.29:954][257]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.17.29:988][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.17.29:988][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.17.29:988][257]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:17:29)
+[2018.04.17-14.17.29:989][257]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.17.30:012][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022926s)
+[2018.04.17-14.17.30:012][257]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.17.30:013][257]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.04.17-14.17.30:013][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.024336s)
+[2018.04.17-14.17.30:029][257]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.17.30:057][257]LogInit: FAudioDevice initialized.
+[2018.04.17-14.17.30:093][257]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.17.30:103][257]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.17.30
+[2018.04.17-14.17.30:105][257]LogWorld: Bringing up level for play took: 0.010601
+[2018.04.17-14.17.30:105][257]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.17.30:106][257]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.17.30:108][257]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.526
+[2018.04.17-14.17.30:109][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.17.30:139][257]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.17.34:491][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.17.34:526][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.18.23:922][320]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.18.24:598][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.18.24:670][339]LogSavePackage: Save=60.44ms
+[2018.04.17-14.18.24:670][339]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_BlueprintA928D6D1480AE28537DC33802EDCEE79.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.18.24:673][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.18.27:556][506]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.18.27:590][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.18.27:590][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.18.27:590][506]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:18:27)
+[2018.04.17-14.18.27:590][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.18.27:611][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020562s)
+[2018.04.17-14.18.27:611][506]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.18.27:611][506]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.04.17-14.18.27:612][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.021345s)
+[2018.04.17-14.18.27:629][506]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.18.27:655][506]LogInit: FAudioDevice initialized.
+[2018.04.17-14.18.27:688][506]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.18.27:701][506]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.18.27
+[2018.04.17-14.18.27:703][506]LogWorld: Bringing up level for play took: 0.013691
+[2018.04.17-14.18.27:703][506]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.18.27:705][506]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.18.27:707][506]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.124
+[2018.04.17-14.18.27:707][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.18.27:742][506]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.18.31:760][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.18.31:796][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.18.32:990][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenChair4)
+[2018.04.17-14.18.33:573][849]LogEditorViewport: Clicking on Actor (LMB): QBP2_C (QBP2)
+[2018.04.17-14.18.52:898][964]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.17-14.19.05:159][680]BlueprintLog: New page: Compile excmark_Blueprint
+[2018.04.17-14.19.05:831][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/excmark_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset" SILENT=true
+[2018.04.17-14.19.05:903][697]LogSavePackage: Save=60.31ms
+[2018.04.17-14.19.05:903][697]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/excmark_BlueprintD74A4D4849344B20D686B1800DCC55C8.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset'
+[2018.04.17-14.19.05:906][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/excmark_Blueprint.uasset
+[2018.04.17-14.19.07:204][768]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.19.07:237][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.19.07:237][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.19.07:237][768]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:19:07)
+[2018.04.17-14.19.07:237][768]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.19.07:260][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022769s)
+[2018.04.17-14.19.07:260][768]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.19.07:261][768]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.04.17-14.19.07:261][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023652s)
+[2018.04.17-14.19.07:282][768]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.19.07:306][768]LogInit: FAudioDevice initialized.
+[2018.04.17-14.19.07:337][768]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.19.07:346][768]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.19.07
+[2018.04.17-14.19.07:348][768]LogWorld: Bringing up level for play took: 0.010022
+[2018.04.17-14.19.07:348][768]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.19.07:349][768]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.19.07:351][768]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.231
+[2018.04.17-14.19.07:352][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.19.07:386][768]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.19.10:772][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.19.10:810][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.19.55:549][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2018.04.17-14.20.16:601][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2018.04.17-14.20.17:804][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.20.18:464][927]LogSavePackage: Save=626.79ms
+[2018.04.17-14.20.18:464][927]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenC740CB504684A06DF557F6BD696DA50E.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.20.18:467][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.20.18:531][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen_BuiltData" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen_BuiltData.uasset" SILENT=true
+[2018.04.17-14.20.18:802][927]LogSavePackage: Save=234.57ms
+[2018.04.17-14.20.18:803][927]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen_BuiltDataE1A3C0CB4981057251A0B49EFB8C5423.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen_BuiltData.uasset'
+[2018.04.17-14.20.18:806][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen_BuiltData.uasset
+[2018.04.17-14.21.13:976][134]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.21.14:629][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.21.15:294][157]LogSavePackage: Save=638.97ms
+[2018.04.17-14.21.15:294][157]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen9307E20F4B6F6AB5D113DFA8E25572E7.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.21.15:298][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.21.15:358][157]LogFileHelpers: Saving map 'Kitchen' took 0.809
+[2018.04.17-14.21.17:110][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2018.04.17-14.21.20:038][382]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2018.04.17-14.21.49:172][ 83]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.22.23:927][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.22.24:620][140]LogSavePackage: Save=666.61ms
+[2018.04.17-14.22.24:620][140]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen58C045C247BCC33F3B395F978B06757E.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.22.24:623][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.22.24:679][140]LogFileHelpers: Saving map 'Kitchen' took 0.827
+[2018.04.17-14.23.36:197][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.36:197][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.23.36:198][ 47]PIE: New page: SIE session: Kitchen (17 Apr 2018 16:23:36)
+[2018.04.17-14.23.36:198][ 47]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.23.36:223][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025028s)
+[2018.04.17-14.23.36:224][ 47]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.23.36:224][ 47]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.04.17-14.23.36:224][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.026310s)
+[2018.04.17-14.23.36:244][ 47]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.23.36:271][ 47]LogInit: FAudioDevice initialized.
+[2018.04.17-14.23.36:301][ 47]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.23.36:310][ 47]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.23.36
+[2018.04.17-14.23.36:312][ 47]LogWorld: Bringing up level for play took: 0.010614
+[2018.04.17-14.23.36:313][ 47]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.23.36:313][ 47]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.23.36:317][ 47]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.734
+[2018.04.17-14.23.36:343][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.36:351][ 47]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.23.38:746][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.38:780][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.39:870][248]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume9)
+[2018.04.17-14.23.41:009][313]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (RatbossAnim)
+[2018.04.17-14.23.46:867][659]LogTemp: Repeating last play command: Simulate
+[2018.04.17-14.23.46:897][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.46:897][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.23.46:897][659]PIE: New page: SIE session: Kitchen (17 Apr 2018 16:23:46)
+[2018.04.17-14.23.46:897][659]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.23.46:920][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022416s)
+[2018.04.17-14.23.46:921][659]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.23.46:921][659]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.04.17-14.23.46:921][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023290s)
+[2018.04.17-14.23.46:938][659]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.23.46:962][659]LogInit: FAudioDevice initialized.
+[2018.04.17-14.23.46:994][659]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.23.47:004][659]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.23.47
+[2018.04.17-14.23.47:006][659]LogWorld: Bringing up level for play took: 0.011971
+[2018.04.17-14.23.47:007][659]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.23.47:008][659]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.23.47:010][659]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.573
+[2018.04.17-14.23.47:031][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.47:035][659]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.23.51:000][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.51:037][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.23.53:821][ 56]LogEditorViewport: Clicking on Actor (LMB): CameraActor (BossIntroCam)
+[2018.04.17-14.24.03:525][629]LogTemp: Repeating last play command: Simulate
+[2018.04.17-14.24.03:558][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.03:558][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.24.03:559][629]PIE: New page: SIE session: Kitchen (17 Apr 2018 16:24:03)
+[2018.04.17-14.24.03:559][629]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.24.03:584][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025648s)
+[2018.04.17-14.24.03:585][629]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.24.03:585][629]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.04.17-14.24.03:586][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.026859s)
+[2018.04.17-14.24.03:633][629]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.24.03:657][629]LogInit: FAudioDevice initialized.
+[2018.04.17-14.24.03:685][629]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.24.03:695][629]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.24.03
+[2018.04.17-14.24.03:697][629]LogWorld: Bringing up level for play took: 0.011326
+[2018.04.17-14.24.03:698][629]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.24.03:699][629]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.24.03:700][629]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.117
+[2018.04.17-14.24.03:776][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.03:780][629]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.24.04:781][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.04:821][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.06:391][782]LogEditorViewport: Clicking on Actor (LMB): CameraActor (BossIntroCam)
+[2018.04.17-14.24.16:096][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2018.04.17-14.24.17:404][428]LogEditorViewport: Clicking on Actor (LMB): CameraActor (BossIntroCam)
+[2018.04.17-14.24.19:950][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.19:950][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.24.19:950][572]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:24:19)
+[2018.04.17-14.24.19:950][572]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.24.19:972][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021965s)
+[2018.04.17-14.24.19:973][572]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.24.19:973][572]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.04.17-14.24.19:973][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023025s)
+[2018.04.17-14.24.20:021][572]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.24.20:045][572]LogInit: FAudioDevice initialized.
+[2018.04.17-14.24.20:081][572]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.24.20:090][572]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.24.20
+[2018.04.17-14.24.20:092][572]LogWorld: Bringing up level for play took: 0.010795
+[2018.04.17-14.24.20:092][572]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.24.20:093][572]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.24.20:095][572]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.512
+[2018.04.17-14.24.20:095][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.20:131][572]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.24.23:871][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.23:909][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.35:782][502]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (RatbossAnim)
+[2018.04.17-14.24.49:944][344]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.24.49:977][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.49:977][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.24.49:977][344]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:24:49)
+[2018.04.17-14.24.49:977][344]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.24.49:999][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022154s)
+[2018.04.17-14.24.50:000][344]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.24.50:000][344]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.04.17-14.24.50:000][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023236s)
+[2018.04.17-14.24.50:019][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.24.50:047][344]LogInit: FAudioDevice initialized.
+[2018.04.17-14.24.50:079][344]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.24.50:090][344]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.24.50
+[2018.04.17-14.24.50:092][344]LogWorld: Bringing up level for play took: 0.011706
+[2018.04.17-14.24.50:092][344]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.24.50:093][344]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.24.50:095][344]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.512
+[2018.04.17-14.24.50:096][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.50:134][344]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.24.50:602][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.50:638][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.24.52:353][473]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (RatbossAnim)
+[2018.04.17-14.25.04:719][211]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.25.04:752][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.25.04:752][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.25.04:752][211]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:25:04)
+[2018.04.17-14.25.04:752][211]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.25.04:779][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027028s)
+[2018.04.17-14.25.04:780][211]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.25.04:780][211]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.04.17-14.25.04:781][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.028279s)
+[2018.04.17-14.25.04:800][211]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.25.04:824][211]LogInit: FAudioDevice initialized.
+[2018.04.17-14.25.04:859][211]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.25.04:870][211]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.25.04
+[2018.04.17-14.25.04:872][211]LogWorld: Bringing up level for play took: 0.012129
+[2018.04.17-14.25.04:873][211]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.25.04:874][211]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.25.04:876][211]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.707
+[2018.04.17-14.25.04:877][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.25.04:909][211]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.25.08:679][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.25.08:719][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.25.13:219][703]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (RatbossAnim)
+[2018.04.17-14.25.43:482][460]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.17-14.25.57:947][313]Cmd: DELETE
+[2018.04.17-14.25.57:947][313]Cmd: ACTOR DELETE
+[2018.04.17-14.25.57:955][313]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.17-14.25.57:970][313]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.04.17-14.27.06:028][338]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall2)
+[2018.04.17-14.27.07:178][402]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.04.17-14.27.14:353][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.27.14:386][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.14:386][825]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.17-14.27.14:405][825]LogPlayLevel: [PlayLevel] Compiling Kitchen before play...
+[2018.04.17-14.27.14:551][825]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2018.04.17-14.27.14:551][825]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:27:14)
+[2018.04.17-14.27.14:552][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.27.14:574][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022577s)
+[2018.04.17-14.27.14:575][825]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.27.14:575][825]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.04.17-14.27.14:575][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023776s)
+[2018.04.17-14.27.14:592][825]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.27.14:616][825]LogInit: FAudioDevice initialized.
+[2018.04.17-14.27.14:651][825]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.27.14:661][825]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.27.14
+[2018.04.17-14.27.14:663][825]LogWorld: Bringing up level for play took: 0.011761
+[2018.04.17-14.27.14:664][825]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.27.14:665][825]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.27.14:667][825]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 1.085
+[2018.04.17-14.27.14:668][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.14:674][825]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.27.18:973][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.19:012][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.21:813][244]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.04.17-14.27.43:656][549]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.27.43:690][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.43:690][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.27.43:690][549]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:27:43)
+[2018.04.17-14.27.43:690][549]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.27.43:711][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021131s)
+[2018.04.17-14.27.43:712][549]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.27.43:712][549]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.04.17-14.27.43:712][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.022187s)
+[2018.04.17-14.27.43:732][549]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.27.43:757][549]LogInit: FAudioDevice initialized.
+[2018.04.17-14.27.43:790][549]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.27.43:801][549]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.27.43
+[2018.04.17-14.27.43:803][549]LogWorld: Bringing up level for play took: 0.012057
+[2018.04.17-14.27.43:804][549]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.27.43:805][549]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.27.43:807][549]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.224
+[2018.04.17-14.27.43:807][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.43:844][549]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.27.58:734][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.27.58:772][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.28.41:094][930]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.17-14.28.53:601][676]LogEditorViewport: Clicking on Actor (LMB): Actor (RatBossPH)
+[2018.04.17-14.29.08:863][577]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.29.08:902][577]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.04.17-14.29.09:023][577]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [1147.93] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2018.04.17-14.29.09:531][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.29.09:607][601]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.04.17-14.29.09:612][601]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [1148.52] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 0 Warning(s) [in 28 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2018.04.17-14.29.10:196][601]LogSavePackage: Save=632.77ms
+[2018.04.17-14.29.10:197][601]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenD7036DC94B45A1141EC86A963DEC0BE4.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.29.10:202][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.29.10:256][601]LogFileHelpers: Saving map 'Kitchen' took 0.799
+[2018.04.17-14.30.28:840][262]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (RatbossAnim)
+[2018.04.17-14.30.34:207][583]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume9)
+[2018.04.17-14.30.35:152][637]LogEditorViewport: Clicking on Actor (LMB): Actor (RatBossPH)
+[2018.04.17-14.30.56:222][827]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.17-14.31.44:317][615]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.31.45:721][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.31.46:387][683]LogSavePackage: Save=636.40ms
+[2018.04.17-14.31.46:387][683]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenA8942475447D21817E72DABF720DC056.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.31.46:391][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.31.46:446][683]LogFileHelpers: Saving map 'Kitchen' took 0.800
+[2018.04.17-14.32.17:250][464]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.17-14.32.51:824][465]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.32.52:634][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.32.53:309][497]LogSavePackage: Save=648.52ms
+[2018.04.17-14.32.53:309][497]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenB5E6B4C24E3ED9C8895F1D9407A89AF0.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.32.53:315][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.32.53:376][497]LogFileHelpers: Saving map 'Kitchen' took 0.812
+[2018.04.17-14.32.54:700][570]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.32.54:736][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.32.54:737][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.32.54:737][570]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:32:54)
+[2018.04.17-14.32.54:737][570]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.32.54:758][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021251s)
+[2018.04.17-14.32.54:759][570]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.32.54:759][570]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2018.04.17-14.32.54:759][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.022297s)
+[2018.04.17-14.32.54:778][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.32.54:803][570]LogInit: FAudioDevice initialized.
+[2018.04.17-14.32.54:838][570]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.32.54:848][570]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.32.54
+[2018.04.17-14.32.54:849][570]LogWorld: Bringing up level for play took: 0.010618
+[2018.04.17-14.32.54:850][570]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.32.54:851][570]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.32.54:853][570]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.73
+[2018.04.17-14.32.54:854][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.32.54:885][570]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.32.59:673][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.32.59:709][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.33.13:500][679]LogEditorViewport: Clicking on Actor (LMB): RatBossPH_Blueprint_C (RatBossPH_Blueprint)
+[2018.04.17-14.33.20:824][114]Cmd: DELETE
+[2018.04.17-14.33.20:824][114]Cmd: ACTOR DELETE
+[2018.04.17-14.33.22:200][114]LogEditorActor: Deleted Actor: RatBossPH_Blueprint_C
+[2018.04.17-14.33.22:216][114]LogEditorActor: Deleted 1 Actors (1.392 secs)
+[2018.04.17-14.34.09:616][801]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.34.10:475][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.34.11:159][836]LogSavePackage: Save=651.54ms
+[2018.04.17-14.34.11:159][836]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen6A92F6B242A4475B3C02A1ACEE8D38F0.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.34.11:162][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.34.11:215][836]LogFileHelpers: Saving map 'Kitchen' took 0.813
+[2018.04.17-14.34.52:703][303]Cmd: TRANSACTION UNDO
+[2018.04.17-14.34.52:703][303]LogEditorTransaction: Undo Move Actors
+[2018.04.17-14.34.53:294][336]Cmd: TRANSACTION UNDO
+[2018.04.17-14.34.53:294][336]LogEditorTransaction: Undo Create Actors
+[2018.04.17-14.35.17:710][738]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.35.18:977][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.35.19:643][798]LogSavePackage: Save=640.52ms
+[2018.04.17-14.35.19:643][798]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen5EDA91824D80F82DF515E78C9EFD3D5F.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.35.19:648][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.35.19:701][798]LogFileHelpers: Saving map 'Kitchen' took 0.799
+[2018.04.17-14.35.57:653][ 50]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.35.58:362][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.35.59:023][ 76]LogSavePackage: Save=638.05ms
+[2018.04.17-14.35.59:024][ 76]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenD2FA982E43221DE56868DEBC09FD821F.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.35.59:027][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.35.59:081][ 76]LogFileHelpers: Saving map 'Kitchen' took 0.792
+[2018.04.17-14.36.00:648][164]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.36.00:678][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.00:678][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.36.00:678][164]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:36:00)
+[2018.04.17-14.36.00:678][164]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.36.00:701][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022252s)
+[2018.04.17-14.36.00:701][164]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.36.00:701][164]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.04.17-14.36.00:701][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.023114s)
+[2018.04.17-14.36.00:723][164]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.36.00:750][164]LogInit: FAudioDevice initialized.
+[2018.04.17-14.36.00:783][164]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.36.00:798][164]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.36.00
+[2018.04.17-14.36.00:800][164]LogWorld: Bringing up level for play took: 0.016208
+[2018.04.17-14.36.00:801][164]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.36.00:802][164]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.36.00:804][164]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.778
+[2018.04.17-14.36.00:805][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.00:840][164]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.36.07:338][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.07:374][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.23:800][516]BlueprintLog: New page: Compile RatBossPH_Blueprint
+[2018.04.17-14.36.24:450][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RatBossPH_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/RatBossPH_Blueprint.uasset" SILENT=true
+[2018.04.17-14.36.24:471][534]LogSavePackage: Save=18.68ms
+[2018.04.17-14.36.24:471][534]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/RatBossPH_Blueprint96567DEC48BE676CDF328FB6E4A8B55D.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/RatBossPH_Blueprint.uasset'
+[2018.04.17-14.36.24:473][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/RatBossPH_Blueprint.uasset
+[2018.04.17-14.36.26:015][621]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.36.26:048][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.26:048][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.36.26:048][621]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:36:26)
+[2018.04.17-14.36.26:049][621]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.36.26:072][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023296s)
+[2018.04.17-14.36.26:072][621]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.36.26:073][621]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.04.17-14.36.26:073][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.024457s)
+[2018.04.17-14.36.26:089][621]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.36.26:113][621]LogInit: FAudioDevice initialized.
+[2018.04.17-14.36.26:147][621]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.36.26:156][621]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.36.26
+[2018.04.17-14.36.26:158][621]LogWorld: Bringing up level for play took: 0.010630
+[2018.04.17-14.36.26:158][621]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.36.26:159][621]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.36.26:161][621]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.578
+[2018.04.17-14.36.26:161][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.26:197][621]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.36.41:497][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.36.41:537][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.33:597][630]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.37.33:627][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.33:628][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.37.33:628][630]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:37:33)
+[2018.04.17-14.37.33:628][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.37.33:649][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021132s)
+[2018.04.17-14.37.33:649][630]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.37.33:650][630]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2018.04.17-14.37.33:650][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.021929s)
+[2018.04.17-14.37.33:667][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.37.33:690][630]LogInit: FAudioDevice initialized.
+[2018.04.17-14.37.33:721][630]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.37.33:731][630]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.37.33
+[2018.04.17-14.37.33:733][630]LogWorld: Bringing up level for play took: 0.010982
+[2018.04.17-14.37.33:734][630]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.37.33:735][630]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.37.33:737][630]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.154
+[2018.04.17-14.37.33:737][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.33:765][630]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.37.48:683][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.48:724][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.50:694][641]LogEditorViewport: Clicking on Actor (LMB): CameraActor (BossIntroCam)
+[2018.04.17-14.37.53:393][795]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.37.53:425][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.53:425][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.37.53:426][795]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:37:53)
+[2018.04.17-14.37.53:426][795]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.37.53:449][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023009s)
+[2018.04.17-14.37.53:449][795]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.37.53:450][795]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.04.17-14.37.53:450][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.024312s)
+[2018.04.17-14.37.53:493][795]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.37.53:518][795]LogInit: FAudioDevice initialized.
+[2018.04.17-14.37.53:553][795]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.37.53:564][795]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.37.53
+[2018.04.17-14.37.53:567][795]LogWorld: Bringing up level for play took: 0.011997
+[2018.04.17-14.37.53:567][795]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.37.53:569][795]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.37.53:571][795]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.012
+[2018.04.17-14.37.53:572][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.53:603][795]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.37.59:239][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.37.59:280][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.38.54:003][317]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.38.56:669][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.38.57:353][460]LogSavePackage: Save=656.92ms
+[2018.04.17-14.38.57:353][460]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen1CEF52574DC25C5588AA2A98785D07F0.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.38.57:356][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.38.57:412][460]LogFileHelpers: Saving map 'Kitchen' took 0.815
+[2018.04.17-14.39.19:192][756]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:265][760]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:331][764]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:398][768]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:465][772]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:531][776]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:598][780]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:664][784]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:731][788]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:798][792]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:865][796]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:934][800]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.19:998][804]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:064][808]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:132][812]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:198][816]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:265][820]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:331][824]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:398][828]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:465][832]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:531][836]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:598][840]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:650][843]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:698][846]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:748][849]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:798][852]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:848][855]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:898][858]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:948][861]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.20:998][864]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:048][867]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:098][870]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:148][873]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:198][876]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:248][879]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:298][882]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:348][885]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:398][888]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:448][891]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:498][894]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:548][897]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:598][900]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:649][903]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:699][906]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:748][909]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:798][912]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:848][915]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:898][918]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:948][921]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.21:998][924]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:048][927]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:098][930]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:148][933]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:198][936]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:248][939]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:298][942]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:348][945]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:398][948]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:448][951]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:498][954]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:548][957]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:598][960]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:648][963]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:698][966]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.22:748][969]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.29:861][390]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.29:910][393]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.29:959][396]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.30:009][399]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.30:059][402]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.30:110][405]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.30:159][408]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.30:665][438]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.30:715][441]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.39.38:591][913]Cmd: ACTOR SELECT ALL
+[2018.04.17-14.39.38:888][925]Cmd: EDIT COPY
+[2018.04.17-14.39.39:887][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.04.17-14.39.50:118][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2018.04.17-14.39.51:383][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.04.17-14.39.52:328][714]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PlainSkelRig)
+[2018.04.17-14.39.58:709][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2018.04.17-14.39.59:344][129]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PlainSkelRig)
+[2018.04.17-14.39.59:673][146]Cmd: DELETE
+[2018.04.17-14.39.59:673][146]Cmd: ACTOR DELETE
+[2018.04.17-14.39.59:681][146]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.17-14.39.59:701][146]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.04.17-14.41.04:810][892]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.41.05:585][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.41.06:279][923]LogSavePackage: Save=660.33ms
+[2018.04.17-14.41.06:279][923]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen547008BF4660E95EF19CD59BF69FBF42.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.41.06:282][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.41.06:340][923]LogFileHelpers: Saving map 'Kitchen' took 0.829
+[2018.04.17-14.41.09:071][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.41.09:109][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.09:110][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.41.09:110][ 81]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:41:09)
+[2018.04.17-14.41.09:110][ 81]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.41.09:136][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026086s)
+[2018.04.17-14.41.09:137][ 81]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.41.09:138][ 81]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2018.04.17-14.41.09:138][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.027772s)
+[2018.04.17-14.41.09:156][ 81]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.41.09:184][ 81]LogInit: FAudioDevice initialized.
+[2018.04.17-14.41.09:213][ 81]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.41.09:223][ 81]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.41.09
+[2018.04.17-14.41.09:225][ 81]LogWorld: Bringing up level for play took: 0.010695
+[2018.04.17-14.41.09:226][ 81]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.41.09:227][ 81]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.41.09:230][ 81]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.353
+[2018.04.17-14.41.09:230][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.09:262][ 81]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.41.30:503][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.30:545][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.30:963][379]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:013][382]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:063][385]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:113][388]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:163][391]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:214][394]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:263][397]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:313][400]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:696][423]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:746][426]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:797][429]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:847][432]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.31:897][435]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.41.44:513][164]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.41.45:131][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.41.45:810][184]LogSavePackage: Save=657.85ms
+[2018.04.17-14.41.45:810][184]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen2F1271E04BD656BF4EABF5A1D880222B.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.41.45:813][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.41.45:864][184]LogFileHelpers: Saving map 'Kitchen' took 0.812
+[2018.04.17-14.41.47:146][255]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.41.47:178][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.47:179][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.41.47:179][255]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:41:47)
+[2018.04.17-14.41.47:179][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.41.47:204][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025219s)
+[2018.04.17-14.41.47:205][255]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.41.47:205][255]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.04.17-14.41.47:206][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.026718s)
+[2018.04.17-14.41.47:224][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.41.47:248][255]LogInit: FAudioDevice initialized.
+[2018.04.17-14.41.47:278][255]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.41.47:286][255]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.41.47
+[2018.04.17-14.41.47:288][255]LogWorld: Bringing up level for play took: 0.009612
+[2018.04.17-14.41.47:288][255]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.41.47:289][255]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.41.47:291][255]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.292
+[2018.04.17-14.41.47:291][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.47:322][255]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.41.49:090][361]LogLevel: Warning: DisableInput on a LevelScript actor can not be specified for only one PlayerController.  Disabling for all PlayerControllers.
+[2018.04.17-14.41.52:007][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.41.52:047][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.42.08:787][495]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.42.09:421][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.42.10:097][516]LogSavePackage: Save=648.62ms
+[2018.04.17-14.42.10:097][516]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenAD12677D41111219B374C989EE0CF3DA.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.42.10:102][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.42.10:162][516]LogFileHelpers: Saving map 'Kitchen' took 0.820
+[2018.04.17-14.42.12:650][658]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.42.12:685][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.42.12:685][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.42.12:685][658]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:42:12)
+[2018.04.17-14.42.12:685][658]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.42.12:706][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020354s)
+[2018.04.17-14.42.12:706][658]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.42.12:706][658]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.04.17-14.42.12:707][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.021217s)
+[2018.04.17-14.42.12:724][658]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.42.12:752][658]LogInit: FAudioDevice initialized.
+[2018.04.17-14.42.12:782][658]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.42.12:791][658]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.42.12
+[2018.04.17-14.42.12:793][658]LogWorld: Bringing up level for play took: 0.009506
+[2018.04.17-14.42.12:793][658]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.42.12:794][658]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.42.12:796][658]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen -0.787
+[2018.04.17-14.42.12:796][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.42.12:829][658]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.42.18:315][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.42.18:353][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.42.43:446][491]LogEditorViewport: Clicking on Actor (LMB): EnemyCurrent_C (Enemy2)
+[2018.04.17-14.43.04:380][703]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:436][706]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:483][709]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:534][712]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:601][716]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:649][719]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:700][722]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:750][725]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:800][728]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:850][731]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:900][734]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.04:950][737]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:000][740]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:053][743]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:100][746]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:150][749]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:200][752]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:250][755]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:300][758]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:349][761]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:401][764]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:450][767]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:500][770]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:549][773]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:599][776]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:650][779]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:700][782]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:749][785]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:800][788]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:850][791]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:900][794]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:950][797]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.05:999][800]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:049][803]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:100][806]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:150][809]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:199][812]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:250][815]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:300][818]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:350][821]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.06:399][824]LogAnimation: Warning: SkeletalMesh WarriorRigged has no skeleton. This needs to fixed before an animation can be set
+[2018.04.17-14.43.19:136][987]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Cormac/Documents/3dsMax/export/RatBossIdle.FBX)
+[2018.04.17-14.43.19:148][987]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Model, ItemCount : 38
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Material, ItemCount : 8
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: NodeAttribute, ItemCount : 35
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: AnimationCurve, ItemCount : 324
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: AnimationCurveNode, ItemCount : 108
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Deformer, ItemCount : 28
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.17-14.43.19:149][987]LogFbx: ItemName: Video, ItemCount : 2
+[2018.04.17-14.43.19:155][987]LogFbx: Loading FBX Scene from ../../../../../../Users/Cormac/Documents/3dsMax/export/RatBossIdle.FBX
+[2018.04.17-14.43.19:208][987]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.17-14.43.21:347][987]LogFbx: Loading FBX Scene from ../../../../../../Users/Cormac/Documents/3dsMax/export/RatBossIdle.FBX
+[2018.04.17-14.43.21:401][987]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.17-14.43.21:404][987]LogFbx: =================================================
+[2018.04.17-14.43.21:404][987]LogFbx: Dumping Node START [humanBody-retopo 1-retopo 1-retopo 1] 
+[2018.04.17-14.43.21:404][987]LogFbx: 	Total Deformer Count -1278840896.
+[2018.04.17-14.43.21:404][987]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.17-14.43.21:404][987]LogFbx: =================================================
+[2018.04.17-14.43.21:404][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.21:404][987]LogFbx: 		[Node Attribute Child 1] humanBody-retopo 1-retopo 1-retopo 1 (Type Mesh).
+[2018.04.17-14.43.21:404][987]LogFbx: Dumping Node END [humanBody-retopo 1-retopo 1-retopo 1]
+[2018.04.17-14.43.21:404][987]LogFbx: =================================================
+[2018.04.17-14.43.21:404][987]LogFbx: Dumping Node START [Plane001] 
+[2018.04.17-14.43.21:404][987]LogFbx: 	Total Deformer Count 1785412064.
+[2018.04.17-14.43.21:404][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.21:404][987]LogFbx: 		[Node Attribute Child 1] Plane001 (Type Mesh).
+[2018.04.17-14.43.21:404][987]LogFbx: Dumping Node END [Plane001]
+[2018.04.17-14.43.21:405][987]LogFbx: =================================================
+[2018.04.17-14.43.21:405][987]LogFbx: Dumping Node START [Plane001] 
+[2018.04.17-14.43.21:405][987]LogFbx: 	Total Deformer Count 1785400024.
+[2018.04.17-14.43.21:405][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.21:405][987]LogFbx: 		[Node Attribute Child 1] Plane001 (Type Mesh).
+[2018.04.17-14.43.21:405][987]LogFbx: Dumping Node END [Plane001]
+[2018.04.17-14.43.21:405][987]LogFbx: =================================================
+[2018.04.17-14.43.21:405][987]LogFbx: Dumping Node START [humanBody-retopo 1-retopo 1-retopo 1] 
+[2018.04.17-14.43.21:405][987]LogFbx: 	Total Deformer Count -1278840896.
+[2018.04.17-14.43.21:405][987]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.17-14.43.21:405][987]LogFbx: =================================================
+[2018.04.17-14.43.21:405][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.21:405][987]LogFbx: 		[Node Attribute Child 1] humanBody-retopo 1-retopo 1-retopo 1 (Type Mesh).
+[2018.04.17-14.43.21:405][987]LogFbx: Dumping Node END [humanBody-retopo 1-retopo 1-retopo 1]
+[2018.04.17-14.43.21:407][987]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node humanBody-retopo 1-retopo 1-retopo 1 : Not all the deformers are stored in this BindPose
+[2018.04.17-14.43.21:407][987]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.04.17-14.43.21:408][987]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - humanBody-retopo 1-retopo 1-retopo 1
+[2018.04.17-14.43.21:409][987]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.04.17-14.43.21:412][987]LogFbx: Triangulating skeletal mesh humanBody-retopo 1-retopo 1-retopo 1
+[2018.04.17-14.43.21:755][987]LogFbx: Warning: Bones digested - 35  Depth of hierarchy - 13
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 0: 11245 vertices, 27 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 1: 14 vertices, 1 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 2: 879 vertices, 5 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 3: 14 vertices, 1 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 4: 49 vertices, 1 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 5: 49 vertices, 1 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 6: 1646 vertices, 1 active bones
+[2018.04.17-14.43.22:306][987]LogSkeletalMesh: Section 7: 154 vertices, 1 active bones
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 0: Material=0, 21902 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 1: Material=1, 12 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 2: Material=2, 1512 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 3: Material=3, 12 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 4: Material=4, 72 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 5: Material=5, 72 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 6: Material=6, 2768 triangles
+[2018.04.17-14.43.22:333][987]LogSkeletalMesh: Section 7: Material=7, 192 triangles
+[2018.04.17-14.43.22:343][987]LogLinker: Can't find file '/Game/RatBossIdle_PhysicsAsset'
+[2018.04.17-14.43.22:343][987]LogLinker: Can't find file '/Game/RatBossIdle_PhysicsAsset'
+[2018.04.17-14.43.22:354][987]LogFbx: =================================================
+[2018.04.17-14.43.22:354][987]LogFbx: Dumping Node START [humanBody-retopo 1-retopo 1-retopo 1] 
+[2018.04.17-14.43.22:354][987]LogFbx: 	Total Deformer Count -1278840736.
+[2018.04.17-14.43.22:354][987]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.17-14.43.22:354][987]LogFbx: =================================================
+[2018.04.17-14.43.22:354][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.22:354][987]LogFbx: 		[Node Attribute Child 1] humanBody-retopo 1-retopo 1-retopo 1 (Type Mesh).
+[2018.04.17-14.43.22:354][987]LogFbx: Dumping Node END [humanBody-retopo 1-retopo 1-retopo 1]
+[2018.04.17-14.43.22:354][987]LogFbx: =================================================
+[2018.04.17-14.43.22:354][987]LogFbx: Dumping Node START [Plane001] 
+[2018.04.17-14.43.22:354][987]LogFbx: 	Total Deformer Count 1785412120.
+[2018.04.17-14.43.22:354][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.22:354][987]LogFbx: 		[Node Attribute Child 1] Plane001 (Type Mesh).
+[2018.04.17-14.43.22:354][987]LogFbx: Dumping Node END [Plane001]
+[2018.04.17-14.43.22:355][987]LogFbx: =================================================
+[2018.04.17-14.43.22:355][987]LogFbx: Dumping Node START [Plane001] 
+[2018.04.17-14.43.22:355][987]LogFbx: 	Total Deformer Count 1785407136.
+[2018.04.17-14.43.22:355][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.22:355][987]LogFbx: 		[Node Attribute Child 1] Plane001 (Type Mesh).
+[2018.04.17-14.43.22:355][987]LogFbx: Dumping Node END [Plane001]
+[2018.04.17-14.43.22:355][987]LogFbx: =================================================
+[2018.04.17-14.43.22:355][987]LogFbx: Dumping Node START [humanBody-retopo 1-retopo 1-retopo 1] 
+[2018.04.17-14.43.22:355][987]LogFbx: 	Total Deformer Count -1278840736.
+[2018.04.17-14.43.22:355][987]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.17-14.43.22:355][987]LogFbx: =================================================
+[2018.04.17-14.43.22:355][987]LogFbx: 	Attribute () Type (4).
+[2018.04.17-14.43.22:355][987]LogFbx: 		[Node Attribute Child 1] humanBody-retopo 1-retopo 1-retopo 1 (Type Mesh).
+[2018.04.17-14.43.22:355][987]LogFbx: Dumping Node END [humanBody-retopo 1-retopo 1-retopo 1]
+[2018.04.17-14.43.22:355][987]LogFbx: SortedLinks :(0) Bip001
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(1) Bip001 Pelvis
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(2) Bip001 Spine
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(3) Bip001 Spine1
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(4) Bip001 Spine2
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(5) Bip001 Spine3
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(6) Bip001 Neck
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(7) Bip001 L Clavicle
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(8) Bip001 L UpperArm
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(9) Bip001 L Forearm
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(10) Bip001 L Hand
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(11) Bip001 L Finger0
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(12) Bip001 L Finger0Nub
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(13) Bip001 R Clavicle
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(14) Bip001 R UpperArm
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(15) Bip001 R Forearm
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(16) Bip001 R Hand
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(17) Bip001 R Finger0
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(18) Bip001 R Finger0Nub
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(19) Bip001 Head
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(20) Bip001 HeadNub
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(21) Bip001 L Thigh
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(22) Bip001 L Calf
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(23) Bip001 L Foot
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(24) Bip001 L Toe0
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(25) Bip001 L Toe01
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(26) Bip001 L Toe02
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(27) Bip001 L Toe0Nub
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(28) Bip001 R Thigh
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(29) Bip001 R Calf
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(30) Bip001 R Foot
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(31) Bip001 R Toe0
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(32) Bip001 R Toe01
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(33) Bip001 R Toe02
+[2018.04.17-14.43.22:356][987]LogFbx: SortedLinks :(34) Bip001 R Toe0Nub
+[2018.04.17-14.43.22:358][987]LogFbx: Parsing AnimStack Take 001
+[2018.04.17-14.43.22:362][987]LogLinker: Can't find file '/Game/RatBossIdle_Anim'
+[2018.04.17-14.43.22:362][987]LogLinker: Can't find file '/Game/RatBossIdle_Anim'
+[2018.04.17-14.43.22:970][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RatBossIdle_Anim.RatBossIdle_Anim
+[2018.04.17-14.43.22:971][987]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RatBossIdle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.17-14.43.22:991][987]FBXImport: Warning: The following bones are missing from the bind pose:
+Bip001 L Finger0Nub  
+Bip001 R Finger0Nub  
+Bip001 HeadNub  
+Bip001 L Toe01  
+Bip001 L Toe02  
+Bip001 L Toe0Nub  
+Bip001 R Toe0Nub  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.17-14.43.50:447][609]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.17-14.43.50:602][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.17-14.43.50:676][609]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.17-14.43.51:050][609]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.04.17-14.43.51:056][609]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2018.04.17-14.43.51:056][609]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.17-14.44.57:922][456]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.44.57:967][456]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.04.17-14.44.58:101][456]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [2097.01] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 0 Warning(s) [in 178 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2018.04.17-14.44.58:589][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.44.58:659][479]LogBlueprint: Error: [Compiler PersistentLevel.Kitchen] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.04.17-14.44.58:661][479]LogBlueprint: Warning: [Compiler PersistentLevel.Kitchen] [2097.57] Compile of PersistentLevel.Kitchen failed. 1 Fatal Issue(s) 0 Warning(s) [in 26 ms] (/Game/Kitchen.Kitchen:PersistentLevel.Kitchen)
+[2018.04.17-14.44.59:269][479]LogSavePackage: Save=652.41ms
+[2018.04.17-14.44.59:269][479]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen03BD136446852A4F5283B5B5813146C1.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.44.59:273][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.44.59:328][479]LogFileHelpers: Saving map 'Kitchen' took 0.813
+[2018.04.17-14.45.18:056][539]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.45.19:008][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.45.19:693][578]LogSavePackage: Save=662.21ms
+[2018.04.17-14.45.19:693][578]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenF0ACE9654A197256860A93A94B93704B.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.45.19:696][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.45.19:749][578]LogFileHelpers: Saving map 'Kitchen' took 0.818
+[2018.04.17-14.45.22:373][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.45.22:418][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.45.22:418][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.45.22:418][724]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:45:22)
+[2018.04.17-14.45.22:418][724]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.45.22:445][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026866s)
+[2018.04.17-14.45.22:446][724]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.45.22:446][724]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.04.17-14.45.22:446][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.027953s)
+[2018.04.17-14.45.22:467][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.45.22:490][724]LogInit: FAudioDevice initialized.
+[2018.04.17-14.45.22:525][724]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.45.22:535][724]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.45.22
+[2018.04.17-14.45.22:537][724]LogWorld: Bringing up level for play took: 0.010928
+[2018.04.17-14.45.22:537][724]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.45.22:538][724]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.45.22:540][724]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.957
+[2018.04.17-14.45.22:540][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.45.22:571][724]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.45.35:322][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.45.35:359][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.46.02:276][ 74]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.46.02:972][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.46.03:671][ 99]LogSavePackage: Save=672.62ms
+[2018.04.17-14.46.03:671][ 99]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen7D8EFF164CFFD1C7D2A4C190F85F59CC.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.46.03:674][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.46.03:726][ 99]LogFileHelpers: Saving map 'Kitchen' took 0.831
+[2018.04.17-14.46.29:253][608]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.46.30:069][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.46.30:768][640]LogSavePackage: Save=670.37ms
+[2018.04.17-14.46.30:768][640]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen9F36B9C54CA7BD5009525082758AD494.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.46.30:772][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.46.30:824][640]LogFileHelpers: Saving map 'Kitchen' took 0.835
+[2018.04.17-14.46.32:073][708]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.46.32:104][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.46.32:104][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.46.32:104][708]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:46:32)
+[2018.04.17-14.46.32:105][708]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.46.32:125][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020852s)
+[2018.04.17-14.46.32:126][708]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.46.32:126][708]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2018.04.17-14.46.32:127][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.022302s)
+[2018.04.17-14.46.32:144][708]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.46.32:168][708]LogInit: FAudioDevice initialized.
+[2018.04.17-14.46.32:200][708]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.46.32:211][708]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.46.32
+[2018.04.17-14.46.32:213][708]LogWorld: Bringing up level for play took: 0.011961
+[2018.04.17-14.46.32:213][708]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.46.32:214][708]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.46.32:217][708]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.635
+[2018.04.17-14.46.32:218][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.46.32:246][708]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.46.39:882][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.46.39:921][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.46.45:087][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SaltShaker)
+[2018.04.17-14.46.49:388][727]Cmd: TRANSACTION UNDO
+[2018.04.17-14.46.49:388][727]LogEditorTransaction: Undo Move Actors
+[2018.04.17-14.47.02:431][468]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.47.03:101][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.47.03:799][490]LogSavePackage: Save=673.72ms
+[2018.04.17-14.47.03:799][490]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenD7639D0141F9BC2BF73F2BBF29691C77.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.47.03:803][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.47.03:863][490]LogFileHelpers: Saving map 'Kitchen' took 0.837
+[2018.04.17-14.47.07:922][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.47.07:953][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.47.07:954][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.47.07:954][724]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:47:07)
+[2018.04.17-14.47.07:954][724]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.47.07:974][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020042s)
+[2018.04.17-14.47.07:974][724]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.47.07:975][724]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.04.17-14.47.07:975][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.021014s)
+[2018.04.17-14.47.07:993][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.47.08:018][724]LogInit: FAudioDevice initialized.
+[2018.04.17-14.47.08:050][724]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.47.08:061][724]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.47.08
+[2018.04.17-14.47.08:063][724]LogWorld: Bringing up level for play took: 0.011651
+[2018.04.17-14.47.08:063][724]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.47.08:064][724]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.47.08:066][724]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.484
+[2018.04.17-14.47.08:067][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.47.08:098][724]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.47.15:903][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.47.15:944][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.47.21:977][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PepperShaker)
+[2018.04.17-14.47.28:768][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SaltShaker)
+[2018.04.17-14.47.33:263][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PepperShaker)
+[2018.04.17-14.47.35:257][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SaltShaker)
+[2018.04.17-14.47.41:141][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.04.17-14.47.47:434][ 22]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.47.48:121][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.47.48:834][ 44]LogSavePackage: Save=687.58ms
+[2018.04.17-14.47.48:834][ 44]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/KitchenEA6E3944423DC35771A5D2A7F1CC9372.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.47.48:837][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.47.48:891][ 44]LogFileHelpers: Saving map 'Kitchen' took 0.846
+[2018.04.17-14.47.51:957][219]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.47.51:994][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.47.51:994][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.47.51:994][219]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:47:51)
+[2018.04.17-14.47.51:995][219]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.47.52:015][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020722s)
+[2018.04.17-14.47.52:016][219]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.47.52:016][219]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.04.17-14.47.52:016][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.021663s)
+[2018.04.17-14.47.52:035][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.47.52:060][219]LogInit: FAudioDevice initialized.
+[2018.04.17-14.47.52:089][219]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.47.52:098][219]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.47.52
+[2018.04.17-14.47.52:100][219]LogWorld: Bringing up level for play took: 0.009841
+[2018.04.17-14.47.52:100][219]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.47.52:102][219]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.47.52:103][219]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.52
+[2018.04.17-14.47.52:104][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.47.52:134][219]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.48.00:839][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.48.00:874][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.48.02:706][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SaltShaker)
+[2018.04.17-14.48.29:145][350]LogEditorViewport: Clicking on Actor (LMB): EnemyCurrent_C (Enemy2)
+[2018.04.17-14.49.35:796][184]BlueprintLog: New page: Compile Kitchen
+[2018.04.17-14.49.36:529][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kitchen" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.17-14.49.37:254][210]LogSavePackage: Save=699.97ms
+[2018.04.17-14.49.37:254][210]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/Kitchen7A96A8A24276D70558E870A3C03ABE4C.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap'
+[2018.04.17-14.49.37:258][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/Kitchen.umap
+[2018.04.17-14.49.37:314][210]LogFileHelpers: Saving map 'Kitchen' took 0.865
+[2018.04.17-14.49.41:536][440]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.17-14.49.41:567][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.49.41:567][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.17-14.49.41:567][440]PIE: New page: PIE session: Kitchen (17 Apr 2018 16:49:41)
+[2018.04.17-14.49.41:568][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Kitchen
+[2018.04.17-14.49.41:589][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021487s)
+[2018.04.17-14.49.41:590][440]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-14.49.41:590][440]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.04.17-14.49.41:590][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kitchen.Kitchen to /Game/UEDPIE_0_Kitchen.Kitchen (0.022647s)
+[2018.04.17-14.49.41:610][440]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-14.49.41:634][440]LogInit: FAudioDevice initialized.
+[2018.04.17-14.49.41:669][440]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-14.49.41:679][440]LogWorld: Bringing World /Game/UEDPIE_0_Kitchen.Kitchen up for play (max tick rate 60) at 2018.04.17-15.49.41
+[2018.04.17-14.49.41:680][440]LogWorld: Bringing up level for play took: 0.010550
+[2018.04.17-14.49.41:680][440]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.49.41:681][440]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-14.49.41:683][440]PIE: Play in editor start time for /Game/UEDPIE_0_Kitchen 0.1
+[2018.04.17-14.49.41:683][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.49.41:713][440]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-14.49.53:186][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.49.53:227][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kitchen.Kitchen:PersistentLevel' has LevelScriptBlueprint '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen' with GeneratedClass '/Game/Kitchen.Kitchen_C' with ClassGeneratedBy '/Game/Kitchen.Kitchen:PersistentLevel.Kitchen'
+[2018.04.17-14.51.25:898][433]BlueprintLog: New page: Compile RatBossPH_Blueprint
+[2018.04.17-14.51.26:469][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RatBossPH_Blueprint" FILE="../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/RatBossPH_Blueprint.uasset" SILENT=true
+[2018.04.17-14.51.26:506][442]LogSavePackage: Save=18.69ms
+[2018.04.17-14.51.26:506][442]LogSavePackage: Moving '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Saved/RatBossPH_Blueprint962AB7B24A832EFBBD4E85B821DB9E60.tmp' to '../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/RatBossPH_Blueprint.uasset'
+[2018.04.17-14.51.26:509][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cormac/Desktop/StitchesAndBones/Content/RatBossPH_Blueprint.uasset
+[2018.04.17-14.51.39:374][176]LogUObjectBase: Warning: Object is not registered
+[2018.04.17-14.51.39:880][176]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.506 s
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: 
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: Stack: 
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000053A2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000000514123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000000515B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000F98832B6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000FFE603AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000FB613EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000FB4A74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000FB4AABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000FB5D8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x0000000003457397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000000345CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x0000000003699913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000034B3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000000348B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000000347D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x0000000018A0E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x0000000018A01A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x0000000018A103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x00000000189FD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004B0FB85D USER32.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004B0FB1EF USER32.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x0000000018A11516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004D3350C8 UE4Editor.exe!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004D345430 UE4Editor.exe!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004D3454AA UE4Editor.exe!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004D352379 UE4Editor.exe!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004D353D57 UE4Editor.exe!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004B331FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: [Callstack] 0x000000004C62F061 ntdll.dll!UnknownFunction []
+[2018.04.17-14.51.39:880][176]LogOutputDevice: Error: 
+[2018.04.17-14.51.39:891][176]LogStats:                SubmitErrorReport -  0.000 s
