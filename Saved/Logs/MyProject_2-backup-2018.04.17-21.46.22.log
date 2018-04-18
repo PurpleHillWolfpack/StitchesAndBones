@@ -1,0 +1,703 @@
+﻿Log file open, 04/17/18 21:45:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(269246231) SRandInit(269246231).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177587
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GFur/Binaries/Win64/UE4Editor-GFur.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GFur/Binaries/Win64/UE4Editor-GFurEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin GFur
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Marketplace/GFur/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Marketplace/GFur/Shaders to virtual directory /Plugin/GFur
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/Kitchen -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.17-20.45.58:991][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-20.45.58:992][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.17-20.45.58:995][  0]LogInit: Computer: MSI
+[2018.04.17-20.45.58:995][  0]LogInit: User: Cormac
+[2018.04.17-20.45.58:996][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.17-20.45.58:996][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.04.17-20.45.58:996][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.17-20.45.58:996][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.17-20.45.58:996][  0]LogMemory: Process Physical Memory: 276.79 MB used, 276.79 MB peak
+[2018.04.17-20.45.58:996][  0]LogMemory: Process Virtual Memory: 278.05 MB used, 278.05 MB peak
+[2018.04.17-20.45.58:996][  0]LogMemory: Physical Memory: 30054.54 MB used,  2670.79 MB free, 32725.33 MB total
+[2018.04.17-20.45.58:996][  0]LogMemory: Virtual Memory: 686.46 MB used,  2670.79 MB free, 134217728.00 MB total
+[2018.04.17-20.45.59:154][  0]LogInit: Using OS detected language (en-US).
+[2018.04.17-20.45.59:154][  0]LogInit: Using OS detected locale (en-GB).
+[2018.04.17-20.45.59:156][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.17-20.45.59:612][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.17-20.45.59:668][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.17-20.45.59:668][  0]LogD3D11RHI:       8079/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.17-20.45.59:670][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.17-20.45.59:670][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.17-20.45.59:670][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.17-20.45.59:679][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.17-20.45.59:679][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.17-20.45.59:679][  0]LogWindows: EnumDisplayDevices:
+[2018.04.17-20.45.59:679][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.17-20.45.59:679][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-20.45.59:679][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-20.45.59:679][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-20.45.59:679][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.17-20.45.59:679][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.17-20.45.59:679][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.17-20.45.59:679][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.17-20.45.59:679][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.04.17-20.45.59:714][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.17-20.45.59:738][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.17-20.45.59:784][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Cormac/Desktop/StitchesAndBones/Intermediate/Shaders/WorkingDirectory/14996/).
+[2018.04.17-20.45.59:784][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cormac/AppData/Local/Temp/UnrealShaderWorkingDir/95C6922145DCA8BB9B03699D79E81BD4/'.
+[2018.04.17-20.45.59:784][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.17-20.46.00:644][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.17-20.46.00:698][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.17-20.46.00:755][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.17-20.46.00:807][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.17-20.46.00:807][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.17-20.46.01:298][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.17-20.46.01:366][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.17-20.46.01:366][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cormac/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.17-20.46.01:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.17-20.46.01:366][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.17-20.46.01:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cormac/Desktop/StitchesAndBones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.17-20.46.01:366][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.17-20.46.01:383][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.17-20.46.01:395][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cormac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.17-20.46.01:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.17-20.46.01:404][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.17-20.46.01:405][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-20.46.01:405][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-20.46.01:672][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2018.04.17-20.46.01:693][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.020376 seconds
+[2018.04.17-20.46.01:789][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-20.46.02:120][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.17-20.46.02:168][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.17-20.46.02:168][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.17-20.46.02:168][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.17-20.46.02:168][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.17-20.46.02:168][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.17-20.46.02:194][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.04.17-20.46.02:405][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.17-20.46.02:405][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.17-20.46.02:405][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.17-20.46.02:728][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.17-20.46.04:142][  0]LogMoviePlayer: Initializing movie player
+[2018.04.17-20.46.04:195][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.17-20.46.04:457][  0]LogCollectionManager: Loaded 0 collections in 0.001795 seconds
+[2018.04.17-20.46.04:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Saved/Collections/' took 0.01s
+[2018.04.17-20.46.04:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Developers/Cormac/Collections/' took 0.01s
+[2018.04.17-20.46.04:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Collections/' took 0.01s
+[2018.04.17-20.46.04:508][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.17-20.46.04:508][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.04.17-20.46.04:703][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `6FFD3F76433F3DC912E1FCACCA4C320B` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.04.17-20.46.04:703][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.04.17-20.46.04:798][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.04.17-20.46.04:827][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.17-20.46.04:869][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.17-20.46.05:334][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.17-20.46.05:334][  0]SourceControl: Source control is disabled
+[2018.04.17-20.46.05:334][  0]SourceControl: Source control is disabled
+[2018.04.17-20.46.05:391][  0]SourceControl: Source control is disabled
+[2018.04.17-20.46.05:788][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.17-20.46.06:048][  0]LogOcInput: OculusInput pre-init called
+[2018.04.17-20.46.06:217][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.04.17-20.46.06:516][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.04.17-20.46.06:516][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `45C9EACB42A1130439BB5FB804347D99` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.04.17-20.46.06:518][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/NewDlgDialogue.NewDlgDialogue`
+[2018.04.17-20.46.06:518][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `E34933F8479EEE01646207892F653DAE` for Dialogue = `/Game/NewDlgDialogue.NewDlgDialogue` because of new created Dialogue.
+[2018.04.17-20.46.06:518][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.04.17-20.46.06:528][  0]LogUObjectArray: 39727 objects as part of root set at end of initial load.
+[2018.04.17-20.46.06:528][  0]LogUObjectAllocator: 8509296 out of 0 bytes used by permanent object pool.
+[2018.04.17-20.46.06:528][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.17-20.46.06:628][  0]LogEngine: Initializing Engine...
+[2018.04.17-20.46.06:630][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.17-20.46.06:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.17-20.46.06:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.17-20.46.06:812][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.17-20.46.06:851][  0]LogInit: FAudioDevice initialized.
+[2018.04.17-20.46.06:868][  0]LogInit: Texture streaming: Enabled
+[2018.04.17-20.46.06:883][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.17-20.46.07:222][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.17-20.46.07:262][  0]LogInit: Display: Game Engine Initialized.
+[2018.04.17-20.46.07:262][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.17-20.46.07:429][  0]LogInit: Display: Starting Game.
+[2018.04.17-20.46.07:429][  0]LogNet: Browse: /Game/Kitchen?Name=Player
+[2018.04.17-20.46.07:429][  0]LogLoad: LoadMap: /Game/Kitchen?Name=Player
+[2018.04.17-20.46.08:427][  0]LogMaterial: Missing cached shader map for material Wood_InterlockingFloor, compiling. 
+[2018.04.17-20.46.08:428][  0]LogMaterial: Warning: C:\Users\Cormac\Desktop\StitchesAndBones\Content\GTFreeMaterials\Materials\Wood_InterlockingFloor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.17-20.46.08:428][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.17-20.46.08:612][  0]LogMaterial: Missing cached shader map for material Material__39, compiling. 
+[2018.04.17-20.46.08:612][  0]LogMaterial: Warning: C:\Users\Cormac\Desktop\StitchesAndBones\Content\Level_Assets\Environments\Kitchen\Materials\Material__39.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.17-20.46.08:612][  0]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Level_Assets/Environments/Kitchen/CerealBoxMap.CerealBoxMap
+[2018.04.17-20.46.08:745][  0]LogAIModule: Creating AISystem for world Kitchen
+[2018.04.17-20.46.08:745][  0]LogLoad: Game class is 'MyGame_C'
+[2018.04.17-20.46.08:775][  0]LogWorld: Bringing World /Game/Kitchen.Kitchen up for play (max tick rate 0) at 2018.04.17-21.46.08
+[2018.04.17-20.46.08:778][  0]LogWorld: Bringing up level for play took: 0.031604
+[2018.04.17-20.46.08:778][  0]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.08:779][  0]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.08:783][  0]LogLoad: Took 1.353903 seconds to LoadMap(/Game/Kitchen)
+[2018.04.17-20.46.08:984][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.04.17-20.46.08:984][  0]LogLoad: (Engine Initialization) Total time: 12.17 seconds
+[2018.04.17-20.46.08:984][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.17-20.46.08:984][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.17-20.46.08:984][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.17-20.46.09:003][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.17-20.46.09:014][  1]LogAudio: Warning: Detected orphaned looping sound 'cavemusic'.
+[2018.04.17-20.46.09:083][  1]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:099][  2]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:115][  3]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:131][  4]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:147][  5]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:163][  6]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:179][  7]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:195][  8]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:211][  9]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:227][ 10]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:244][ 11]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:260][ 12]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:276][ 13]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:292][ 14]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:308][ 15]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:324][ 16]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:340][ 17]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:356][ 18]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:373][ 19]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:389][ 20]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:405][ 21]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:421][ 22]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:437][ 23]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:453][ 24]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:470][ 25]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:486][ 26]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:502][ 27]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:518][ 28]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:534][ 29]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:550][ 30]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:566][ 31]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:582][ 32]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:598][ 33]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:614][ 34]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:631][ 35]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:647][ 36]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:663][ 37]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:679][ 38]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:695][ 39]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:711][ 40]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:728][ 41]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:744][ 42]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:760][ 43]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:776][ 44]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:792][ 45]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:808][ 46]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:824][ 47]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:840][ 48]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:856][ 49]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:873][ 50]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:889][ 51]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:905][ 52]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:921][ 53]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:937][ 54]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:954][ 55]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:969][ 56]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.09:986][ 57]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:002][ 58]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:018][ 59]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:034][ 60]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:050][ 61]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:066][ 62]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:082][ 63]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:099][ 64]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:115][ 65]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:131][ 66]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:147][ 67]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:163][ 68]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:179][ 69]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:195][ 70]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:211][ 71]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:228][ 72]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:244][ 73]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:260][ 74]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:276][ 75]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:292][ 76]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:308][ 77]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:324][ 78]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:340][ 79]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:356][ 80]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:373][ 81]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:389][ 82]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:405][ 83]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:421][ 84]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:437][ 85]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:454][ 86]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:469][ 87]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:486][ 88]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:502][ 89]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:518][ 90]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:534][ 91]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:550][ 92]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:566][ 93]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:582][ 94]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:599][ 95]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:615][ 96]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:631][ 97]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:647][ 98]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:663][ 99]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:679][100]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:695][101]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:711][102]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:727][103]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:743][104]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:760][105]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:776][106]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:792][107]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:808][108]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:825][109]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:841][110]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:857][111]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:873][112]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:889][113]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:905][114]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:921][115]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:937][116]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:953][117]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:970][118]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.10:986][119]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:002][120]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:018][121]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:034][122]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:050][123]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:066][124]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:082][125]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:098][126]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:115][127]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:131][128]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:147][129]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:163][130]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:179][131]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:195][132]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:211][133]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:227][134]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:244][135]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:260][136]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:276][137]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:292][138]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:308][139]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:325][140]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:341][141]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:357][142]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:373][143]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:389][144]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:405][145]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:421][146]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:437][147]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:453][148]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:469][149]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:487][150]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:502][151]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:518][152]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:534][153]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:550][154]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:566][155]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:582][156]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:598][157]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:615][158]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:631][159]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:647][160]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:663][161]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:679][162]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:695][163]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:711][164]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:727][165]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:744][166]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:760][167]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:776][168]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:792][169]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:808][170]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:824][171]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:841][172]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:857][173]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:873][174]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:889][175]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:905][176]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:921][177]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:937][178]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:954][179]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:970][180]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.11:986][181]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.12:002][182]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.12:018][183]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.12:034][184]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.12:050][185]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.12:066][186]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.17-20.46.12:108][187]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.17-20.46.12:112][187]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.17-20.46.12:114][187]LogEngine: All Windows Closed
+[2018.04.17-20.46.12:114][187]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.04.17-20.46.12:634][188]LogExit: Preparing to exit.
+[2018.04.17-20.46.12:634][188]LogMoviePlayer: Shutting down movie player
+[2018.04.17-20.46.12:918][188]LogExit: Game engine shut down
+[2018.04.17-20.46.12:984][188]LogExit: Object subsystem successfully closed.
+[2018.04.17-20.46.12:998][188]LogD3D11RHI: Shutdown
+[2018.04.17-20.46.12:998][188]LogD3D11RHI: CleanupD3DDevice
+[2018.04.17-20.46.13:001][188]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (320)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module SequenceRecorder (318)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module AutomationController (316)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module AutomationWorker (314)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module AIModule (312)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module AITestSuite (311)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (308)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (306)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (304)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (302)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module CharacterAI (300)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module SessionServices (298)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (296)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (294)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module MovieScene (292)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module GeometryCache (290)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (289)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (286)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module PortalServices (284)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module PortalRpc (282)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module MessagingRpc (280)
+[2018.04.17-20.46.13:010][188]LogModuleManager: Shutting down and abandoning module ProfilerService (278)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module TaskGraph (276)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module DlgSystemEditor (274)
+[2018.04.17-20.46.13:100][188]LogDlgSystemEditor: Verbose: Stopped DlgSystemEditorModule
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module SteamVRController (272)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (270)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module OculusInput (268)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (266)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (264)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module CableComponent (262)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (260)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module AndroidPermission (258)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module MediaCompositing (252)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module HTML5Networking (250)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (248)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (244)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module UObjectPlugin (242)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (240)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (238)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module SourceControl (237)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (234)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (232)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module PhysXVehicles (230)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (228)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (226)
+[2018.04.17-20.46.13:100][188]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (224)
+[2018.04.17-20.46.13:101][188]LogModuleManager: Shutting down and abandoning module UdpMessaging (222)
+[2018.04.17-20.46.13:201][188]LogModuleManager: Shutting down and abandoning module TcpMessaging (220)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module SubstanceCore (218)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module DlgSystem (216)
+[2018.04.17-20.46.13:833][188]LogDlgSystem: Verbose: Stopped DlgSystemModule
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module GameplayDebugger (215)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module FacialAnimation (210)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (208)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module GraphEditor (207)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module ContentBrowser (205)
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module CollectionManager (204)
+[2018.04.17-20.46.13:833][188]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Collections/' was aborted.
+[2018.04.17-20.46.13:833][188]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Content/Developers/Cormac/Collections/' was aborted.
+[2018.04.17-20.46.13:833][188]LogDirectoryWatcher: A directory notification for 'C:/Users/Cormac/Desktop/StitchesAndBones/Saved/Collections/' was aborted.
+[2018.04.17-20.46.13:833][188]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (203)
+[2018.04.17-20.46.13:834][188]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (198)
+[2018.04.17-20.46.13:834][188]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.04.17-20.46.13:834][188]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (194)
+[2018.04.17-20.46.13:834][188]LogModuleManager: Shutting down and abandoning module WmfMedia (192)
+[2018.04.17-20.46.13:835][188]LogModuleManager: Shutting down and abandoning module ImgMedia (190)
+[2018.04.17-20.46.13:835][188]LogModuleManager: Shutting down and abandoning module PacketHandler (188)
+[2018.04.17-20.46.13:835][188]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (186)
+[2018.04.17-20.46.13:835][188]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (184)
+[2018.04.17-20.46.13:835][188]LogModuleManager: Shutting down and abandoning module MediaAssets (182)
+[2018.04.17-20.46.13:835][188]LogModuleManager: Shutting down and abandoning module Media (181)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.04.17-20.46.13:841][188]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.04.17-20.46.13:842][188]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.04.17-20.46.13:842][188]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.04.17-20.46.13:842][188]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.04.17-20.46.13:842][188]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.04.17-20.46.13:842][188]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module Core (130)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module LevelSequence (128)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module KismetCompiler (126)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module MeshUtilities (124)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (123)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (122)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (121)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (119)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (117)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module MaterialBaking (113)
+[2018.04.17-20.46.13:844][188]LogModuleManager: Shutting down and abandoning module DerivedDataCache (108)
+[2018.04.17-20.46.13:896][188]LogDerivedDataCache: Shutdown
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2018.04.17-20.46.13:896][188]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2018.04.17-20.46.13:897][188]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2018.04.17-20.46.13:897][188]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2018.04.17-20.46.13:908][188]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2018.04.17-20.46.13:909][188]LogModuleManager: Shutting down and abandoning module GFur (38)
+[2018.04.17-20.46.13:909][188]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.17-20.46.13:909][188]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.17-20.46.13:909][188]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.17-20.46.13:909][188]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.17-20.46.13:910][188]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.17-20.46.13:912][188]LogExit: Exiting.
+[2018.04.17-20.46.13:913][188]Log file closed, 04/17/18 21:46:13
